@@ -1,55 +1,55 @@
-# Combate
+# Combat
 
-El sistema de combate de Xindeler es en tiempo real, basado en habilidades activas, posicionamiento y mecánicas de estado que crean profundidad táctica.
+Xindeler's combat system is real-time, based on active abilities, positioning and status mechanics that create tactical depth.
 
-## Mecánicas fundamentales
+## Core Mechanics
 
-### Energía
-La energía es el recurso principal para ejecutar habilidades activas. Se regenera pasivamente y puede aumentarse con pasivos raciales (Human +3% recuperación, Danari +5% máximo) o habilidades de clase.
+### Energy
+Energy is the primary resource for executing active abilities. It regenerates passively and can be increased with racial passives (Human +3% recovery, Danari +5% maximum) or class abilities.
 
 ### Combos
-Algunas habilidades requieren o generan **combo points**. Ejecutar habilidades en el orden correcto maximiza el daño y desencadena efectos adicionales.
+Some abilities require or generate **combo points**. Executing abilities in the correct order maximizes damage and triggers additional effects.
 
 ### Poise
-El sistema de **poise** determina cuándo un personaje puede ser interrumpido. Ataques pesados o acumulación de daño suficiente rompen el poise del objetivo, interrumpiendo su animación actual. El Draugr tiene resistencia a CC, que indirectamente protege su poise.
+The **Poise** system determines when a character can be interrupted. Heavy attacks or sufficient damage accumulation breaks the target's Poise, interrupting their current animation. The Draugr has CC resistance, which indirectly protects their Poise.
 
 ### Parry
-Bloquear en el momento exacto de un ataque activa un **parry**, que reduce el daño a cero y puede abrir ventanas de contraataque. El Warrior tiene habilidades específicas para aprovechar el parry (DefensiveRiposte).
+Blocking at the exact moment of an attack activates a **parry**, which reduces damage to zero and can open counterattack windows. The Warrior has specific abilities to capitalize on parries (DefensiveRiposte).
 
 ### Backstab
-Atacar a un enemigo **por la espalda** otorga una bonificación de precisión. El Rogue es la clase más optimizada para aprovechar esta mecánica, pero cualquier clase puede ejecutar backstabs en el posicionamiento correcto.
+Attacking an enemy **from behind** grants a precision bonus. The Rogue is the most optimized class to exploit this mechanic, but any class can execute backstabs with correct positioning.
 
-## Buffs y debuffs
+## Buffs and Debuffs
 
-### Buffs positivos (selección)
+### Positive Buffs (selection)
 
-| Nombre | Efecto |
+| Name | Effect |
 |--------|--------|
-| Regeneration | Recupera salud por tiempo |
-| Hastened | Aumenta velocidad de movimiento y ataque |
-| Fortitude | Aumenta reducción de daño (Stoneblood del Dwarf) |
-| Frenzied | Aumenta daño de ataque |
-| Lifesteal | Roba porcentaje de daño como salud |
-| Invulnerability | Inmunidad temporal a daño |
-| Fury | Aumenta daño crítico |
-| Berserk | Modo berserker: daño aumentado, defensa reducida |
+| Regeneration | Recovers health over time |
+| Hastened | Increases movement and attack speed |
+| Fortitude | Increases damage reduction (Dwarf's Stoneblood) |
+| Frenzied | Increases attack damage |
+| Lifesteal | Steals percentage of damage as health |
+| Invulnerability | Temporary immunity to damage |
+| Fury | Increases critical damage |
+| Berserk | Berserker mode: increased damage, reduced defense |
 
-### Debuffs (selección)
+### Debuffs (selection)
 
-| Nombre | Efecto |
+| Name | Effect |
 |--------|--------|
-| Burning | Daño por tiempo de fuego |
-| Bleeding | Daño por tiempo de sangrado |
-| Frozen | Ralentización severa o inmovilización |
-| Crippled | Ralentización de movimiento |
-| Poisoned | Daño por tiempo de veneno |
-| Terrified | Huida, incapaz de atacar (efecto del Mage) |
-| Charmed | No ataca al lanzador (efecto del Cleric) |
+| Burning | Fire damage over time |
+| Bleeding | Bleed damage over time |
+| Frozen | Severe slow or immobilization |
+| Crippled | Movement speed slow |
+| Poisoned | Poison damage over time |
+| Terrified | Flight, unable to attack (Mage effect) |
+| Charmed | Does not attack the caster (Cleric effect) |
 
-## Proyectiles y área de efecto
+## Projectiles and Area of Effect
 
-Los proyectiles tienen cooldowns validados en el servidor — no es posible disparar más rápido de lo que el servidor permite. Los ataques de área tienen hitboxes precisas y telegráficas visibles.
+Projectiles have server-validated cooldowns — it is not possible to fire faster than the server allows. Area attacks have precise and visible telegraphed hitboxes.
 
-## Muerte y respawn
+## Death and Respawn
 
-Al morir, el personaje respawnea en el punto de spawn más cercano. No hay pérdida permanente de items o niveles.
+Upon death, the character respawns at the nearest spawn point. There is no permanent loss of items or levels.

@@ -1,72 +1,72 @@
 # Mage
 
-El Mage canaliza las fuerzas arcanas para destruir, manipular y controlar el campo de batalla. La clase más compleja de dominar y la más poderosa en manos expertas.
+The Mage channels arcane forces to destroy, manipulate and control the battlefield. The most complex class to master and the most powerful in skilled hands.
 
-## Resumen
+## Overview
 
 | | |
 |---|---|
-| **Rol** | Daño mágico / Control |
-| **Dificultad** | ⭐⭐⭐ Alta |
-| **Fuente mágica** | Arcana |
-| **Armas principales** | Tomo, foco, bastón de fuego |
-| **Equipamiento inicial** | Túnicas moradas |
+| **Role** | Magic damage / Control |
+| **Difficulty** | ⭐⭐⭐ High |
+| **Magic source** | Arcana |
+| **Main weapons** | Tome, focus, fire staff |
+| **Starting equipment** | Purple robes |
 
 ## Playstyle
 
-El Mage opera a distancia media-larga, combinando hechizos de daño masivo con efectos de control de masas. Sus escuelas de magia son las más variadas del juego: desde la manipulación de la gravedad y el tiempo hasta la magia de sangre más oscura.
+The Mage operates at medium-long range, combining massive damage spells with crowd control effects. Its schools of magic are the most varied in the game: from manipulation of gravity and time to the darkest blood magic.
 
-## Escuelas de magia disponibles
+## Available Schools of Magic
 
-### Evocación (Arcana)
-La magia de destrucción pura.
+### Evocation (Arcana)
+Pure destruction magic.
 
-**Hechizo firma:** **Shatterburst** — explosión de área en el punto objetivo, con un anillo telegráfico visible antes de detonar. Devastador contra grupos de enemigos.
+**Signature spell:** **Shatterburst** — area explosion at the target point, with a visible telegraphed ring before detonating. Devastating against groups of enemies.
 
 ### Hemomancy (Arcana)
-La magia de sangre. Una de las escuelas más originales y profundas de Xindeler, con 21 hechizos que van del nivel 0 al 9.
+Blood magic. One of the most original and deep schools in Xindeler, with 21 spells ranging from level 0 to 9.
 
-Algunos hechizos: Bloodlet, Crimson Brand, Hemal Spike, Sanguine Ward, Leeching Grasp, Bloodboil, Exsanguinate, Crimson Apotheosis.
+Some spells: Bloodlet, Crimson Brand, Hemal Spike, Sanguine Ward, Leeching Grasp, Bloodboil, Exsanguinate, Crimson Apotheosis.
 
-> La Hemomancy tiene mecánicas propias que la diferencian fundamentalmente de otras escuelas. Se revela más a medida que el sistema madura.
+> Hemomancy has its own mechanics that fundamentally differentiate it from other schools. More is revealed as the system matures.
 
 ### Axiomancy (Arcana)
-Magia de gravedad, tiempo y espacio — 15 hechizos del nivel 0 al 9.
+Magic of gravity, time and space — 15 spells from level 0 to 9.
 
-Algunos hechizos: Magnify Gravity, Gravity Sinkhole, Temporal Shunt, Gravity Fissure, Dark Star, Reality Break, Ravenous Void.
+Some spells: Magnify Gravity, Gravity Sinkhole, Temporal Shunt, Gravity Fissure, Dark Star, Reality Break, Ravenous Void.
 
-> La Axiomancy manipula las leyes fundamentales del mundo. Sus efectos son únicos en el sistema de magia de Xindeler.
+> Axiomancy manipulates the fundamental laws of the world. Its effects are unique in Xindeler's magic system.
 
-### Nigromancia (Arcana)
-Control y debilitamiento.
+### Necromancy (Arcana)
+Control and debilitation.
 
-**Hechizo firma:** **Dread Whisper** — aplica el efecto Terrified, que ralentiza y enruta a NPCs.
+**Signature spell:** **Dread Whisper** — applies the Terrified effect, which slows and routes NPCs.
 
-### Encantamiento — Devoción (Divina)
-Acceso a hechizos de control mental.
+### Enchantment — Devotion (Divine)
+Access to mind control spells.
 
-**Hechizo disponible:** **Censure** — aplica Charmed: el NPC afectado no ataca al Mage mientras dure el efecto.
+**Available spell:** **Censure** — applies Charmed: the affected NPC does not attack the Mage while the effect lasts.
 
-### Abjuración
-Magia defensiva de alto nivel.
+### Abjuration
+High-level defensive magic.
 
-**Hechizo disponible (nivel 6):** **Antimagic Field** — una de las habilidades más poderosas del sistema.
+**Available spell (level 6):** **Antimagic Field** — one of the most powerful abilities in the system.
 
-## Hechizos básicos por arma
+## Basic Spells by Weapon
 
-| Arma | Básico | Hechizo firma |
+| Weapon | Basic | Signature spell |
 |------|--------|--------------|
-| Tomo | Cinderbolt | Shatterburst |
-| Foco | Thornspit | Dread Whisper |
-| Bastón | (fuego) | FireShockwave, Pyroclasm |
+| Tome | Cinderbolt | Shatterburst |
+| Focus | Thornspit | Dread Whisper |
+| Staff | (fire) | FireShockwave, Pyroclasm |
 
-## Nuevos efectos de estado (Mage)
+## New Status Effects (Mage)
 
-- **Terrified** — el objetivo huye y no puede atacar
-- **Hollowtouched** — acumula stacks que reducen la salud máxima
+- **Terrified** — target flees and cannot attack
+- **Hollowtouched** — accumulates stacks that reduce maximum health
 
-## Consejos
+## Tips
 
-- La Hemomancy y la Axiomancy son las escuelas más complejas. Empezá con Evocación para aprender el ritmo del combate mágico.
-- El Mage es más frágil que otras clases. Mantené distancia y usá el control de masas para sobrevivir.
-- **Elf** es la raza más popular para Mage por el +3% velocidad de movimiento, que facilita el kiting.
+- Hemomancy and Axiomancy are the most complex schools. Start with Evocation to learn the rhythm of magical combat.
+- The Mage is more fragile than other classes. Keep your distance and use crowd control to survive.
+- **Elf** is the most popular race for Mage because of the +3% movement speed, which makes kiting easier.

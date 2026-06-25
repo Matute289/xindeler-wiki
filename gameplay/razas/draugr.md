@@ -1,24 +1,24 @@
 # Draugr
 
-Los Draugr son seres entre la vida y la muerte, con una resistencia sobrenatural al control de masas que los hace difíciles de inmovilizar en combate.
+The Draugr are beings between life and death, with a supernatural resistance to crowd control that makes them difficult to immobilize in combat.
 
 | | |
 |---|---|
-| **Pasivo** | +10% resistencia a control de masas (CC) |
-| **Habilidad innata** | Gravechill |
+| **Passive** | +10% crowd control (CC) resistance |
+| **Innate ability** | Gravechill |
 
 ## Gravechill
 
-Al activarla, el Draugr libera un burst de frío que aplica **Frozen** a los enemigos cercanos, ralentizándolos o inmovilizándolos brevemente. Una combinación de herramienta de escape y control de masas ofensivo.
+When activated, the Draugr releases a burst of cold that applies **Frozen** to nearby enemies, slowing or briefly immobilizing them. A combination of escape tool and offensive crowd control.
 
-## Resistencia a CC
+## CC Resistance
 
-El pasivo del +10% de resistencia a CC es uno de los más únicos del juego. Reduce la duración de efectos como Frozen, Crippled, Ensnared y otros, haciendo al Draugr significativamente más difícil de controlar en PvP y en encuentros con múltiples enemigos.
+The Draugr's +10% CC resistance passive is one of the most unique in the game. It reduces the duration of effects like Frozen, Crippled, Ensnared and others, making the Draugr significantly harder to control in PvP and encounters with multiple enemies.
 
-## Sinergia con clases
+## Class Synergy
 
-**Warrior + Draugr** crea un combatiente de primera línea casi imposible de inmovilizar. **Mage + Draugr** permite resistir los controles de masas enemigos mientras se canaliza magia.
+**Warrior + Draugr** creates a frontline combatant that is nearly impossible to immobilize. **Mage + Draugr** allows resisting enemy crowd controls while channeling magic.
 
 ## Lore
 
-*Los Draugr son un pueblo que cruzó un umbral que la mayoría de los mortales no puede cruzar y regresar. No son ni vivos ni muertos — son algo diferente. Su presencia inquieta a las otras razas, pero su lealtad, una vez ganada, es absoluta. Tienen su propia relación con la muerte que ninguna otra raza comprende del todo.*
+*The Draugr are a people who crossed a threshold that most mortals cannot cross and return from. They are neither living nor dead — they are something different. Their presence unsettles other races, but their loyalty, once earned, is absolute. They have their own relationship with death that no other race fully understands.*

@@ -1,20 +1,20 @@
 # Elf
 
-Los Elfos son elegantes, veloces y longevos. Su afinidad natural con la magia y el movimiento los hace ideales para clases que requieren movilidad o cadencia de hechizos.
+Elves are elegant, swift and long-lived. Their natural affinity with magic and movement makes them ideal for classes that require mobility or spell cadence.
 
 | | |
 |---|---|
-| **Pasivo** | +3% velocidad de movimiento |
-| **Habilidad innata** | Fleetness |
+| **Passive** | +3% movement speed |
+| **Innate ability** | Fleetness |
 
 ## Fleetness
 
-Al activarla, el Elf recibe un burst temporal adicional de velocidad de movimiento. Ideal para posicionamiento rápido, escape o persecución.
+When activated, the Elf receives an additional temporary burst of movement speed. Ideal for quick positioning, escape or pursuit.
 
-## Sinergia con clases
+## Class Synergy
 
-La velocidad extra es más valiosa para clases que necesitan mantener distancia o reposicionarse constantemente: **Mage** y **Rogue** son las combinaciones más populares.
+The extra speed is most valuable for classes that need to maintain distance or reposition constantly: **Mage** and **Rogue** are the most popular combinations.
 
 ## Lore
 
-*Los Elfos llegaron al mundo antes que la mayoría de las razas mortales. Guardianes de conocimientos ancestrales, habitan bosques profundos y ciudades que otros pueblos raramente ven. Su relación con el Veil — la fuente de toda magia arcana — es más instintiva que aprendida.*
+*Elves arrived in the world before most mortal races. Guardians of ancestral knowledge, they inhabit deep forests and cities that other peoples rarely see. Their relationship with the Veil — the source of all arcane magic — is more instinctive than learned.*

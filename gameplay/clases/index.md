@@ -1,36 +1,36 @@
-# Clases
+# Classes
 
-Las clases en Xindeler definen tu rol de combate, las armas que podés usar, las habilidades especiales disponibles y el equipamiento inicial.
+Classes in Xindeler define your combat role, the weapons you can use, the special abilities available and your starting equipment.
 
-## Clases activas
+## Active Classes
 
-Actualmente hay **4 clases completamente implementadas** con skill trees completos y equipamiento de inicio:
+There are currently **4 fully implemented classes** with complete skill trees and starting equipment:
 
-| Clase | Rol | Dificultad | Fuente mágica |
+| Class | Role | Difficulty | Magic source |
 |-------|-----|-----------|---------------|
-| [Warrior](/gameplay/clases/warrior) | Daño físico / Tanque | ⭐⭐ Media | — |
-| [Mage](/gameplay/clases/mage) | Daño mágico | ⭐⭐⭐ Alta | Arcana |
-| [Cleric](/gameplay/clases/cleric) | Soporte / Sanación | ⭐⭐ Media | Divina |
-| [Rogue](/gameplay/clases/rogue) | Daño / Movilidad | ⭐⭐⭐ Alta | — |
+| [Warrior](/gameplay/clases/warrior) | Physical damage / Tank | ⭐⭐ Medium | — |
+| [Mage](/gameplay/clases/mage) | Magic damage | ⭐⭐⭐ High | Arcana |
+| [Cleric](/gameplay/clases/cleric) | Support / Healing | ⭐⭐ Medium | Divine |
+| [Rogue](/gameplay/clases/rogue) | Damage / Mobility | ⭐⭐⭐ High | — |
 
-## Clases en desarrollo
+## Classes in Development
 
-Las siguientes clases están planificadas y algunas tienen sistemas parcialmente implementados:
+The following classes are planned and some have partially implemented systems:
 
 **Barbarian · Sorcerer · Warlock · Bard · Paladin · Druid · Ranger · Monk · Artificer · BloodSlayer**
 
-> Estas clases aparecerán como opciones en el selector de personaje pero sus skill trees estarán vacíos hasta que se completen en futuras fases del desarrollo.
+> These classes will appear as options in the character selector but their skill trees will be empty until completed in future development phases.
 
-## Cómo funcionan las clases
+## How Classes Work
 
-### Skill trees
-Cada clase tiene uno o más árboles de habilidades. Los puntos se obtienen al subir de nivel y se gastan para desbloquear habilidades activas y pasivas.
+### Skill Trees
+Each class has one or more skill trees. Points are earned by leveling up and spent to unlock active and passive abilities.
 
-### Restricciones de equipamiento
-Los items pueden requerir una clase específica. Un Warrior no puede equipar un Tomo de Mage, por ejemplo. Esto se indica con el item atenuado y un tooltip de requisito.
+### Equipment Restrictions
+Items may require a specific class. A Warrior cannot equip a Mage's Tome, for example. This is indicated with the item dimmed and a requirement tooltip.
 
-### Habilidades firma
-Cada clase tiene habilidades exclusivas que solo ella puede ejecutar. El Mage tiene Shatterburst, el Cleric tiene Censure.
+### Signature Abilities
+Each class has exclusive abilities that only it can execute. The Mage has Shatterburst, the Cleric has Censure.
 
-### Nivel 1–60
-El nivel del personaje va de 1 a 60 y se calcula a partir de la experiencia acumulada en toda la vida del personaje.
+### Levels 1–60
+The character level ranges from 1 to 60 and is calculated from the experience accumulated over the character's entire lifetime.

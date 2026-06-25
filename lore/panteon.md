@@ -1,44 +1,44 @@
-# Panteón
+# Pantheon
 
-El panteón de Xindeler está compuesto por los **Luminaries** — los dioses que participaron del Worldsong y dieron forma al mundo — y por **Los Unfaithful**, aquellos que rompieron el pacto original.
+The pantheon of Xindeler is composed of the **Luminaries** — the gods who participated in the Worldsong and shaped the world — and of **The Unfaithful**, those who broke the original pact.
 
-## Los Luminaries
+## The Luminaries
 
-Los doce dioses fieles. Cada uno tiene un dominio, un reino propio más allá del Divine Gate, y cultos activos en el mundo mortal.
+The twelve faithful gods. Each has a domain, a realm of their own beyond the Divine Gate, and active cults in the mortal world.
 
-| Nombre | Dominio |
+| Name | Domain |
 |--------|---------|
-| **Solenne, la Madre del Amanecer** | Sol, luz, vida, agricultura |
-| **Seraine, la Luz Eterna** | Redención, misericordia, sanación |
-| **Aurelle, la Arch-Wright** | Arte, creación, elfos |
-| **Veshtur, el Estandarte Inroto** | Dragones platinados, juramentos, protección |
-| **Hestdram, el Gran Martillo** | Forja, artesanía, hogar, familia |
-| **Veradel, la Madre Salvaje** | Naturaleza, mares, tempestades |
-| **Lunere, la Soñadora Pálida** | Luna, sueños, segunda vista |
-| **Vorne, el Coronado por Tormentas** | Tormentas del cielo, fuerza, combate honesto |
-| **Velora, la Rueda de los Años** | Tiempo, estaciones, suerte, los cruces del camino |
-| **Gildmar, la Mano Abierta** | Comercio, contratos honestos, confianza |
-| **Yssira, la Archivista Velada** | Conocimiento, magia como patrón, estrellas |
-| **Nereth, la Puerta Silenciosa** | Muerte, destino, invierno |
+| **Solenne, Mother of Dawn** | Sun, light, life, agriculture |
+| **Seraine, the Eternal Light** | Redemption, mercy, healing |
+| **Aurelle, the Arch-Wright** | Art, creation, elves |
+| **Veshtur, the Unbroken Banner** | Platinum dragons, oaths, protection |
+| **Hestdram, the Great Hammer** | Forge, craftsmanship, home, family |
+| **Veradel, the Wild Mother** | Nature, seas, storms |
+| **Lunere, the Pale Dreamer** | Moon, dreams, second sight |
+| **Vorne, the Storm-Crowned** | Sky storms, strength, honest combat |
+| **Velora, the Wheel of Years** | Time, seasons, luck, crossroads |
+| **Gildmar, the Open Hand** | Trade, honest contracts, trust |
+| **Yssira, the Veiled Archivist** | Knowledge, magic as pattern, stars |
+| **Nereth, the Silent Gate** | Death, fate, winter |
 
-> *Los dominios completos de cada Luminary — sus cultos, su historia y sus guerras — son parte del lore que se revela en el juego.*
+> *The complete domains of each Luminary — their cults, their history and their wars — are part of the lore revealed in the game.*
 
-## Los Unfaithful
+## The Unfaithful
 
-Nueve dioses que rompieron el pacto del Worldsong. Sus nombres son conocidos en el mundo mortal. Sus cultos también existen — en las sombras, en lugares donde la luz de los Luminaries no llega.
+Nine gods who broke the pact of the Worldsong. Their names are known in the mortal world. Their cults exist as well — in the shadows, in places where the light of the Luminaries does not reach.
 
-*No se revela aquí quiénes son los Unfaithful ni qué hicieron. Su historia es parte del lore más profundo de Xindeler.*
+*Who the Unfaithful are and what they did is not revealed here. Their story is part of the deepest lore of Xindeler.*
 
-> *"Hay nueve sillas vacías en el gran consejo. Nadie se sienta en ellas. Nadie habla de por qué están vacías en voz alta."*
+> *"There are nine empty chairs in the great council. No one sits in them. No one speaks aloud of why they are empty."*
 
-## Los Eternals
+## The Eternals
 
-Entidades que existen fuera de la jerarquía de los Luminaries. No son dioses en el sentido tradicional — son fuerzas más antiguas o de naturaleza diferente.
+Entities that exist outside the hierarchy of the Luminaries. They are not gods in the traditional sense — they are forces that are older or of a different nature.
 
-*El lore de los Eternals es parte del contenido que se revelan en el juego.*
+*The lore of the Eternals is part of the content revealed in the game.*
 
-## La religión en el mundo
+## Religion in the World
 
-Los cultos a los Luminaries son parte fundamental de la vida en Xindeler. Gildmar tiene presencia fuerte en las ciudades comerciales. Vorne es adorado por guerreros y soldados. Nereth recibe ofrendas en los entierros. Yssira tiene sus archivistas y magos académicos.
+Cults to the Luminaries are a fundamental part of life in Xindeler. Gildmar has a strong presence in commercial cities. Vorne is worshipped by warriors and soldiers. Nereth receives offerings at burials. Yssira has her archivists and academic mages.
 
-El Cleric es la clase que canaliza directamente la magia divina de los Luminaries — su fuente de poder depende de la relación con su dios elegido.
+The Cleric is the class that directly channels the divine magic of the Luminaries — their source of power depends on their relationship with their chosen god.

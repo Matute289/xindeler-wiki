@@ -1,42 +1,42 @@
-# Habilidades
+# Skills
 
-El sistema de habilidades de Xindeler está organizado en **skill trees** especializados. Los puntos de habilidad se obtienen al subir de nivel y se gastan en desbloquear habilidades activas y pasivos.
+Xindeler's skill system is organized into specialized **skill trees**. Skill points are earned by leveling up and spent to unlock active abilities and passives.
 
-## Árboles de habilidades disponibles
+## Available Skill Trees
 
-### Árboles de armas
+### Weapon Trees
 
-| Árbol | Tipo | Clases |
+| Tree | Type | Classes |
 |-------|------|--------|
-| Espada (Sword) | Activo + Pasivo | Warrior |
-| Hacha (Axe) | Activo + Pasivo | Warrior |
-| Martillo (Hammer) | Activo + Pasivo | Warrior |
-| Arco (Bow) | Activo + Pasivo | Rogue |
-| Bastón de Fuego (Staff) | Activo + Pasivo | Mage |
-| Cetro de Sanación (Sceptre) | Activo + Pasivo | Cleric |
+| Sword | Active + Passive | Warrior |
+| Axe | Active + Passive | Warrior |
+| Hammer | Active + Passive | Warrior |
+| Bow | Active + Passive | Rogue |
+| Fire Staff | Active + Passive | Mage |
+| Healing Sceptre | Active + Passive | Cleric |
 
-### Árbol General
+### General Tree
 
-Disponible para todas las clases. Incluye:
+Available for all classes. Includes:
 
-- **Trepa (Climb)** — mejora la velocidad y reduce el costo de energía al escalar superficies
-- **Natación (Swim)** — mejora la velocidad bajo el agua
-- **Desbloqueo de grupos de armas** — permite equipar tipos de armas adicionales más allá de las de tu clase
+- **Climb** — improves speed and reduces Energy cost when climbing surfaces
+- **Swim** — improves speed underwater
+- **Weapon group unlock** — allows equipping additional weapon types beyond your class's default
 
-### Árboles de clase
+### Class Trees
 
-Cada clase tiene su propio árbol en desarrollo. Actualmente implementados para Warrior, Mage, Cleric y Rogue. Las futuras clases (Barbarian, Paladin, etc.) tendrán sus árboles en fases posteriores del desarrollo.
+Each class has its own tree under development. Currently implemented for Warrior, Mage, Cleric and Rogue. Future classes (Barbarian, Paladin, etc.) will have their trees in later development phases.
 
-### Árbol de Minería (Pick)
+### Mining Tree (Pick)
 
-- **Velocidad** — aumenta la velocidad de golpe al minar
-- **OreGain** — probabilidad de obtener mineral extra por golpe
-- **GemGain** — probabilidad de obtener gemas extra por golpe
+- **Speed** — increases strike speed when mining
+- **OreGain** — chance to obtain extra ore per strike
+- **GemGain** — chance to obtain extra gems per strike
 
-## Puntos de habilidad
+## Skill Points
 
-Los puntos se obtienen al subir de nivel (1–60). Una vez gastados, pueden reasignarse con un costo en monedas, permitiendo cambiar la build sin crear un personaje nuevo.
+Points are earned by leveling up (1–60). Once spent, they can be reassigned at a coin cost, allowing you to change your build without creating a new character.
 
-## Habilidades innatas de raza
+## Racial Innate Abilities
 
-Las [habilidades innatas de raza](/gameplay/razas/) son independientes de los skill trees y no consumen puntos de habilidad. Son permanentes y no pueden modificarse.
+[Racial innate abilities](/gameplay/razas/) are independent of skill trees and do not consume skill points. They are permanent and cannot be modified.

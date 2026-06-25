@@ -1,59 +1,59 @@
 # Warrior
 
-El Warrior es el maestro del combate físico. Resistente, versátil y letal en distancia corta, es ideal para jugadores que quieren estar en el frente de batalla.
+The Warrior is the master of physical combat. Tough, versatile and lethal at close range, it is ideal for players who want to be at the front of the battle.
 
-## Resumen
+## Overview
 
 | | |
 |---|---|
-| **Rol** | Daño físico / Tanque |
-| **Dificultad** | ⭐⭐ Media |
-| **Fuente mágica** | Ninguna |
-| **Armas principales** | Espada, hacha, martillo |
-| **Equipamiento inicial** | Armadura de bronce (bronze mail) |
+| **Role** | Physical damage / Tank |
+| **Difficulty** | ⭐⭐ Medium |
+| **Magic source** | None |
+| **Main weapons** | Sword, axe, hammer |
+| **Starting equipment** | Bronze armor (bronze mail) |
 
 ## Playstyle
 
-El Warrior domina el combate cuerpo a cuerpo con una combinación de daño sostenido, resistencia y control de combate. Sus árboles de habilidades le permiten especializarse en diferentes arquetipos: el espadachín ágil, el berserker destructivo o el golpeador de masa que rompe la resistencia de los enemigos.
+The Warrior dominates melee combat with a combination of sustained damage, resilience and combat control. Its skill trees allow specialization in different archetypes: the agile swordsman, the destructive berserker or the mass striker who breaks enemy resistance.
 
-## Skill trees
+## Skill Trees
 
-### Espada (Sword)
-Especialización en técnica y precisión. Habilidades clave:
+### Sword
+Specialization in technique and precision. Key abilities:
 
-- **CrescentSlash** — golpe en arco que afecta a múltiples enemigos
-- **FellStrike** — ataque poderoso de alto daño individual
-- **AgileQuickDraw** — desenfunde rápido con bonificación de daño
-- **DefensiveRiposte** — contraataque tras bloquear
-- **CripplingGouge** — aplica Crippled (ralentización)
-- **CleavingWhirlwindSlice** — giro con área de efecto
+- **CrescentSlash** — arc strike affecting multiple enemies
+- **FellStrike** — powerful high single-target damage attack
+- **AgileQuickDraw** — quick draw with damage bonus
+- **DefensiveRiposte** — counterattack after blocking
+- **CripplingGouge** — applies Crippled (slow)
+- **CleavingWhirlwindSlice** — spin with area of effect
 
-### Hacha (Axe)
-Especialización en berserker y daño explosivo:
+### Axe
+Specialization in berserker and explosive damage:
 
-- **BrutalSwing** — ataque de hacha de amplio arco
-- **Berserk** — entra en modo frenético con daño aumentado
-- **AdrenalineRush** — burst de velocidad al matar
-- **Execute** — daño masivo contra enemigos con poca salud
-- **Maelstrom** — torbellino de golpes de área
-- **Bloodfeast** — roba vida en cada golpe
+- **BrutalSwing** — wide arc axe attack
+- **Berserk** — enters frenetic mode with increased damage
+- **AdrenalineRush** — speed burst on kill
+- **Execute** — massive damage against low-health enemies
+- **Maelstrom** — whirlwind of area hits
+- **Bloodfeast** — steals life on each hit
 
-### Martillo (Hammer)
-Especialización en romper defensas y control de masas:
+### Hammer
+Specialization in breaking defenses and crowd control:
 
-- **Tremor** — golpe al suelo que aplica knock-up
-- **SpineCracker** — aplica Poise break (interrumpe animaciones)
-- **IronTempest** — ráfaga de golpes consecutivos
-- **Upheaval** — lanza al enemigo por el aire
-- **Thunderclap** — golpe de área con aturdimiento
-- **Earthshaker** — onda sísmica de largo alcance
+- **Tremor** — ground strike applying knock-up
+- **SpineCracker** — applies Poise break (interrupts animations)
+- **IronTempest** — burst of consecutive hits
+- **Upheaval** — launches the enemy into the air
+- **Thunderclap** — area hit with stun
+- **Earthshaker** — long-range seismic wave
 
-## Habilidades generales
+## General Abilities
 
-Como Warrior también tenés acceso a los árboles generales que incluyen mejoras de trepa, nado y desbloqueo de grupos de armas adicionales.
+As a Warrior you also have access to general trees that include climbing improvements, swimming and unlocking additional weapon groups.
 
-## Consejos
+## Tips
 
-- La combinación **Hammer + Berserk (Axe)** es devastadora en PvP.
-- **DefensiveRiposte** requiere timing preciso pero es uno de los mejores contraataques del juego.
-- El Warrior pair bien con razas de alta reducción de daño como el **Dwarf**.
+- The **Hammer + Berserk (Axe)** combination is devastating in PvP.
+- **DefensiveRiposte** requires precise timing but is one of the best counterattacks in the game.
+- The Warrior pairs well with high damage reduction races like the **Dwarf**.

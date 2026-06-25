@@ -1,20 +1,20 @@
 # Danari
 
-Los Danari son un pueblo enigmático con afinidad natural por las sombras y la movilidad. Su habilidad innata de Shadowstep los convierte en la raza más móvil del juego.
+The Danari are an enigmatic people with a natural affinity for shadows and mobility. Their innate Shadowstep ability makes them the most mobile race in the game.
 
 | | |
 |---|---|
-| **Pasivo** | +5% energía máxima |
-| **Habilidad innata** | Shadowstep |
+| **Passive** | +5% maximum Energy |
+| **Innate ability** | Shadowstep |
 
 ## Shadowstep
 
-Un blink de corto alcance que teletransporta instantáneamente al Danari a una posición cercana. Sin cooldown significativo, es una de las habilidades innatas más versátiles: sirve para entrar en combate, escapar, esquivar ataques o posicionarse para un backstab.
+A short-range blink that instantly teleports the Danari to a nearby position. Without a significant cooldown, it is one of the most versatile innate abilities: it serves to enter combat, escape, dodge attacks or position for a backstab.
 
-## Sinergia con clases
+## Class Synergy
 
-**Rogue + Danari** es la combinación de mayor movilidad del juego: Shadowstep potencia directamente el estilo de hit-and-run del Rogue. También es popular con **Mage** para escapar de situaciones peligrosas.
+**Rogue + Danari** is the highest mobility combination in the game: Shadowstep directly enhances the Rogue's hit-and-run playstyle. Also popular with **Mage** to escape dangerous situations.
 
 ## Lore
 
-*El origen de los Danari está envuelto en misterio. Se sabe poco de sus tierras natales o su historia antes de aparecer en los registros del mundo conocido. Los propios Danari no suelen dar respuestas directas sobre su pasado — una actitud que los demás pueblos encuentran frustrante o fascinante, dependiendo del interlocutor.*
+*The origin of the Danari is shrouded in mystery. Little is known of their homelands or their history before appearing in the records of the known world. The Danari themselves rarely give direct answers about their past — an attitude other peoples find frustrating or fascinating, depending on who is asking.*

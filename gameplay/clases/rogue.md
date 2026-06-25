@@ -1,57 +1,57 @@
 # Rogue
 
-El Rogue es el maestro del sigilo, la velocidad y el daño de precisión. Letal desde las sombras, difícil de atrapar y capaz de eliminar objetivos antes de que puedan reaccionar.
+The Rogue is the master of stealth, speed and precision damage. Lethal from the shadows, hard to catch and capable of eliminating targets before they can react.
 
-## Resumen
+## Overview
 
 | | |
 |---|---|
-| **Rol** | Daño / Movilidad / Sigilo |
-| **Dificultad** | ⭐⭐⭐ Alta |
-| **Fuente mágica** | Ninguna |
-| **Armas principales** | Daga, arco |
-| **Equipamiento inicial** | Cueros de caza (con bonificación de sigilo) |
+| **Role** | Damage / Mobility / Stealth |
+| **Difficulty** | ⭐⭐⭐ High |
+| **Magic source** | None |
+| **Main weapons** | Dagger, bow |
+| **Starting equipment** | Hunting leathers (with stealth bonus) |
 
 ## Playstyle
 
-El Rogue opera en las sombras, acercándose sin ser detectado y descargando un burst de daño masivo antes de desaparecer. En combate abierto es más vulnerable que el Warrior, pero en manos expertas es la clase con mayor daño pico del juego.
+The Rogue operates in the shadows, approaching undetected and unleashing a burst of massive damage before disappearing. In open combat it is more vulnerable than the Warrior, but in skilled hands it is the class with the highest peak damage in the game.
 
-## Mecánica clave: Backstab
+## Key Mechanic: Backstab
 
-El Rogue recibe una **bonificación de precisión al atacar por la espalda**. Esto incentiva posicionamiento táctico y coordinación con aliados que mantengan la atención del enemigo mirando hacia otro lado.
+The Rogue receives a **precision bonus when attacking from behind**. This incentivizes tactical positioning and coordination with allies who keep the enemy's attention looking the other way.
 
-## Skill trees
+## Skill Trees
 
-### Arco (Bow)
-Especialización en daño a distancia y emboscadas desde lejos:
+### Bow
+Specialization in ranged damage and long-range ambushes:
 
-- **Foothold** — mejora la estabilidad al disparar en posición
-- **ArdentHunt** — aumenta el daño contra objetivos que no te detectaron
-- **SepticShot** — aplica veneno (Poisoned) al impacto
-- **OwlTalon** — proyectil de alto daño con bonus de penetración
-- **EagleEye** — aumenta el rango y la precisión en disparos lejanos
-- **Heartseeker** — disparo crítico que ignora parte de la armadura
-- **FreezeArrow** — aplica Frozen al impacto
-- **JoltArrow** — electrocuta y aturde brevemente
-- **DeathVolley** — ráfaga de múltiples flechas en área
+- **Foothold** — improves stability when firing in position
+- **ArdentHunt** — increases damage against undetected targets
+- **SepticShot** — applies poison (Poisoned) on impact
+- **OwlTalon** — high damage projectile with penetration bonus
+- **EagleEye** — increases range and precision on distant shots
+- **Heartseeker** — critical shot that ignores part of armor
+- **FreezeArrow** — applies Frozen on impact
+- **JoltArrow** — electrocutes and briefly stuns
+- **DeathVolley** — burst of multiple arrows in an area
 
-### Daga (Dagger)
-Especialización en combate cuerpo a cuerpo de sigilo y burst:
+### Dagger
+Specialization in stealth melee combat and burst:
 
-Habilidades orientadas a entradas desde invisible, golpes múltiples rápidos y escape.
+Abilities oriented toward invisible entries, rapid multiple strikes and escape.
 
-## Equipamiento inicial
+## Starting Equipment
 
-El Rogue comienza con cueros de caza que incluyen una **bonificación pasiva de sigilo**, permitiéndole acercarse a enemigos más fácilmente desde el inicio del juego.
+The Rogue begins with hunting leathers that include a **passive stealth bonus**, allowing them to approach enemies more easily from the start of the game.
 
-## Efectos de estado relevantes
+## Relevant Status Effects
 
-- **Poisoned** — daño por tiempo, aplicable con SepticShot
-- **Frozen** — ralentización severa, útil para escapar o atrapar objetivos
-- **Crippled** — ralentización de movimiento
+- **Poisoned** — damage over time, applicable with SepticShot
+- **Frozen** — severe slow, useful for escaping or catching targets
+- **Crippled** — movement speed slow
 
-## Consejos
+## Tips
 
-- **Danari** es la raza más popular para Rogue: Shadowstep (blink) + +5% energía máxima potencian enormemente la movilidad.
-- La curva de aprendizaje es alta pero el payoff también: con buen posicionamiento el Rogue supera en daño a cualquier otra clase.
-- En PvP, combiná **ArdentHunt** desde sigilo con un remate de daga para máximo burst.
+- **Danari** is the most popular race for Rogue: Shadowstep (blink) + +5% maximum Energy greatly enhance mobility.
+- The learning curve is high but the payoff is too: with good positioning the Rogue surpasses any other class in damage.
+- In PvP, combine **ArdentHunt** from stealth with a dagger finish for maximum burst.
