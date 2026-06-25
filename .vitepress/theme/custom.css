@@ -1,0 +1,243 @@
+/* ── Fuentes ──────────────────────────────────────────────────────── */
+.VPNavBarTitle .title,
+h1, h2, h3,
+.VPHero .name,
+.VPHero .text {
+  font-family: 'Cinzel', serif !important;
+}
+
+/* ── Paleta de colores — modo oscuro (por defecto) ────────────────── */
+:root {
+  --vp-c-brand-1:   #d4a017;
+  --vp-c-brand-2:   #b8880e;
+  --vp-c-brand-3:   #96700a;
+  --vp-c-brand-soft: rgba(212, 160, 23, 0.14);
+
+  --xw-bg:       #06060f;
+  --xw-navy:     #0a0a1a;
+  --xw-navy-2:   #0d0d22;
+  --xw-gold:     #d4a017;
+  --xw-gold-dim: rgba(212, 160, 23, 0.15);
+  --xw-purple:   #7c3aed;
+}
+
+.dark {
+  --vp-c-bg:       #06060f;
+  --vp-c-bg-soft:  #0d0d1f;
+  --vp-c-bg-mute:  #131326;
+  --vp-c-bg-elv:   #0d0d1f;
+  --vp-c-bg-alt:   #0a0a18;
+
+  --vp-c-text-1: #e8e8f0;
+  --vp-c-text-2: #a0a0c0;
+  --vp-c-text-3: #6060a0;
+
+  --vp-c-border:        rgba(255, 255, 255, 0.08);
+  --vp-c-divider:       rgba(255, 255, 255, 0.06);
+  --vp-c-gutter:        #06060f;
+
+  --vp-nav-bg-color:    rgba(6, 6, 15, 0.92);
+  --vp-sidebar-bg-color: #08080f;
+
+  --vp-c-default-1: #2a2a4a;
+  --vp-c-default-2: #1e1e3a;
+  --vp-c-default-3: #151530;
+  --vp-c-default-soft: rgba(100, 100, 200, 0.08);
+}
+
+/* ── Fondo global ─────────────────────────────────────────────────── */
+.dark body {
+  background-color: #06060f;
+}
+
+/* ── Navbar ───────────────────────────────────────────────────────── */
+.dark .VPNav {
+  border-bottom: 1px solid rgba(212, 160, 23, 0.12);
+  backdrop-filter: blur(12px);
+}
+
+.dark .VPNavBarTitle .title {
+  color: var(--xw-gold);
+  letter-spacing: 0.05em;
+}
+
+/* ── Hero (homepage) ──────────────────────────────────────────────── */
+.dark .VPHero .name {
+  background: linear-gradient(135deg, #d4a017 0%, #f0c842 50%, #b8880e 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+}
+
+.dark .VPHero .tagline {
+  color: var(--vp-c-text-2);
+}
+
+.VPHero .VPButton.brand {
+  background: var(--xw-gold);
+  border-color: var(--xw-gold);
+  color: #06060f;
+  font-family: 'Cinzel', serif;
+  font-weight: 700;
+  letter-spacing: 0.04em;
+}
+
+.VPHero .VPButton.brand:hover {
+  background: #e0b020;
+  border-color: #e0b020;
+}
+
+.VPHero .VPButton.alt {
+  border-color: rgba(212, 160, 23, 0.4);
+  color: var(--xw-gold);
+  font-family: 'Cinzel', serif;
+  font-weight: 600;
+}
+
+.VPHero .VPButton.alt:hover {
+  border-color: var(--xw-gold);
+  background: var(--xw-gold-dim);
+}
+
+/* ── Features cards (homepage) ────────────────────────────────────── */
+.dark .VPFeature {
+  background: linear-gradient(135deg, #0d0d22 0%, #0a0a18 100%);
+  border: 1px solid rgba(212, 160, 23, 0.12);
+  transition: border-color 0.3s, transform 0.2s;
+}
+
+.dark .VPFeature:hover {
+  border-color: rgba(212, 160, 23, 0.35);
+  transform: translateY(-2px);
+}
+
+.dark .VPFeature .title {
+  color: #e8e8f0;
+  font-family: 'Cinzel', serif;
+  font-size: 1rem;
+}
+
+.dark .VPFeature .details {
+  color: var(--vp-c-text-2);
+}
+
+/* ── Sidebar ──────────────────────────────────────────────────────── */
+.dark .VPSidebar {
+  border-right: 1px solid rgba(212, 160, 23, 0.08);
+}
+
+.dark .VPSidebarItem.level-0 > .item > .text {
+  color: var(--xw-gold);
+  font-family: 'Cinzel', serif;
+  font-size: 0.78rem;
+  font-weight: 700;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+}
+
+.dark .VPSidebarItem.is-active > .item > .link > .text {
+  color: var(--xw-gold);
+}
+
+/* ── Headings dentro del contenido ───────────────────────────────── */
+.dark .vp-doc h1 {
+  color: #f0e0a0;
+  border-bottom: 1px solid rgba(212, 160, 23, 0.2);
+  padding-bottom: 0.5rem;
+}
+
+.dark .vp-doc h2 {
+  color: #e8d080;
+  border-top: none;
+  border-bottom: 1px solid rgba(212, 160, 23, 0.1);
+}
+
+.dark .vp-doc h3 {
+  color: var(--xw-gold);
+}
+
+/* ── Badges / custom ──────────────────────────────────────────────── */
+.badge-completed {
+  display: inline-block;
+  padding: 0.1rem 0.55rem;
+  border-radius: 9999px;
+  background: rgba(52, 211, 153, 0.15);
+  border: 1px solid rgba(52, 211, 153, 0.35);
+  color: #34d399;
+  font-size: 0.72rem;
+  font-family: 'Cinzel', serif;
+  letter-spacing: 0.04em;
+  vertical-align: middle;
+}
+
+.badge-wip {
+  display: inline-block;
+  padding: 0.1rem 0.55rem;
+  border-radius: 9999px;
+  background: rgba(212, 160, 23, 0.15);
+  border: 1px solid rgba(212, 160, 23, 0.35);
+  color: var(--xw-gold);
+  font-size: 0.72rem;
+  font-family: 'Cinzel', serif;
+  letter-spacing: 0.04em;
+  vertical-align: middle;
+}
+
+.badge-secret {
+  display: inline-block;
+  padding: 0.1rem 0.55rem;
+  border-radius: 9999px;
+  background: rgba(124, 58, 237, 0.15);
+  border: 1px solid rgba(124, 58, 237, 0.35);
+  color: #a78bfa;
+  font-size: 0.72rem;
+  font-family: 'Cinzel', serif;
+  letter-spacing: 0.04em;
+  vertical-align: middle;
+}
+
+/* ── Tabla de datos ───────────────────────────────────────────────── */
+.dark .vp-doc table {
+  border-collapse: collapse;
+  width: 100%;
+}
+
+.dark .vp-doc th {
+  background: rgba(212, 160, 23, 0.1);
+  color: var(--xw-gold);
+  font-family: 'Cinzel', serif;
+  font-size: 0.8rem;
+  letter-spacing: 0.05em;
+  border: 1px solid rgba(212, 160, 23, 0.15);
+}
+
+.dark .vp-doc td {
+  border: 1px solid rgba(255, 255, 255, 0.06);
+}
+
+.dark .vp-doc tr:hover td {
+  background: rgba(212, 160, 23, 0.04);
+}
+
+/* ── Blockquote (usado para lore secreto) ─────────────────────────── */
+.dark .vp-doc blockquote {
+  border-left: 3px solid var(--xw-gold);
+  background: rgba(212, 160, 23, 0.05);
+  color: var(--vp-c-text-2);
+  font-style: italic;
+}
+
+/* ── Links ────────────────────────────────────────────────────────── */
+.dark .vp-doc a {
+  color: var(--xw-gold);
+}
+
+.dark .vp-doc a:hover {
+  color: #f0c842;
+}
+
+/* ── Scrollbar sutil ──────────────────────────────────────────────── */
+::-webkit-scrollbar { width: 6px; }
+::-webkit-scrollbar-track { background: #06060f; }
+::-webkit-scrollbar-thumb { background: rgba(212, 160, 23, 0.25); border-radius: 3px; }
+::-webkit-scrollbar-thumb:hover { background: rgba(212, 160, 23, 0.45); }
