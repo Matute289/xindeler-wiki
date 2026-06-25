@@ -1,45 +1,45 @@
-# Creación de personaje
+# Character Creation
 
-Al crear tu personaje en Xindeler tomás dos decisiones que definen tu estilo de juego: la **raza** y la **clase**.
+When creating your character in Xindeler you make two decisions that define your playstyle: your **race** and your **class**.
 
-## Elegir una raza
+## Choosing a Race
 
-Las razas otorgan un **pasivo permanente** y una **habilidad innata** activa. Ninguna raza es estrictamente superior — cada una favorece un estilo diferente.
+Races grant a **permanent passive** and an active **innate ability**. No race is strictly superior — each favors a different style.
 
-| Raza | Pasivo | Habilidad innata |
+| Race | Passive | Innate ability |
 |------|--------|-----------------|
-| [Human](/gameplay/razas/human) | +3% recuperación de energía | Second Wind |
-| [Elf](/gameplay/razas/elf) | +3% velocidad de movimiento | Fleetness |
-| [Dwarf](/gameplay/razas/dwarf) | +2% reducción de daño recibido | Stoneblood |
-| [Orc](/gameplay/razas/orc) | +3% daño de ataque | Bloodrage |
-| [Danari](/gameplay/razas/danari) | +5% energía máxima | Shadowstep |
-| [Draugr](/gameplay/razas/draugr) | +10% resistencia a control de masas | Gravechill |
+| [Human](/gameplay/razas/human) | +3% Energy recovery | Second Wind |
+| [Elf](/gameplay/razas/elf) | +3% movement speed | Fleetness |
+| [Dwarf](/gameplay/razas/dwarf) | +2% damage reduction | Stoneblood |
+| [Orc](/gameplay/razas/orc) | +3% attack damage | Bloodrage |
+| [Danari](/gameplay/razas/danari) | +5% maximum Energy | Shadowstep |
+| [Draugr](/gameplay/razas/draugr) | +10% CC resistance | Gravechill |
 
-→ [Ver todas las razas en detalle](/gameplay/razas/)
+→ [See all races in detail](/gameplay/razas/)
 
-## Elegir una clase
+## Choosing a Class
 
-La clase determina tu rol en combate, las armas que podés usar y las habilidades especiales disponibles.
+The class determines your combat role, the weapons you can use and the special abilities available.
 
-| Clase | Rol | Armas principales |
+| Class | Role | Main weapons |
 |-------|-----|-------------------|
-| [Warrior](/gameplay/clases/warrior) | Daño / Tanque | Espada, hacha, martillo |
-| [Mage](/gameplay/clases/mage) | Daño mágico | Tomo, foco, bastón |
-| [Cleric](/gameplay/clases/cleric) | Soporte / Sanación | Símbolo sagrado, cetro |
-| [Rogue](/gameplay/clases/rogue) | Daño / Movilidad | Daga, arco |
+| [Warrior](/gameplay/clases/warrior) | Damage / Tank | Sword, axe, hammer |
+| [Mage](/gameplay/clases/mage) | Magic damage | Tome, focus, staff |
+| [Cleric](/gameplay/clases/cleric) | Support / Healing | Holy symbol, sceptre |
+| [Rogue](/gameplay/clases/rogue) | Damage / Mobility | Dagger, bow |
 
-→ [Ver todas las clases en detalle](/gameplay/clases/)
+→ [See all classes in detail](/gameplay/clases/)
 
-## Restricciones de equipamiento
+## Equipment Restrictions
 
-Los items de Xindeler pueden tener requisitos de **clase**, **raza** o **nivel mínimo**. Intentar equipar un item que no cumple los requisitos lo muestra atenuado con un tooltip explicativo.
+Items in Xindeler can have **class**, **race** or **minimum level** requirements. Trying to equip an item that doesn't meet the requirements shows it dimmed with an explanatory tooltip.
 
-Esto significa que la elección de clase y raza afecta directamente qué equipamiento podés usar a lo largo del juego.
+This means the choice of class and race directly affects what equipment you can use throughout the game.
 
-## Nivel de personaje
+## Character Level
 
-Los personajes van del **nivel 1 al 60**, calculado a partir de la experiencia acumulada de toda la vida del personaje. El nivel se muestra visible en el nameplate sobre tu personaje.
+Characters range from **level 1 to 60**, calculated from the experience accumulated over the character's entire lifetime. The level is displayed visibly in the nameplate above your character.
 
-## Consejo final
+## Final Advice
 
-No hay una combinación "incorrecta". Explorá la que más te llame la atención — podés crear múltiples personajes para probar diferentes estilos.
+There is no "wrong" combination. Explore the one that appeals to you most — you can create multiple characters to try different styles.

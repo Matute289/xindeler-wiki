@@ -4,34 +4,34 @@ layout: home
 hero:
   name: "Xindeler"
   text: "Wiki"
-  tagline: La enciclopedia viva del universo y las mecánicas del juego.
+  tagline: The living encyclopedia of the universe and game mechanics.
   actions:
     - theme: brand
-      text: Comenzar
+      text: Get Started
       link: /guias/empezando
     - theme: alt
-      text: Explorar el Lore
+      text: Explore the Lore
       link: /lore/historia
 
 features:
   - icon: ⚔️
     title: Gameplay
-    details: Clases, razas, combate, magia, crafteo y habilidades. Todo lo que necesitás saber para dominar el mundo.
+    details: Classes, races, combat, magic, crafting and skills. Everything you need to know to master the world.
     link: /gameplay/clases/
-    linkText: Explorar gameplay
+    linkText: Explore gameplay
   - icon: 📜
     title: Lore
-    details: La historia del mundo, el panteón de dioses, los reinos y las facciones que dan forma al destino de Xindeler.
+    details: The history of the world, the pantheon of gods, the kingdoms and factions that shape the destiny of Xindeler.
     link: /lore/historia
-    linkText: Leer el lore
+    linkText: Read the lore
   - icon: 🗄️
-    title: Base de Datos
-    details: NPCs, criaturas, items y recursos. La referencia completa de los habitantes y tesoros del mundo.
+    title: Database
+    details: NPCs, creatures, items and resources. The complete reference for the inhabitants and treasures of the world.
     link: /base-de-datos/criaturas
-    linkText: Ver la base de datos
+    linkText: View the database
   - icon: 📖
-    title: Guías
-    details: Cómo empezar, creación de personaje, builds y estrategias para nuevos y veteranos aventureros.
+    title: Guides
+    details: Getting started, character creation, builds and strategies for new and veteran adventurers.
     link: /guias/empezando
-    linkText: Ver las guías
+    linkText: View the guides
 ---

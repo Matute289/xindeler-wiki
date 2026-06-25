@@ -1,55 +1,65 @@
-# Historia del Mundo
+# History of the World
 
-El mundo de Xindeler tiene una historia que se extiende a través de cinco grandes eras. Cada era dejó su marca en el mundo físico, en sus habitantes y en los poderes que aún operan en las sombras.
-
----
-
-## Las Cinco Eras
-
-### I — El Worldsong
-
-*El principio de todo.*
-
-Antes de que el mundo tuviera forma, existía el Caos. Los jóvenes dioses — los **Luminaries** — llegaron a él y lo domaron con su canto colectivo. De ese Worldsong emergió el mundo: la tierra, el cielo, el mar, y las primeras chispas de vida.
-
-No todos los que participaron del Worldsong tenían buenas intenciones.
-
-### II — La Era del Amanecer
-
-*El mundo joven y sus primeros habitantes.*
-
-Las primeras razas mortales despertaron en un mundo aún fresco. Los Luminaries caminaban entre ellas, o al menos podían hacerlo. Era una era de maravillas, pero también de una ingenuidad que el mundo no volvería a tener.
-
-### III — La Ruptura
-
-*Algo se rompió. El mundo nunca fue el mismo.*
-
-Los registros históricos de esta era son fragmentarios e inconsistentes. Lo que se sabe con certeza es que algo fundamental cambió — en el tejido del mundo, en la relación entre los dioses y los mortales, y en el equilibrio de fuerzas que hasta entonces se mantenía.
-
-*Los detalles de La Ruptura son uno de los grandes misterios del lore de Xindeler.*
-
-### IV — La Era de las Maravillas
-
-*El apogeo. Ciudades que tocaban el cielo.*
-
-Civilizaciones de poder sin precedente florecieron en el mundo. Las **Ciudades Flotantes** — imperios arcanos que desafiaban la gravedad — marcaron el pico de esta era. La magia llegó a su punto más alto, y con ella, la hubris de quienes la controlaban.
-
-Esta era terminó de una manera que nadie olvidó.
-
-### V — La Gran Extinción & La Segunda Alborada
-
-*El presente. Los supervivientes reconstruyen.*
-
-Tras el colapso de la Era de las Maravillas, el mundo entró en un período oscuro. Las grandes civilizaciones cayeron, las ciudades flotantes se estrellaron, y solo unos pocos centros de poder sobrevivieron.
-
-La **Segunda Alborada** es el nombre que los historiadores dan al período actual: la lenta reconstrucción del mundo. Es el momento en el que se desarrolla Xindeler como juego. Los jugadores llegan a un mundo que todavía lleva las cicatrices del pasado y donde las fuerzas que causaron la Gran Extinción no han desaparecido del todo.
+The world of Xindeler has a history that spans six great ages. Each age left its mark on the physical world, on its inhabitants, and on the powers that still operate in the shadows.
 
 ---
 
-> *"Hay quienes dicen que la historia de Xindeler es un ciclo. Que lo que ocurrió antes puede ocurrir de nuevo. Que las mismas fuerzas que destruyeron la Era de las Maravillas siguen aquí, esperando."*
+## The Six Ages
+
+### I — The Worldsong
+
+*The beginning of everything.*
+
+Before the world had form, there was Chaos. The young gods — the **Luminaries** — came to it and tamed it with their collective song. From that Worldsong the world emerged: the land, the sky, the sea, and the first sparks of life.
+
+Not everyone who participated in the Worldsong had good intentions.
+
+### II — The Age of Dawn
+
+*The young world and its first inhabitants.*
+
+The first mortal races awakened in a world still fresh. The Luminaries walked among them, or at least could. It was an age of wonders, but also of an innocence the world would never have again.
+
+### III — The Rupture
+
+*Something broke. The world was never the same.*
+
+The historical records of this age are fragmentary and inconsistent. What is known with certainty is that something fundamental changed — in the fabric of the world, in the relationship between gods and mortals, and in the balance of forces that had until then been maintained.
+
+*The details of The Rupture are one of the great mysteries of Xindeler's lore.*
+
+### IV — The Age of Wonders
+
+*The apex. Cities that touched the sky.*
+
+Civilizations of unprecedented power flourished in the world. The **Floating Cities** — arcane empires that defied gravity — marked the peak of this age. Magic reached its highest point, and with it, the hubris of those who controlled it.
+
+This age ended in a way no one forgot.
+
+### V — The Great War & The Great Extinction
+
+*The collapse. The wars that ended everything.*
+
+From the ashes of the Age of Wonders emerged the most devastating conflict the world had ever known. Forces that had been chained were unleashed. The great civilizations did not fall alone — they collapsed upon each other. What followed was not one war but many, simultaneous, unstoppable.
+
+The **Great Extinction** is the name survivors gave to the result: the end of nearly everything that existed. The floating cities crashed. Dynastic lines ended. Entire species vanished from the map. Only a few centers of power survived, and they did so at a cost they still don't speak of openly.
+
+*The details of who unleashed the Great War — and why — are part of the deepest lore of Xindeler.*
+
+### VI — The Second Dawn
+
+*The present. The survivors rebuild.*
+
+The **Second Dawn** is the name historians give to the current period: the slow reconstruction of the world after the Great Extinction. It is the moment in which Xindeler as a game takes place.
+
+Players arrive in a world that still bears the scars of the past. The empires that once existed are ruins or legends. The factions that survived struggle to define what comes next. And the forces that caused the Great Extinction have not disappeared entirely — they only wait.
+
+---
+
+> *"There are those who say the history of Xindeler is a cycle. That what happened before can happen again. That the same forces that destroyed the Age of Wonders are still here, waiting."*
 >
-> — Fragmento de un texto de origen desconocido, encontrado en las ruinas de Eon
+> — Fragment of a text of unknown origin, found in the ruins of Eon
 
 ---
 
-La historia completa, con todos sus actores, traiciones, guerras y secretos, se revela progresivamente a medida que el juego se desarrolla.
+The full history, with all its actors, betrayals, wars and secrets, is revealed progressively as the game unfolds.

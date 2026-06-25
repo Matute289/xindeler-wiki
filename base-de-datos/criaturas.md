@@ -1,46 +1,46 @@
-# Criaturas
+# Creatures
 
-El mundo de Xindeler está lleno de vida — y de muerte. Las criaturas van desde animales salvajes inofensivos hasta horrores ancestrales que hacen temblar a aventureros veteranos.
+The world of Xindeler is full of life — and death. Creatures range from harmless wild animals to ancestral horrors that make veteran adventurers tremble.
 
-## Categorías de criaturas
+## Creature Categories
 
-### Humanoides grandes (Bosses y élites)
-Las criaturas más peligrosas del mundo. Algunos son jefes de dungeon, otros patrullan regiones específicas.
+### Large Humanoids (Bosses and Elites)
+The most dangerous creatures in the world. Some are dungeon bosses, others patrol specific regions.
 
-Incluyen: Ogros, Cíclopes, Trolls (de cueva, montaña y pantano), Hombres lobo, Minotauros, Yetis, Oni (azules y rojos), Titanes de las mareas, y otras entidades cuyo nombre preferimos no listar aquí.
+They include: Ogres, Cyclopes, Trolls (cave, mountain and swamp), Werewolves, Minotaurs, Yetis, Oni (blue and red), Tide Titans, and other entities whose names we prefer not to list here.
 
-### Cuadrúpedos medianos
-La fauna del mundo: desde predadores comunes hasta bestias legendarias.
+### Medium Quadrupeds
+The fauna of the world: from common predators to legendary beasts.
 
-Algunas especies: Sabertooths, Tigres, Tuskrams, Leones, Lobos, Frostfangs, Osos, Mamuts, Elefantes. Más de cuarenta especies distintas con comportamientos propios.
+Some species: Sabertooths, Tigers, Tuskrams, Lions, Wolves, Frostfangs, Bears, Mammoths, Elephants. More than forty distinct species with their own behaviors.
 
-### Artrópodos, Aves y Crustáceos
-Insectos gigantes, aves de presa de gran tamaño y crustáceos de aguas profundas con sus propias loot tables y comportamientos.
+### Arthropods, Birds and Crustaceans
+Giant insects, large birds of prey and deep-water crustaceans with their own loot tables and behaviors.
 
-### Dragones
-Los dragones de Xindeler son criaturas de alto poder organizadas en líneas: metálicos (buenos), cromáticos (malvados) y gemas (neutrales). Ver más en la sección de [Regiones — Xandrian](/lore/regiones).
+### Dragons
+Xindeler's dragons are high-power creatures organized in lines: metallic (good), chromatic (evil) and gem (neutral). See more in the [Regions — Xandrian](/lore/regiones) section.
 
-### Gólems
-Constructos de piedra, metal o magia. Algunos fueron creados por civilizaciones antiguas y aún cumplen la función para la que fueron programados. Otros... han desarrollado algo que podría llamarse voluntad propia.
+### Golems
+Constructs of stone, metal or magic. Some were created by ancient civilizations and still fulfill the function for which they were programmed. Others... have developed something that might be called their own will.
 
-### Criaturas del Lore
+### Lore Creatures
 
-Algunas criaturas merecen mención especial por su relevancia lore o mecánicas únicas:
+Some creatures deserve special mention for their lore relevance or unique mechanics:
 
 #### False Hydra <span class="badge-secret">Lore</span>
 
-Una criatura que canta. Su canto no puede escucharse conscientemente, pero borra memorias de sus víctimas. Los pueblos cercanos a una False Hydra no recuerdan haber visto personas desaparecer — porque las memorias de esas personas también desaparecen.
+A creature that sings. Its song cannot be heard consciously, but it erases memories from its victims. The villages near a False Hydra do not remember seeing people disappear — because the memories of those people disappear too.
 
-*Es una de las criaturas más perturbadoras del mundo. Encontrarla es el principio de algo muy malo.*
+*It is one of the most disturbing creatures in the world. Finding it is the beginning of something very bad.*
 
 #### Juvenile Mimic (Ivi)
 
-Un mimic joven que aún no ha aprendido a transformarse perfectamente. Se puede notar algo *ligeramente* incorrecto en el objeto que imita, si se mira con suficiente atención.
+A young mimic that has not yet learned to transform perfectly. Something can be noticed that is *slightly* off about the object it imitates, if looked at with enough attention.
 
 #### Frost Worm
 
-Una criatura subterránea de gran tamaño que habita en regiones glaciales. Su presencia suele detectarse antes de verla — el suelo tiembla.
+A large subterranean creature that inhabits glacial regions. Its presence is usually detected before it is seen — the ground shakes.
 
 ---
 
-> *El bestiary completo de Xindeler — con estadísticas, drops, ubicaciones y lore de cada criatura — se expande a medida que el juego se desarrolla. Esta página se actualiza continuamente.*
+> *The complete bestiary of Xindeler — with stats, drops, locations and lore for each creature — expands as the game develops. This page is updated continuously.*

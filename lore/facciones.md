@@ -1,57 +1,57 @@
-# Facciones
+# Factions
 
-El mundo de Xindeler está atravesado por facciones que compiten por poder, recursos, influencia y objetivos que no siempre son lo que parecen.
+The world of Xindeler is traversed by factions competing for power, resources, influence and goals that are not always what they seem.
 
-Los jugadores pueden interactuar con estas facciones, ganar o perder reputación con ellas, y eventualmente convertirse en actores dentro de sus conflictos.
+Players can interact with these factions, gain or lose reputation with them, and eventually become actors within their conflicts.
 
 ---
 
-## Facciones conocidas
+## Known Factions
 
 ### Caminos Syndicate
 
-Una red de contrabandistas, traficantes y operadores que controla buena parte del comercio ilegal en los Highlands. Especializados en drogas, armas y magia prohibida, el Syndicate no tiene un líder único — opera como una confederación de jefes regionales que respetan ciertos códigos internos.
+A network of smugglers, traffickers and operators that controls much of the illegal trade in the Highlands. Specialized in drugs, weapons and forbidden magic, the Syndicate has no single leader — it operates as a confederation of regional bosses who respect certain internal codes.
 
-No son necesariamente malvados. Simplemente operan fuera de las leyes que otros establecieron.
+They are not necessarily evil. They simply operate outside the laws others established.
 
-*Activos principalmente en Cromatolis y The Freelands.*
+*Active primarily in Cromatolis and The Freelands.*
 
 ---
 
 ### Vesperan Dynasty
 
-Un pueblo con una relación única con la muerte y el renacimiento. Los Vespera poseen fragmentos de un artefacto llamado el **Prism**, que les permite algo que ninguna otra cultura del mundo ha logrado replicar de forma consistente.
+A people with a unique relationship with death and rebirth. The Vespera possess fragments of an artifact called the **Prism**, which allows them something no other culture in the world has managed to replicate consistently.
 
-*Su ubicación en el mundo y la naturaleza exacta del Prism son parte del lore del juego.*
+*Their location in the world and the exact nature of the Prism are part of the game's lore.*
 
 ---
 
 ### The Sisterhood
 
-Una orden de mujeres que opera dentro de las estructuras religiosas de Merovingia. En la superficie, son sacerdotisas y administradoras del culto oficial. En la práctica, son algo considerablemente más complejo y peligroso.
+An order of women operating within the religious structures of Merovingia. On the surface, they are priestesses and administrators of the official cult. In practice, they are something considerably more complex and dangerous.
 
-*Lo que realmente son y a quién sirven es una de las revelaciones del juego.*
+*What they really are and whom they serve is one of the game's revelations.*
 
 ---
 
 ### Janus Council
 
-Los nueve archimages que asesoran al gobierno de Cromatolis. En teoría, son la cúpula intelectual y mágica del reino. En la práctica, uno de los nueve tiene lealtades que los otros ocho desconocen.
+The nine archmages who advise the government of Cromatolis. In theory, they are the intellectual and magical apex of the kingdom. In practice, one of the nine has loyalties the other eight do not know about.
 
-*¿Cuál de los nueve es el problema? Eso se descubre en el juego.*
-
----
-
-## Otras facciones activas
-
-El mundo tiene docenas de facciones más allá de las listadas arriba. Algunas operan públicamente; muchas prefieren las sombras.
-
-Nombres conocidos: **Cult of the Crownless King · Children of the Cold · El Conclave de Asedio · La Cruz Verdadera · Las Cinco Calaveras · Liga de Asesinos · Los Geómetras del Velo · Los Nueve Anillos · Order of the Even Hand · Order of the Inmost Light · The Council of Owls · The Hollow Quills · Utu Shamash · Dune Walkers**
-
-> *El detalle de cada facción — sus objetivos, su estructura interna y su historia — es parte del contenido que se desarrolla progresivamente en el juego.*
+*Which of the nine is the problem? That is discovered in the game.*
 
 ---
 
-## Sistema de reputación
+## Other Active Factions
 
-Tu relación con cada facción afecta lo que sus miembros te ofrecen, cómo NPCs afiliados a ellas te tratan, y qué misiones tenés disponibles. Algunas facciones son mutuamente excluyentes — ganar la confianza de una puede significar convertirse en enemigo de otra.
+The world has dozens of factions beyond those listed above. Some operate publicly; many prefer the shadows.
+
+Known names: **Cult of the Crownless King · Children of the Cold · El Conclave de Asedio · La Cruz Verdadera · Las Cinco Calaveras · Liga de Asesinos · Los Geómetras del Velo · Los Nueve Anillos · Order of the Even Hand · Order of the Inmost Light · The Council of Owls · The Hollow Quills · Utu Shamash · Dune Walkers**
+
+> *The detail of each faction — its goals, internal structure and history — is part of the content developed progressively in the game.*
+
+---
+
+## Reputation System
+
+Your relationship with each faction affects what its members offer you, how affiliated NPCs treat you, and what missions you have available. Some factions are mutually exclusive — earning the trust of one can mean becoming an enemy of another.

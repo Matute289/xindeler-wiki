@@ -1,47 +1,47 @@
-# Cosmología
+# Cosmology
 
-El cosmos de Xindeler es un sistema de capas interconectadas: el plano material donde viven los mortales, los reinos de los dioses, los planos de energía pura y los abismos donde moran cosas que prefieren no ser nombradas.
+The cosmos of Xindeler is a system of interconnected layers: the material plane where mortals live, the realms of the gods, the planes of pure energy, and the abysses where things dwell that prefer not to be named.
 
-## El Plano Material
+## The Material Plane
 
-El mundo físico donde transcurre el juego. Un planeta habitado con continentes, océanos, regiones subterráneas y, en algún lugar de su pasado, ciudades que flotaban en el cielo.
+The physical world where the game takes place. An inhabited planet with continents, oceans, subterranean regions and, somewhere in its past, cities that floated in the sky.
 
-## Las Dos Lunas
+## The Two Moons
 
-El cielo nocturno de Xindeler tiene dos lunas, cada una con su propio significado:
+The night sky of Xindeler has two moons, each with its own significance:
 
-### Phocallis — La Luna Blanca
+### Phocallis — The White Moon
 
-La luna blanca y brillante. Rige el **calendario oficial del mundo**: los meses, las estaciones y los ciclos agrícolas se miden por su movimiento. Casi todas las civilizaciones de Xindeler organizan su tiempo en torno a Phocallis.
+The bright white moon. It governs the **official calendar of the world**: months, seasons and agricultural cycles are measured by its movement. Almost every civilization in Xindeler organizes time around Phocallis.
 
-### Erevos — La Luna Roja
+### Erevos — The Red Moon
 
-La luna roja. Orbita el mundo desde tiempos inmemoriales y su luz tinta el horizonte de carmesí en las noches en que está en su punto más alto.
+The red moon. It has orbited the world since time immemorial and its light stains the horizon crimson on the nights when it is at its highest point.
 
-Erevos no es simplemente una luna.
+Erevos is not simply a moon.
 
-> *Lo que Erevos realmente es, y por qué orbita donde orbita, es conocido por pocos en el mundo. Los que saben prefieren no decirlo en voz alta.*
+> *What Erevos really is, and why it orbits where it orbits, is known by few in the world. Those who know prefer not to say it aloud.*
 
-## El Veil — El Tejido Arcano
+## The Veil — The Arcane Fabric
 
-El **Veil** es la fuente de toda la magia arcana en Xindeler. Un tejido de energía invisible que permea el plano material, creado por los Luminaries en los primeros tiempos para armar a los mortales contra amenazas que de otra forma no podrían enfrentar.
+The **Veil** is the source of all arcane magic in Xindeler. An invisible fabric of energy that permeates the material plane, created by the Luminaries in the earliest times to arm mortals against threats they could not otherwise face.
 
-Los magos aprenden a percibir el Veil antes de poder manipularlo. Los más poderosos pueden ver sus patrones directamente.
+Mages learn to perceive the Veil before they can manipulate it. The most powerful can see its patterns directly.
 
-## El Divine Gate
+## The Divine Gate
 
-Tras la Gran Guerra — el evento que terminó la Era de las Maravillas — los Luminaries construyeron el **Divine Gate**: una barrera que les impide descender al plano material en forma corpórea.
+After the Great War — the event that ended the Age of Wonders — the Luminaries built the **Divine Gate**: a barrier that prevents them from descending to the material plane in corporeal form.
 
-Los dioses aún pueden otorgar poder a sus seguidores, enviar visiones y actuar de forma indirecta. Pero ya no caminan entre los mortales como lo hacían antes.
+The gods can still grant power to their followers, send visions and act indirectly. But they no longer walk among mortals as they once did.
 
-El motivo de la construcción del Gate, y la naturaleza exacta de la Gran Guerra, son parte del lore profundo de Xindeler.
+The reason for the Gate's construction, and the exact nature of the Great War, are part of the deep lore of Xindeler.
 
-## Los Planos
+## The Planes
 
-Más allá del plano material existe una vastedad de reinos:
+Beyond the material plane lies a vastness of realms:
 
-- **Reinos divinos** — los dominios de los Luminaries
-- **Planos elementales** — fuentes de energía pura
-- **El Vacío** — lo que existe entre los planos, y lo que vive en él
+- **Divine realms** — the domains of the Luminaries
+- **Elemental planes** — sources of pure energy
+- **The Void** — what exists between the planes, and what lives in it
 
-> *El mapa completo del cosmos de Xindeler — sus capas, sus habitantes y sus reglas — es uno de los proyectos más ambiciosos del diseño del juego. Se revelan fragmentos a medida que el mundo se expande.*
+> *The complete map of Xindeler's cosmos — its layers, its inhabitants and its rules — is one of the most ambitious projects in the game's design. Fragments are revealed as the world expands.*

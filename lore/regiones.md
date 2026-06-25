@@ -1,56 +1,56 @@
-# Regiones
+# Regions
 
-El mundo de Xindeler es vasto. Sus continentes tienen climas, culturas y facciones radicalmente diferentes, y cada región guarda sus propios secretos.
+The world of Xindeler is vast. Its continents have radically different climates, cultures and factions, and each region guards its own secrets.
 
-> Esta página muestra las regiones conocidas. Hay lugares que aún no figuran en ningún mapa oficial.
+> This page shows the known regions. There are places that do not appear on any official map.
 
 ---
 
-## Los Highlands
+## The Highlands
 
-El continente central-este. El corazón del mundo conocido y civilizado. La mayoría de los jugadores comenzarán su aventura aquí, en sus ciudades, aldeas y dungeons.
+The central-eastern continent. The heart of the known and civilized world. Most players will begin their adventure here, in its cities, villages and dungeons.
 
-Los Highlands contienen varios reinos y territorios con culturas propias:
+The Highlands contain several kingdoms and territories with their own cultures:
 
 ### Merovingia
-Al noroeste de los Highlands. Un imperio humano de hierro y hielo — militarista, orgulloso y profundamente desconfiado de los que no son de los suyos. Sus inviernos son legendariamente duros. Su disciplina, también.
+To the northwest of the Highlands. A human empire of iron and ice — militaristic, proud and deeply distrustful of outsiders. Its winters are legendarily harsh. Its discipline, too.
 
 ### Cromatolis
-Al oeste-suroeste. Un reino autocrático y vigilado, donde el control de la información es parte del poder. Su capital es una ciudad-estado hermética con reglas propias.
+To the west-southwest. An autocratic and surveilled kingdom where control of information is part of power. Its capital is a hermetic city-state with its own rules.
 
 ### Xandrian
-Al este. La **Dinastía del Dragón** — un territorio inusual donde aproximadamente veinte tipos de dragones viven organizados en seis facciones bajo la autoridad de una emperatriz. La Ciudad Platino actúa como sede neutral de negociación.
+To the east. The **Dragon Dynasty** — an unusual territory where approximately twenty types of dragons live organized in six factions under the authority of an empress. The Platinum City acts as a neutral seat of negotiation.
 
 ### The Freelands
-El centro de los Highlands. Sin corona, sin un único soberano. Un mosaico de ciudades independientes donde los aventureros sin afiliación encuentran más libertad — y más peligro.
+The center of the Highlands. No crown, no single sovereign. A mosaic of independent cities where adventurers without affiliation find more freedom — and more danger.
 
 ---
 
 ## Aurora
 
-La tierra del norte, entre los Highlands y regiones más inhóspitas. Hogar de **Dawn City** — la ciudad más antigua que sobrevivió intacta a todos los cataclismos de la historia. Su sola existencia es un misterio.
+The northern land, between the Highlands and more inhospitable regions. Home of **Dawn City** — the oldest city that survived all the cataclysms of history intact. Its very existence is a mystery.
 
 ---
 
 ## Azahbbath
 
-El gran continente del oeste. Dividido en cuatro regiones con características muy distintas: desde tierras frías habitadas por dragones hasta zonas salvajes, un protectorado político complejo y zonas donde el Veil se comporta de manera extraña.
+The great western continent. Divided into four regions with very distinct characteristics: from cold lands inhabited by dragons to wild zones, a complex political protectorate and areas where the Veil behaves strangely.
 
 ---
 
-## Otros continentes conocidos
+## Other Known Continents
 
-| Continente | Descripción breve |
+| Continent | Brief description |
 |------------|-------------------|
-| **Arkhan** | Lejano oeste. Tribus guerreras y un líder legendario que no ha sido derrotado. |
-| **Isharat** | Sur. Una red de ciudades-estado bajo gobierno de emires. Comercio y magia entrelazados. |
-| **Lefki Ellada** | Sur de los Highlands. Un archipiélago de doce islas con una cultura de raíz clásica. |
-| **Isen-Kor** | Polo sur. Un continente helado donde cayó algo desde el cielo en la Era de las Maravillas. |
+| **Arkhan** | Far west. Warrior tribes and a legendary leader who has never been defeated. |
+| **Isharat** | South. A network of city-states under the rule of emirs. Trade and magic intertwined. |
+| **Lefki Ellada** | South of the Highlands. An archipelago of twelve islands with a classical cultural heritage. |
+| **Isen-Kor** | South pole. A frozen continent where something fell from the sky during the Age of Wonders. |
 
 ---
 
-## Regiones no detalladas
+## Uncharted Regions
 
-Hay lugares en el mundo de Xindeler que no aparecen en los mapas estándar. Algunos por elección. Otros porque quienes fueron a explorarlos no regresaron para contarlo.
+There are places in the world of Xindeler that do not appear on standard maps. Some by choice. Others because those who went to explore them did not return to tell the tale.
 
-> *El Abyssal Ocean, Nythraldeep y otros lugares existen en el canon del juego. Su revelación forma parte de la progresión narrativa.*
+> *The Abyssal Ocean, Nythraldeep and other places exist in the game's canon. Their revelation is part of the narrative progression.*

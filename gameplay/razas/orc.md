@@ -1,20 +1,20 @@
 # Orc
 
-Los Orcs son combatientes natos. Fuertes, agresivos y con un instinto de pelea que se traduce directamente en mayor daño de ataque.
+Orcs are born combatants. Strong, aggressive and with a fighting instinct that translates directly into increased attack damage.
 
 | | |
 |---|---|
-| **Pasivo** | +3% daño de ataque |
-| **Habilidad innata** | Bloodrage |
+| **Passive** | +3% attack damage |
+| **Innate ability** | Bloodrage |
 
 ## Bloodrage
 
-Al activarla, el Orc entra en un estado de furia que amplifica temporalmente su daño de ataque. Combina directamente con el pasivo para un burst de daño significativo.
+When activated, the Orc enters a state of fury that temporarily amplifies their attack damage. Combines directly with the passive for a significant damage burst.
 
-## Sinergia con clases
+## Class Synergy
 
-**Warrior + Orc** es la combinación de mayor daño físico puro del juego. También funciona bien con **Barbarian** (cuando esté disponible), cuyo kit está diseñado alrededor de mecánicas de furia similares.
+**Warrior + Orc** is the highest pure physical damage combination in the game. Also works well with **Barbarian** (when available), whose kit is designed around similar fury mechanics.
 
 ## Lore
 
-*Los Orcs son un pueblo forjado en el conflicto. Su historia está marcada por guerras, tanto contra otros pueblos como entre sus propios clanes. Quienes los conocen solo como enemigos se sorprenden al descubrir una cultura de honor, lealtad al clan y tradición oral que se remonta a las eras más antiguas.*
+*Orcs are a people forged in conflict. Their history is marked by wars, both against other peoples and among their own clans. Those who know them only as enemies are surprised to discover a culture of honor, clan loyalty and oral tradition that stretches back to the oldest ages.*

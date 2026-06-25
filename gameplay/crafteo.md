@@ -1,41 +1,41 @@
-# Crafteo
+# Crafting
 
-El sistema de crafteo de Xindeler permite crear armas, armaduras, consumibles, herramientas y más a partir de materiales recolectados en el mundo.
+Xindeler's crafting system allows you to create weapons, armor, consumables, tools and more from materials gathered in the world.
 
-## Cómo funciona
+## How It Works
 
-Para craftear un item necesitás:
-1. Los **materiales** requeridos en tu inventario
-2. Una **estación de crafteo** del tipo correspondiente (yunque, cocina, banco de alquimia, etc.)
-3. Haber desbloqueado la **receta** (algunas son automáticas, otras requieren libros de recetas)
+To craft an item you need:
+1. The required **materials** in your inventory
+2. A **crafting station** of the corresponding type (anvil, kitchen, alchemy bench, etc.)
+3. Having unlocked the **recipe** (some are automatic, others require recipe books)
 
-## Categorías de items crafteables
+## Categories of Craftable Items
 
-### Armas
-Las armas de Xindeler son **modulares**: los materiales usados determinan los stats finales del arma. Los tipos disponibles incluyen espada, hacha, martillo, arco, daga, bastón, cetro, tomo, foco y símbolo sagrado.
+### Weapons
+Weapons in Xindeler are **modular**: the materials used determine the final stats of the weapon. Available types include sword, axe, hammer, bow, dagger, staff, sceptre, tome, focus and holy symbol.
 
-Materiales de armas: metales (`metal_weapon_materials`) y maderas (`wood_weapon_materials`), con distintas propiedades según la fuente.
+Weapon materials: metals (`metal_weapon_materials`) and woods (`wood_weapon_materials`), with different properties depending on the source.
 
-### Armaduras
-Existe una gran variedad de sets de armadura: adventurer, assassin, boreal, cultist, golemite, leather_plate, mail, entre muchos más. Cada set tiene requerimientos de clase y nivel diferentes.
+### Armor
+There is a wide variety of armor sets: adventurer, assassin, boreal, cultist, golemite, leather_plate, mail, among many more. Each set has different class and level requirements.
 
-### Consumibles y comida
-La comida otorga buffs temporales de combate. Los alimentos más complejos requieren más ingredientes pero dan mejores efectos.
+### Consumables and Food
+Food grants temporary combat buffs. More complex foods require more ingredients but give better effects.
 
-### Herramientas y crafteo
-Herramientas especializadas para minería, pesca y otras actividades de recolección también son crafteables y mejoran la eficiencia de esas actividades.
+### Tools and Crafting
+Specialized tools for mining, fishing and other gathering activities are also craftable and improve the efficiency of those activities.
 
-### Gliders y linternas
-Items de utilidad: los gliders permiten planear desde alturas, las linternas iluminan zonas oscuras como cuevas y dungeon.
+### Gliders and Lanterns
+Utility items: gliders allow gliding from heights, lanterns illuminate dark areas like caves and dungeons.
 
-## Calidad de items
+## Item Quality
 
-Los items tienen un sistema de **calidad** representado por colores (similar a rating de color). La calidad del item final depende de los materiales usados: mejores materiales = mayor calidad.
+Items have a **quality** system represented by colors (similar to color rating). The quality of the final item depends on the materials used: better materials = higher quality.
 
-## Reparación
+## Repair
 
-Los items no tienen costo de reparación con recursos. Podés reparar tu equipo sin penalización económica.
+Items have no repair cost in resources. You can repair your equipment without economic penalty.
 
-## Inventario
+## Inventory
 
-El inventario tiene **36 slots**, expandido desde la versión original del fork. Algunos items se apilan (materiales, consumibles), otros ocupan slots individuales (armas, armaduras).
+The inventory has **36 slots**, expanded from the original fork version. Some items stack (materials, consumables), others occupy individual slots (weapons, armor).

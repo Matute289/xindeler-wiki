@@ -1,50 +1,50 @@
 # Cleric
 
-El Cleric canaliza la magia divina para sanar aliados, proteger al grupo y castigar a los enemigos con la luz sagrada. El pilar de cualquier equipo organizado.
+The Cleric channels divine magic to heal allies, protect the group and punish enemies with holy light. The pillar of any organized team.
 
-## Resumen
+## Overview
 
 | | |
 |---|---|
-| **Rol** | Soporte / Sanación / Control |
-| **Dificultad** | ⭐⭐ Media |
-| **Fuente mágica** | Divina |
-| **Armas principales** | Símbolo sagrado, cetro |
-| **Equipamiento inicial** | Vestimentas azules |
+| **Role** | Support / Healing / Control |
+| **Difficulty** | ⭐⭐ Medium |
+| **Magic source** | Divine |
+| **Main weapons** | Holy symbol, sceptre |
+| **Starting equipment** | Blue vestments |
 
 ## Playstyle
 
-El Cleric divide su tiempo entre mantener con vida a sus aliados y debilitar a los enemigos con efectos de control divino. A diferencia de un sanador puro, el Cleric tiene herramientas ofensivas significativas que lo hacen viable en solitario.
+The Cleric divides time between keeping allies alive and weakening enemies with divine control effects. Unlike a pure healer, the Cleric has significant offensive tools that make it viable solo.
 
-## Skill trees
+## Skill Trees
 
-### Cetro (Sceptre)
-El árbol principal del Cleric, enfocado en sanación y auras:
+### Sceptre
+The Cleric's main tree, focused on healing and auras:
 
-- **LDamage** — mejora el daño de ataques de luz
-- **HHeal** — aumenta la eficiencia de hechizos de sanación
-- **UnlockAura** — desbloquea la mecánica de auras de grupo
-- **ADuration** — extiende la duración de efectos activos
+- **LDamage** — improves damage of light attacks
+- **HHeal** — increases efficiency of healing spells
+- **UnlockAura** — unlocks the group aura mechanic
+- **ADuration** — extends the duration of active effects
 
-### Símbolo sagrado (Holy Symbol)
-El arma ofensiva del Cleric:
+### Holy Symbol
+The Cleric's offensive weapon:
 
-- **Dawnmote** — proyectil de luz, ataque básico
-- **Censure** — hechizo firma: aplica Charmed al objetivo
+- **Dawnmote** — light projectile, basic attack
+- **Censure** — signature spell: applies Charmed to the target
 
-## Hechizo firma: Censure
+## Signature Spell: Censure
 
-Censure es el hechizo más icónico del Cleric. Al aplicar el efecto **Charmed**, el NPC afectado temporalmente deja de atacar al Cleric y a sus aliados. Poderoso para controlar encuentros con múltiples enemigos.
+Censure is the Cleric's most iconic spell. By applying the **Charmed** effect, the affected NPC temporarily stops attacking the Cleric and their allies. Powerful for controlling encounters with multiple enemies.
 
-## Habilidades de grupo
+## Group Abilities
 
-El Cleric sobresale en contenido de grupo gracias a:
-- Auras que mejoran atributos de todo el partido
-- Sanación de área
-- Protección temporal
+The Cleric excels in group content thanks to:
+- Auras that improve party member attributes
+- Area healing
+- Temporary protection
 
-## Consejos
+## Tips
 
-- En grupo, priorizar **UnlockAura** temprano maximiza tu impacto como soporte.
-- El Cleric es efectivo en solitario si usás **Censure** para neutralizar enemigos peligrosos uno por uno.
-- **Human** es una buena elección de raza por el +3% recuperación de energía, que mejora la cadencia de hechizos.
+- In a group, prioritizing **UnlockAura** early maximizes your impact as support.
+- The Cleric is effective solo if you use **Censure** to neutralize dangerous enemies one by one.
+- **Human** is a good race choice for the +3% Energy recovery, which improves spell cadence.

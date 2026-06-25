@@ -1,18 +1,18 @@
 # NPCs
 
-Xindeler está habitado por personajes no jugadores con sus propias historias, roles y motivaciones. A medida que el **Framework de NPCs con IA (AURORA)** se desarrolle, estos personajes ganarán memoria persistente, relaciones dinámicas y capacidad de generar misiones propias.
+Xindeler is inhabited by non-player characters with their own stories, roles and motivations. As the **AI NPC Framework (AURORA)** develops, these characters will gain persistent memory, dynamic relationships and the ability to generate their own quests.
 
-## NPCs conocidos
+## Known NPCs
 
-Una selección de personajes que los jugadores pueden encontrar en el mundo:
+A selection of characters players can encounter in the world:
 
-| Nombre | Rol | Región |
+| Name | Role | Region |
 |--------|-----|--------|
-| Acaelus Thorne | Arcanista | Los Highlands |
+| Acaelus Thorne | Arcanist | The Highlands |
 | Aldovane | — | — |
 | Alenac | — | — |
 | Bhardo | — | — |
-| Dorrim Hammergrim | Herrero / Artesano | — |
+| Dorrim Hammergrim | Blacksmith / Craftsman | — |
 | Dravmir | — | — |
 | Farath | — | — |
 | Hesvane | — | — |
@@ -20,45 +20,45 @@ Una selección de personajes que los jugadores pueden encontrar en el mundo:
 | Lemvane | — | — |
 | Lio | — | — |
 | Maelthir | — | — |
-| Merk | Comerciante | The Freelands |
+| Merk | Merchant | The Freelands |
 | Oltheris | — | — |
 | Orenmar | — | — |
-| Orly Skiffback | Capitán de airship | Rutas aéreas |
+| Orly Skiffback | Airship Captain | Air routes |
 | Razveth | — | — |
 | Sevrane | — | — |
 | Smoke Ashrise | — | — |
 | Tessved | — | — |
-| Toldek | Herrero enano | — |
+| Toldek | Dwarven blacksmith | — |
 | Tror Mulav | — | — |
 | Vesryne | — | — |
 | Xorveth | — | — |
-| Ysseketh | Arcanista | — |
+| Ysseketh | Arcanist | — |
 | Zerxus Ilerez | — | — |
 
-> El lore detallado de cada NPC — su historia, motivaciones, relaciones y secretos — forma parte del contenido que se revela progresivamente en el juego.
+> The detailed lore of each NPC — their history, motivations, relationships and secrets — is part of the content that is revealed progressively in the game.
 
-## Tipos de NPCs
+## NPC Types
 
-### Mercaderes
-Compran y venden items según su especialización. Un hunter vende armas y provisiones de caza; un herborista vende consumibles y ingredientes. Los mercaderes no venden fuera de su área de especialización.
+### Merchants
+They buy and sell items according to their specialization. A hunter sells weapons and hunting supplies; an herbalist sells consumables and ingredients. Merchants do not sell outside their area of specialization.
 
-### Capitanes de Airship
-Algunos NPCs como Orly Skiffback operan rutas de transporte aéreo entre asentamientos. Las rutas son dinámicas y pueden cambiar según el estado del mundo.
+### Airship Captains
+Some NPCs like Orly Skiffback operate air transport routes between settlements. Routes are dynamic and may change based on the state of the world.
 
-### Dadores de misiones
-Los NPCs generan misiones basadas en sus necesidades y el estado del mundo a su alrededor. Un granjero puede pedir ayuda con criaturas que amenazan su cosecha; un mercader puede necesitar escolta para una ruta peligrosa.
+### Quest Givers
+NPCs generate quests based on their needs and the state of the world around them. A farmer may ask for help with creatures threatening their harvest; a merchant may need an escort for a dangerous route.
 
-### Contratables
-Algunos NPCs pueden contratarse como acompañantes temporales, con un límite de tiempo. Se unen al grupo del jugador y participan activamente en el combate.
+### Hirelings
+Some NPCs can be hired as temporary companions, with a time limit. They join the player's group and actively participate in combat.
 
-## AURORA — El futuro de los NPCs
+## AURORA — The Future of NPCs
 
-El **Project AURORA** es el sistema que dará a los NPCs de Xindeler una profundidad sin precedentes:
+**Project AURORA** is the system that will give Xindeler's NPCs unprecedented depth:
 
-- Memoria persistente de interacciones con jugadores
-- Relaciones sociales con otros NPCs (amistad, rivalidad, familia)
-- Ciclo de vida completo (nacimiento, envejecimiento, muerte, herencia)
-- Economía dinámica propia
-- Generación autónoma de misiones basada en sus necesidades reales
+- Persistent memory of interactions with players
+- Social relationships with other NPCs (friendship, rivalry, family)
+- Complete life cycle (birth, aging, death, inheritance)
+- Dynamic economy of their own
+- Autonomous quest generation based on their real needs
 
-*AURORA está en planificación activa. Ver la [Hoja de Ruta](https://xindeler.greenmountain.dev#roadmap) para más información.*
+*AURORA is in active planning. See the [Roadmap](https://xindeler.greenmountain.dev#roadmap) for more information.*

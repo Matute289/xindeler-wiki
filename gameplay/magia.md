@@ -1,46 +1,46 @@
-# Magia
+# Magic
 
-El sistema de magia de Xindeler es uno de los más profundos del juego. Organizado en **fuentes mágicas** y **escuelas**, cada combinación define un estilo de combate diferente.
+Xindeler's magic system is one of the deepest in the game. Organized into **magic sources** and **schools**, each combination defines a different combat style.
 
-## Fuentes mágicas
+## Magic Sources
 
-Cada hechizo pertenece a una fuente mágica que define su origen y naturaleza:
+Each spell belongs to a magic source that defines its origin and nature:
 
-| Fuente | Descripción |
+| Source | Description |
 |--------|-------------|
-| **Arcana** | La magia del Veil — el tejido de energía que permea el mundo |
-| **Divina** | Concedida por los Luminaries a sus seguidores fieles |
-| **Primal** | La fuerza bruta de la naturaleza y los elementos |
-| **Psionic** | El poder de la mente sobre la materia |
-| **Ki** | Energía interna canalizada a través del cuerpo |
+| **Arcana** | The magic of the Veil — the fabric of energy that permeates the world |
+| **Divine** | Granted by the Luminaries to their faithful followers |
+| **Primal** | The raw force of nature and the elements |
+| **Psionic** | The power of the mind over matter |
+| **Ki** | Internal energy channeled through the body |
 
-## Escuelas de magia
+## Schools of Magic
 
-Las escuelas determinan el *tipo* de efecto mágico:
+Schools determine the *type* of magical effect:
 
-| Escuela | Fuente | Descripción |
+| School | Source | Description |
 |---------|--------|-------------|
-| **Evocación** | Arcana | Daño directo, explosiones, proyectiles |
-| **Hemomancy** | Arcana | Magia de sangre — única en Xindeler |
-| **Axiomancy** | Arcana | Gravedad, tiempo y espacio |
-| **Nigromancia** | Arcana | Control y debilitamiento |
-| **Encantamiento** | Arcana / Divina | Manipulación mental |
-| **Abjuración** | Arcana | Defensa y negación mágica |
-| **Conjuración** | Arcana | Invocación y summoning |
-| **Ilusión** | Arcana | Engaño y percepción |
-| **Adivinación** | Arcana | Conocimiento e información |
-| **Transmutación** | Arcana | Transformación y alteración |
+| **Evocation** | Arcana | Direct damage, explosions, projectiles |
+| **Hemomancy** | Arcana | Blood magic — unique to Xindeler |
+| **Axiomancy** | Arcana | Gravity, time and space |
+| **Necromancy** | Arcana | Control and debilitation |
+| **Enchantment** | Arcana / Divine | Mental manipulation |
+| **Abjuration** | Arcana | Defense and magical negation |
+| **Conjuration** | Arcana | Summoning |
+| **Illusion** | Arcana | Deception and perception |
+| **Divination** | Arcana | Knowledge and information |
+| **Transmutation** | Arcana | Transformation and alteration |
 
-> Actualmente el **Mage** y el **Cleric** son las clases con acceso a magia. Futuras clases como Warlock, Druid y Bard tendrán acceso a combinaciones únicas de fuentes y escuelas.
+> Currently the **Mage** and the **Cleric** are the classes with access to magic. Future classes like Warlock, Druid and Bard will have access to unique combinations of sources and schools.
 
-## ¿Cómo se aprenden los hechizos?
+## How Are Spells Learned?
 
-Los hechizos se aprenden a través de los skill trees de clase. Cada árbol tiene hechizos organizados por nivel (0–9), desbloqueables con puntos de habilidad.
+Spells are learned through class skill trees. Each tree has spells organized by level (0–9), unlockable with skill points.
 
-Las armas de caster (Tomo, Foco, Símbolo sagrado, Bastón) determinan qué conjunto de hechizos básicos tenés disponibles, mientras que los hechizos firma son exclusivos de la clase.
+Caster weapons (Tome, Focus, Holy Symbol, Staff) determine which set of basic spells you have available, while signature spells are exclusive to the class.
 
-## El Veil
+## The Veil
 
-El Veil es el tejido de energía arcana que permea el mundo de Xindeler. Fue creado por los Luminaries para armar a los mortales contra las amenazas del Void. Toda la magia arcana tiene su origen en él.
+The Veil is the fabric of arcane energy that permeates the world of Xindeler. It was created by the Luminaries to arm mortals against the threats of the Void. All arcane magic has its origin in it.
 
-> *El conocimiento profundo del Veil — sus orígenes, sus límites y qué lo amenaza — es uno de los grandes misterios del lore de Xindeler.*
+> *Deep knowledge of the Veil — its origins, its limits and what threatens it — is one of the great mysteries of Xindeler's lore.*
