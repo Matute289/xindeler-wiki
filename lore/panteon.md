@@ -4,36 +4,32 @@ El panteón de Xindeler está compuesto por los **Luminaries** — los dioses qu
 
 ## Los Luminaries
 
-Los dieciséis dioses fieles. Cada uno tiene un dominio, un reino propio más allá del Divine Gate, y cultos activos en el mundo mortal.
+Los doce dioses fieles. Cada uno tiene un dominio, un reino propio más allá del Divine Gate, y cultos activos en el mundo mortal.
 
 | Nombre | Dominio |
 |--------|---------|
+| **Solenne, la Madre del Amanecer** | Sol, luz, vida, agricultura |
+| **Seraine, la Luz Eterna** | Redención, misericordia, sanación |
 | **Aurelle, la Arch-Wright** | Arte, creación, elfos |
+| **Veshtur, el Estandarte Inroto** | Dragones platinados, juramentos, protección |
+| **Hestdram, el Gran Martillo** | Forja, artesanía, hogar, familia |
+| **Veradel, la Madre Salvaje** | Naturaleza, mares, tempestades |
+| **Lunere, la Soñadora Pálida** | Luna, sueños, segunda vista |
+| **Vorne, el Coronado por Tormentas** | Tormentas del cielo, fuerza, combate honesto |
+| **Velora, la Rueda de los Años** | Tiempo, estaciones, suerte, los cruces del camino |
+| **Gildmar, la Mano Abierta** | Comercio, contratos honestos, confianza |
 | **Yssira, la Archivista Velada** | Conocimiento, magia como patrón, estrellas |
 | **Nereth, la Puerta Silenciosa** | Muerte, destino, invierno |
-| **Solenne, la Madre del Amanecer** | Sol, luz, vida |
-| **Seraine, la Luz Eterna** | Redención, misericordia, sanación |
-| **Lunere, la Soñadora Pálida** | Luna, sueños |
-| **Velora** | Tiempo, los años, el ciclo |
-| **Veshtur** | Dragones platinados, juramentos, protección |
-| **Veradel, la Madre Salvaje** | Naturaleza, mares, tempestades |
-| **Toldram** | Forja, artesanía |
-| **Hestrel** | — |
-| **Maravel** | — |
-| **Gildmar, la Mano Abierta** | Comercio, contratos honestos, gremios |
-| **Vorne, el Coronado por Tormentas** | Tormentas, fuerza, combate honesto |
-| **Pell** | Trucos, secretos |
-| **Verdessa** | — |
 
-> *Algunos Luminaries son más conocidos que otros. Hay dominios que aún no han sido completamente revelados.*
+> *Los dominios completos de cada Luminary — sus cultos, su historia y sus guerras — son parte del lore que se revela en el juego.*
 
 ## Los Unfaithful
 
-Ocho dioses que rompieron el pacto del Worldsong. Sus nombres son conocidos en el mundo mortal. Sus cultos también existen — en las sombras, en lugares donde la luz de los Luminaries no llega.
+Nueve dioses que rompieron el pacto del Worldsong. Sus nombres son conocidos en el mundo mortal. Sus cultos también existen — en las sombras, en lugares donde la luz de los Luminaries no llega.
 
 *No se revela aquí quiénes son los Unfaithful ni qué hicieron. Su historia es parte del lore más profundo de Xindeler.*
 
-> *"Hay ocho sillas vacías en el gran consejo. Nadie se sienta en ellas. Nadie habla de por qué están vacías en voz alta."*
+> *"Hay nueve sillas vacías en el gran consejo. Nadie se sienta en ellas. Nadie habla de por qué están vacías en voz alta."*
 
 ## Los Eternals
 
