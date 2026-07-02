@@ -61,4 +61,4 @@ El **Project AURORA** es el sistema que dará a los NPCs de Xindeler una profund
 - Economía dinámica propia
 - Generación autónoma de misiones basada en sus necesidades reales
 
-*AURORA está en planificación activa. Ver la [Hoja de Ruta](https://xindeler.greenmountain.dev#roadmap) para más información.*
+*AURORA está en planificación activa. Ver la [Hoja de Ruta](https://xindeler.com#roadmap) para más información.*

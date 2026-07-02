@@ -15,7 +15,7 @@ Xindeler is an open-source MMORPG built in Rust, forked from Veloren and evolvin
 
 ## Download
 
-Download the latest version from the [Downloads](https://xindeler.greenmountain.dev#download) section of the official website.
+Download the latest version from the [Downloads](https://xindeler.com#download) section of the official website.
 
 Versions are available for:
 - **Windows** — x86_64 and ARM64

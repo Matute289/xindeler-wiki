@@ -1,4 +1,4 @@
-# Xindeler Wiki — CLAUDE.md
+# Xindeler Wiki — AGENTS.md
 
 ## Commands
 
