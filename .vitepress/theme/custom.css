@@ -53,6 +53,9 @@ h1, h2, h3,
 /* ── Navbar ───────────────────────────────────────────────────────── */
 .dark .VPNav {
   border-bottom: 1px solid rgba(212, 160, 23, 0.12);
+}
+
+.dark .VPNavBar {
   backdrop-filter: blur(12px);
 }
 
