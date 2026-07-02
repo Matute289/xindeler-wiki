@@ -64,6 +64,13 @@ h1, h2, h3,
   letter-spacing: 0.05em;
 }
 
+/* ── Language switcher — mark the active locale with a mate ──────── */
+.VPNavBarTranslations .title::after,
+.VPNavBarExtra .trans-title::after,
+.VPNavScreenTranslations .title::after {
+  content: ' 🧉';
+}
+
 /* ── Hero (homepage) ──────────────────────────────────────────────── */
 .dark .VPHero .name {
   background: linear-gradient(135deg, #d4a017 0%, #f0c842 50%, #b8880e 100%);

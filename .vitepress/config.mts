@@ -16,12 +16,12 @@ export default defineConfig({
 
   locales: {
     root: {
-      label: 'English',
+      label: '🇺🇸 English',
       lang: 'en-US',
       description: 'The encyclopedia of the Xindeler universe — an open-source fantasy MMORPG.',
       themeConfig: {
         nav: [
-          { text: '← Xindeler.com', link: 'https://xindeler.com' },
+          { text: 'Xindeler', link: 'https://xindeler.com', noIcon: true },
           { text: 'Guides', link: '/guias/empezando' },
           { text: 'Gameplay', link: '/gameplay/clases/' },
           { text: 'Lore', link: '/lore/historia' },
@@ -127,12 +127,12 @@ export default defineConfig({
       },
     },
     es: {
-      label: 'Español',
+      label: '🇦🇷 Español',
       lang: 'es-419',
       description: 'La enciclopedia del universo de Xindeler — un MMORPG de fantasía de código abierto.',
       themeConfig: {
         nav: [
-          { text: '← Xindeler.com', link: 'https://xindeler.com' },
+          { text: 'Xindeler', link: 'https://xindeler.com', noIcon: true },
           { text: 'Guías', link: '/es/guias/empezando' },
           { text: 'Gameplay', link: '/es/gameplay/clases/' },
           { text: 'Lore', link: '/es/lore/historia' },
