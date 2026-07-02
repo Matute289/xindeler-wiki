@@ -61,4 +61,4 @@ Some NPCs can be hired as temporary companions, with a time limit. They join the
 - Dynamic economy of their own
 - Autonomous quest generation based on their real needs
 
-*AURORA is in active planning. See the [Roadmap](https://xindeler.greenmountain.dev#roadmap) for more information.*
+*AURORA is in active planning. See the [Roadmap](https://xindeler.com#roadmap) for more information.*

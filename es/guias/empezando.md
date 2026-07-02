@@ -15,7 +15,7 @@ Xindeler es un MMORPG de código abierto construido en Rust, bifurcado de Velore
 
 ## Descarga
 
-Descargá la última versión desde la sección de [Descargas](https://xindeler.greenmountain.dev#download) de la web oficial.
+Descargá la última versión desde la sección de [Descargas](https://xindeler.com#download) de la web oficial.
 
 Están disponibles versiones para:
 - **Windows** — x86_64 y ARM64
