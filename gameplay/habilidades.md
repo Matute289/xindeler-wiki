@@ -25,7 +25,7 @@ Available for all classes. Includes:
 
 ### Class Trees
 
-Each class has its own tree under development. Currently implemented for Warrior, Mage, Cleric and Rogue. Future classes (Barbarian, Paladin, etc.) will have their trees in later development phases.
+Each class has its own tree. Fully populated for Warrior, Mage, Cleric and Rogue. The 10 classes added more recently (Barbarian, Sorcerer, Warlock, Bard, Paladin, Druid, Ranger, Monk, Artificer, Blood Slayer) are already playable, but their dedicated trees are still in development — see the [class list](/gameplay/clases/) for details on each.
 
 ### Mining Tree (Pick)
 
