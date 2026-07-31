@@ -24,7 +24,7 @@ This repo (`Matute289/xindeler-wiki`) is the **public wiki** — the player-faci
 |------|-----------|---------|
 | `Matute289/xindeler-design` | **Private** | Source of truth for all lore, game design specs, IP depuration tools |
 | `Matute289/xindeler-web-landing` | Public | Landing page (`xindeler.com`) |
-| `Matute289/xindeler` | Public | Game engine (Veloren fork) |
+| `Matute289/xindeler-new-horizon` | Public | Game engine (Veloren fork) |
 | `Matute289/xindeler-wiki` | Public | This repo — player wiki |
 
 **The wiki is downstream of `xindeler-design`.** Canon lives in the design repo; the wiki shows a curated public view. Never invent lore that contradicts the design repo.

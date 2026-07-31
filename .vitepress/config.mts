@@ -242,7 +242,7 @@ export default defineConfig({
   themeConfig: {
     siteTitle: 'Xindeler Wiki',
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/Matute289/xindeler' },
+      { icon: 'github', link: 'https://github.com/Matute289/xindeler-new-horizon' },
       { icon: 'discord', link: 'https://discord.gg/Jpg9scQE' },
     ],
   },
