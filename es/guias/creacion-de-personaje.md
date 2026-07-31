@@ -1,6 +1,6 @@
 # Creación de personaje
 
-Al crear tu personaje en Xindeler tomás dos decisiones que definen tu estilo de juego: la **raza** y la **clase**.
+Al crear tu personaje en Xindeler tomás tres decisiones que definen tu estilo de juego: la **raza**, la **clase** y el **trasfondo**.
 
 ## Elegir una raza
 
@@ -19,7 +19,7 @@ Las razas otorgan un **pasivo permanente** y una **habilidad innata** activa. Ni
 
 ## Elegir una clase
 
-La clase determina tu rol en combate, las armas que podés usar y las habilidades especiales disponibles.
+La clase determina tu rol en combate, las armas que podés usar y las habilidades especiales disponibles. Xindeler tiene hoy **14 clases jugables** — las cuatro originales tienen árboles de habilidades completos, y otras diez se sumaron al roster hace poco (jugables desde ya, con sus árboles de habilidades todavía en desarrollo).
 
 | Clase | Rol | Armas principales |
 |-------|-----|-------------------|
@@ -28,7 +28,13 @@ La clase determina tu rol en combate, las armas que podés usar y las habilidade
 | [Cleric](/gameplay/clases/cleric) | Soporte / Sanación | Símbolo sagrado, cetro |
 | [Rogue](/gameplay/clases/rogue) | Daño / Movilidad | Daga, arco |
 
-→ [Ver todas las clases en detalle](/gameplay/clases/)
+→ [Ver las 14 clases en detalle](/gameplay/clases/)
+
+## Elegir un trasfondo
+
+Tu trasfondo captura quién era tu personaje antes de que empezara la aventura — su oficio, su posición social, el mundo que lo formó. Xindeler tiene **24 trasfondos** agrupados en 7 categorías, desde el humilde Farmer hasta el bien conectado Noble. Un trasfondo nunca restringe tu elección de raza o clase — cualquier combinación es válida.
+
+→ [Ver todos los trasfondos](/gameplay/trasfondos)
 
 ## Restricciones de equipamiento
 

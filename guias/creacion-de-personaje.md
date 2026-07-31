@@ -1,6 +1,6 @@
 # Character Creation
 
-When creating your character in Xindeler you make two decisions that define your playstyle: your **race** and your **class**.
+When creating your character in Xindeler you make three decisions that define your playstyle: your **race**, your **class** and your **background**.
 
 ## Choosing a Race
 
@@ -19,7 +19,7 @@ Races grant a **permanent passive** and an active **innate ability**. No race is
 
 ## Choosing a Class
 
-The class determines your combat role, the weapons you can use and the special abilities available.
+The class determines your combat role, the weapons you can use and the special abilities available. Xindeler currently has **14 playable classes** — the original four have fully developed skill trees, and ten more recently joined the roster (playable today, with skill trees still being built out).
 
 | Class | Role | Main weapons |
 |-------|-----|-------------------|
@@ -28,7 +28,13 @@ The class determines your combat role, the weapons you can use and the special a
 | [Cleric](/gameplay/clases/cleric) | Support / Healing | Holy symbol, sceptre |
 | [Rogue](/gameplay/clases/rogue) | Damage / Mobility | Dagger, bow |
 
-→ [See all classes in detail](/gameplay/clases/)
+→ [See all 14 classes in detail](/gameplay/clases/)
+
+## Choosing a Background
+
+Your background captures who your character was before the adventure began — their trade, their station, the world that shaped them. Xindeler has **24 backgrounds** grouped into 7 categories, from the humble Farmer to the well-connected Noble. A background never restricts your race or class choice — any combination is valid.
+
+→ [See all backgrounds](/gameplay/trasfondos)
 
 ## Equipment Restrictions
 
