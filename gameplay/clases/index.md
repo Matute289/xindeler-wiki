@@ -2,9 +2,11 @@
 
 Classes in Xindeler define your combat role, the weapons you can use, the special abilities available and your starting equipment.
 
-## Active Classes
+Xindeler has **14 playable classes**, all selectable today at character creation.
 
-There are currently **4 fully implemented classes** with complete skill trees and starting equipment:
+## Original Classes
+
+These four have complete skill trees and starting equipment:
 
 | Class | Role | Difficulty | Magic source |
 |-------|-----|-----------|---------------|
@@ -13,13 +15,22 @@ There are currently **4 fully implemented classes** with complete skill trees an
 | [Cleric](/gameplay/clases/cleric) | Support / Healing | ⭐⭐ Medium | Divine |
 | [Rogue](/gameplay/clases/rogue) | Damage / Mobility | ⭐⭐⭐ High | — |
 
-## Classes in Development
+## Newer Classes
 
-The following classes are planned and some have partially implemented systems:
+These ten joined the roster more recently. They're fully playable — selectable at character creation with their own stats, identity and starting kit — but their dedicated skill trees are still being built out, so for now they play on their base kit:
 
-**Barbarian · Sorcerer · Warlock · Bard · Paladin · Druid · Ranger · Monk · Artificer · BloodSlayer**
-
-> These classes will appear as options in the character selector but their skill trees will be empty until completed in future development phases.
+| Class | Role | Difficulty | Magic source |
+|-------|-----|-----------|---------------|
+| [Barbarian](/gameplay/clases/barbarian) | Physical damage / Tank | ⭐ Low | — |
+| [Sorcerer](/gameplay/clases/sorcerer) | Magic damage | ⭐⭐⭐ High | Arcane (bloodline) |
+| [Warlock](/gameplay/clases/warlock) | Magic damage | ⭐⭐⭐ High | Arcane (pact) |
+| [Bard](/gameplay/clases/bard) | Support / Control | ⭐⭐ Medium | Arcane (music) |
+| [Paladin](/gameplay/clases/paladin) | Damage / Tank | ⭐⭐ Medium | Divine (oath) |
+| [Druid](/gameplay/clases/druid) | Magic damage / Support | ⭐⭐ Medium | Primal |
+| [Ranger](/gameplay/clases/ranger) | Damage / Mobility | ⭐⭐ Medium | Primal (half-caster) |
+| [Monk](/gameplay/clases/monk) | Damage / Mobility | ⭐⭐ Medium | Ki |
+| [Artificer](/gameplay/clases/artificer) | Magic damage / Support | ⭐⭐ Medium | Arcane (half) |
+| [Blood Slayer](/gameplay/clases/blood-slayer) | Melee damage / Blood magic | ⭐⭐⭐ High | Hemomancy + martial |
 
 ## How Classes Work
 

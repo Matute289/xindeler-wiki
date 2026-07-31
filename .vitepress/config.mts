@@ -47,6 +47,16 @@ export default defineConfig({
                 { text: 'Mage', link: '/gameplay/clases/mage' },
                 { text: 'Cleric', link: '/gameplay/clases/cleric' },
                 { text: 'Rogue', link: '/gameplay/clases/rogue' },
+                { text: 'Barbarian', link: '/gameplay/clases/barbarian' },
+                { text: 'Sorcerer', link: '/gameplay/clases/sorcerer' },
+                { text: 'Warlock', link: '/gameplay/clases/warlock' },
+                { text: 'Bard', link: '/gameplay/clases/bard' },
+                { text: 'Paladin', link: '/gameplay/clases/paladin' },
+                { text: 'Druid', link: '/gameplay/clases/druid' },
+                { text: 'Ranger', link: '/gameplay/clases/ranger' },
+                { text: 'Monk', link: '/gameplay/clases/monk' },
+                { text: 'Artificer', link: '/gameplay/clases/artificer' },
+                { text: 'Blood Slayer', link: '/gameplay/clases/blood-slayer' },
               ],
             },
             {
@@ -60,6 +70,14 @@ export default defineConfig({
                 { text: 'Orc', link: '/gameplay/razas/orc' },
                 { text: 'Danari', link: '/gameplay/razas/danari' },
                 { text: 'Draugr', link: '/gameplay/razas/draugr' },
+              ],
+            },
+            {
+              text: 'Character',
+              collapsed: false,
+              items: [
+                { text: 'Multiclassing', link: '/gameplay/multiclase' },
+                { text: 'Backgrounds', link: '/gameplay/trasfondos' },
               ],
             },
             {
@@ -158,6 +176,16 @@ export default defineConfig({
                 { text: 'Mage', link: '/es/gameplay/clases/mage' },
                 { text: 'Cleric', link: '/es/gameplay/clases/cleric' },
                 { text: 'Rogue', link: '/es/gameplay/clases/rogue' },
+                { text: 'Barbarian', link: '/es/gameplay/clases/barbarian' },
+                { text: 'Sorcerer', link: '/es/gameplay/clases/sorcerer' },
+                { text: 'Warlock', link: '/es/gameplay/clases/warlock' },
+                { text: 'Bard', link: '/es/gameplay/clases/bard' },
+                { text: 'Paladin', link: '/es/gameplay/clases/paladin' },
+                { text: 'Druid', link: '/es/gameplay/clases/druid' },
+                { text: 'Ranger', link: '/es/gameplay/clases/ranger' },
+                { text: 'Monk', link: '/es/gameplay/clases/monk' },
+                { text: 'Artificer', link: '/es/gameplay/clases/artificer' },
+                { text: 'Blood Slayer', link: '/es/gameplay/clases/blood-slayer' },
               ],
             },
             {
@@ -171,6 +199,14 @@ export default defineConfig({
                 { text: 'Orc', link: '/es/gameplay/razas/orc' },
                 { text: 'Danari', link: '/es/gameplay/razas/danari' },
                 { text: 'Draugr', link: '/es/gameplay/razas/draugr' },
+              ],
+            },
+            {
+              text: 'Personaje',
+              collapsed: false,
+              items: [
+                { text: 'Multiclase', link: '/es/gameplay/multiclase' },
+                { text: 'Trasfondos', link: '/es/gameplay/trasfondos' },
               ],
             },
             {
