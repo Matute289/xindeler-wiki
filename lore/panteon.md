@@ -12,7 +12,7 @@ The twelve faithful gods. Each has a domain, a realm of their own beyond the Div
 | **Seraine, the Eternal Light** | Redemption, mercy, healing |
 | **Aurelle, the Arch-Wright** | Art, creation, elves |
 | **Veshtur, the Unbroken Banner** | Platinum dragons, oaths, protection |
-| **Hestdram, the Great Hammer** | Forge, craftsmanship, home, family |
+| **Hestdram, the Allhammer** | Forge, craftsmanship, hearth, family |
 | **Veradel, the Wild Mother** | Nature, seas, storms |
 | **Lunere, the Pale Dreamer** | Moon, dreams, second sight |
 | **Vorne, the Storm-Crowned** | Sky storms, strength, honest combat |

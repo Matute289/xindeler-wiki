@@ -30,7 +30,7 @@ Versions are available for:
 
 When launching the client for the first time, you will be asked to create an account with a username and password.
 
-> The authentication service is under active development. See the [Roadmap](/lore/historia) for more information.
+> The authentication service is under active development. See the [Roadmap](https://xindeler.com#roadmap) for more information.
 
 ### 2. Create Your Character
 
