@@ -10,17 +10,17 @@ There are **6 playable races** in Xindeler. Each grants a permanent passive and 
 | [Elf](/gameplay/razas/elf) | +3% movement speed | Fleetness | — |
 | [Dwarf](/gameplay/razas/dwarf) | +2% damage reduction | Stoneblood | 90s |
 | [Orc](/gameplay/razas/orc) | +3% attack damage | Bloodrage | — |
-| [Danari](/gameplay/razas/danari) | +5% maximum Energy | Shadowstep | — |
-| [Draugr](/gameplay/razas/draugr) | +10% CC resistance | Gravechill | — |
+| [Gnome](/gameplay/razas/gnome) | +5% maximum Energy | Shadowstep | — |
+| [Dhampir](/gameplay/razas/dhampir) | +10% CC resistance | Gravechill | — |
 
 ## Popular Combinations
 
 - **Warrior + Dwarf** — the Dwarf's damage reduction + Stoneblood makes the Warrior nearly unbreakable in direct combat.
 - **Mage + Elf** — the extra speed facilitates kiting (maintaining distance while casting magic).
-- **Rogue + Danari** — Shadowstep (blink) is the perfect complement for the Rogue's mobility.
+- **Rogue + Gnome** — Shadowstep (blink) is the perfect complement for the Rogue's mobility.
 - **Cleric + Human** — extra Energy recovery improves healing cadence.
 - **Warrior + Orc** — more pure physical damage for an aggressive style.
-- **Mage + Danari** — Shadowstep serves to escape dangerous situations.
+- **Mage + Gnome** — Shadowstep serves to escape dangerous situations.
 
 ## Races of the World
 

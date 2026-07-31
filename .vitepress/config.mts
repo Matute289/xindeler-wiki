@@ -68,8 +68,8 @@ export default defineConfig({
                 { text: 'Elf', link: '/gameplay/razas/elf' },
                 { text: 'Dwarf', link: '/gameplay/razas/dwarf' },
                 { text: 'Orc', link: '/gameplay/razas/orc' },
-                { text: 'Danari', link: '/gameplay/razas/danari' },
-                { text: 'Draugr', link: '/gameplay/razas/draugr' },
+                { text: 'Gnome', link: '/gameplay/razas/gnome' },
+                { text: 'Dhampir', link: '/gameplay/razas/dhampir' },
               ],
             },
             {
@@ -197,8 +197,8 @@ export default defineConfig({
                 { text: 'Elf', link: '/es/gameplay/razas/elf' },
                 { text: 'Dwarf', link: '/es/gameplay/razas/dwarf' },
                 { text: 'Orc', link: '/es/gameplay/razas/orc' },
-                { text: 'Danari', link: '/es/gameplay/razas/danari' },
-                { text: 'Draugr', link: '/es/gameplay/razas/draugr' },
+                { text: 'Gnome', link: '/es/gameplay/razas/gnome' },
+                { text: 'Dhampir', link: '/es/gameplay/razas/dhampir' },
               ],
             },
             {

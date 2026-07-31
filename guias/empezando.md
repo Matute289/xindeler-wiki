@@ -40,7 +40,7 @@ Some tips for new players:
 - **Warrior + Dwarf** — a tough combination, ideal for learning the combat system.
 - **Mage + Elf** — high movement speed and powerful magic, harder to master.
 - **Cleric + Human** — versatile, able to sustain and heal, good for group play.
-- **Rogue + Danari** — precision damage and extreme mobility, for experienced players.
+- **Rogue + Gnome** — precision damage and extreme mobility, for experienced players.
 
 ### 3. The World
 

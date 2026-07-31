@@ -86,7 +86,7 @@ Internal links in Spanish pages must use the `/es/` prefix (e.g. `/es/lore/histo
 │   │   └── rogue.md
 │   ├── razas/                      # Races (EN)
 │   │   ├── index.md
-│   │   └── human.md, elf.md, dwarf.md, orc.md, danari.md, draugr.md
+│   │   └── human.md, elf.md, dwarf.md, orc.md, gnome.md, dhampir.md
 │   ├── combate.md
 │   ├── magia.md
 │   ├── crafteo.md

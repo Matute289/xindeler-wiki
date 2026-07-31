@@ -12,8 +12,8 @@ Las razas otorgan un **pasivo permanente** y una **habilidad innata** activa. Ni
 | [Elf](/gameplay/razas/elf) | +3% velocidad de movimiento | Fleetness |
 | [Dwarf](/gameplay/razas/dwarf) | +2% reducción de daño recibido | Stoneblood |
 | [Orc](/gameplay/razas/orc) | +3% daño de ataque | Bloodrage |
-| [Danari](/gameplay/razas/danari) | +5% energía máxima | Shadowstep |
-| [Draugr](/gameplay/razas/draugr) | +10% resistencia a control de masas | Gravechill |
+| [Gnome](/gameplay/razas/gnome) | +5% energía máxima | Shadowstep |
+| [Dhampir](/gameplay/razas/dhampir) | +10% resistencia a control de masas | Gravechill |
 
 → [Ver todas las razas en detalle](/gameplay/razas/)
 

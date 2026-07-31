@@ -12,8 +12,8 @@ Races grant a **permanent passive** and an active **innate ability**. No race is
 | [Elf](/gameplay/razas/elf) | +3% movement speed | Fleetness |
 | [Dwarf](/gameplay/razas/dwarf) | +2% damage reduction | Stoneblood |
 | [Orc](/gameplay/razas/orc) | +3% attack damage | Bloodrage |
-| [Danari](/gameplay/razas/danari) | +5% maximum Energy | Shadowstep |
-| [Draugr](/gameplay/razas/draugr) | +10% CC resistance | Gravechill |
+| [Gnome](/gameplay/razas/gnome) | +5% maximum Energy | Shadowstep |
+| [Dhampir](/gameplay/razas/dhampir) | +10% CC resistance | Gravechill |
 
 → [See all races in detail](/gameplay/razas/)
 
