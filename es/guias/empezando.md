@@ -30,7 +30,7 @@ Están disponibles versiones para:
 
 Al iniciar el cliente por primera vez, se te pedirá que crees una cuenta con nombre de usuario y contraseña.
 
-> El servicio de autenticación está en desarrollo activo. Consultá la [Hoja de Ruta](/lore/historia) para más información.
+> El servicio de autenticación está en desarrollo activo. Consultá la [Hoja de Ruta](https://xindeler.com#roadmap) para más información.
 
 ### 2. Crear tu personaje
 

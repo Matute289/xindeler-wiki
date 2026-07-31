@@ -12,7 +12,7 @@ Los doce dioses fieles. Cada uno tiene un dominio, un reino propio más allá de
 | **Seraine, la Luz Eterna** | Redención, misericordia, sanación |
 | **Aurelle, la Arch-Wright** | Arte, creación, elfos |
 | **Veshtur, el Estandarte Inroto** | Dragones platinados, juramentos, protección |
-| **Hestdram, el Gran Martillo** | Forja, artesanía, hogar, familia |
+| **Hestdram, el Martillo Eterno** | Forja, artesanía, hogar, familia |
 | **Veradel, la Madre Salvaje** | Naturaleza, mares, tempestades |
 | **Lunere, la Soñadora Pálida** | Luna, sueños, segunda vista |
 | **Vorne, el Coronado por Tormentas** | Tormentas del cielo, fuerza, combate honesto |
