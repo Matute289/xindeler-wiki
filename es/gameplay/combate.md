@@ -5,13 +5,13 @@ El sistema de combate de Xindeler es en tiempo real, basado en habilidades activ
 ## Mecánicas fundamentales
 
 ### Energía
-La energía es el recurso principal para ejecutar habilidades activas. Se regenera pasivamente y puede aumentarse con pasivos raciales (Human +3% recuperación, Danari +5% máximo) o habilidades de clase.
+La energía es el recurso principal para ejecutar habilidades activas. Se regenera pasivamente y puede aumentarse con pasivos raciales (Human +3% recuperación, Gnome +5% máximo) o habilidades de clase.
 
 ### Combos
 Algunas habilidades requieren o generan **combo points**. Ejecutar habilidades en el orden correcto maximiza el daño y desencadena efectos adicionales.
 
 ### Poise
-El sistema de **poise** determina cuándo un personaje puede ser interrumpido. Ataques pesados o acumulación de daño suficiente rompen el poise del objetivo, interrumpiendo su animación actual. El Draugr tiene resistencia a CC, que indirectamente protege su poise.
+El sistema de **poise** determina cuándo un personaje puede ser interrumpido. Ataques pesados o acumulación de daño suficiente rompen el poise del objetivo, interrumpiendo su animación actual. El Dhampir tiene resistencia a CC, que indirectamente protege su poise.
 
 ### Parry
 Bloquear en el momento exacto de un ataque activa un **parry**, que reduce el daño a cero y puede abrir ventanas de contraataque. El Warrior tiene habilidades específicas para aprovechar el parry (DefensiveRiposte).

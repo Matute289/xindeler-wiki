@@ -52,6 +52,6 @@ The Rogue begins with hunting leathers that include a **passive stealth bonus**,
 
 ## Tips
 
-- **Danari** is the most popular race for Rogue: Shadowstep (blink) + +5% maximum Energy greatly enhance mobility.
+- **Gnome** is the most popular race for Rogue: Shadowstep (blink) + +5% maximum Energy greatly enhance mobility.
 - The learning curve is high but the payoff is too: with good positioning the Rogue surpasses any other class in damage.
 - In PvP, combine **ArdentHunt** from stealth with a dagger finish for maximum burst.

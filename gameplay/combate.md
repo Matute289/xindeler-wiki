@@ -5,13 +5,13 @@ Xindeler's combat system is real-time, based on active abilities, positioning an
 ## Core Mechanics
 
 ### Energy
-Energy is the primary resource for executing active abilities. It regenerates passively and can be increased with racial passives (Human +3% recovery, Danari +5% maximum) or class abilities.
+Energy is the primary resource for executing active abilities. It regenerates passively and can be increased with racial passives (Human +3% recovery, Gnome +5% maximum) or class abilities.
 
 ### Combos
 Some abilities require or generate **combo points**. Executing abilities in the correct order maximizes damage and triggers additional effects.
 
 ### Poise
-The **Poise** system determines when a character can be interrupted. Heavy attacks or sufficient damage accumulation breaks the target's Poise, interrupting their current animation. The Draugr has CC resistance, which indirectly protects their Poise.
+The **Poise** system determines when a character can be interrupted. Heavy attacks or sufficient damage accumulation breaks the target's Poise, interrupting their current animation. The Dhampir has CC resistance, which indirectly protects their Poise.
 
 ### Parry
 Blocking at the exact moment of an attack activates a **parry**, which reduces damage to zero and can open counterattack windows. The Warrior has specific abilities to capitalize on parries (DefensiveRiposte).

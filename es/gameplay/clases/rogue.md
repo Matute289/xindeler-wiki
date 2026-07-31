@@ -52,6 +52,6 @@ El Rogue comienza con cueros de caza que incluyen una **bonificación pasiva de 
 
 ## Consejos
 
-- **Danari** es la raza más popular para Rogue: Shadowstep (blink) + +5% energía máxima potencian enormemente la movilidad.
+- **Gnome** es la raza más popular para Rogue: Shadowstep (blink) + +5% energía máxima potencian enormemente la movilidad.
 - La curva de aprendizaje es alta pero el payoff también: con buen posicionamiento el Rogue supera en daño a cualquier otra clase.
 - En PvP, combiná **ArdentHunt** desde sigilo con un remate de daga para máximo burst.
