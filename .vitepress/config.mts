@@ -109,6 +109,7 @@ export default defineConfig({
               text: 'Database',
               items: [
                 { text: 'Creatures', link: '/base-de-datos/criaturas' },
+                { text: 'Armor', link: '/base-de-datos/armaduras' },
                 { text: 'NPCs', link: '/base-de-datos/npcs' },
               ],
             },
@@ -239,6 +240,7 @@ export default defineConfig({
               text: 'Base de Datos',
               items: [
                 { text: 'Criaturas', link: '/es/base-de-datos/criaturas' },
+                { text: 'Armaduras', link: '/es/base-de-datos/armaduras' },
                 { text: 'NPCs', link: '/es/base-de-datos/npcs' },
               ],
             },
