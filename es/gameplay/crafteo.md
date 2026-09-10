@@ -12,7 +12,7 @@ Para craftear un item necesitás:
 ## Categorías de items crafteables
 
 ### Armas
-Las armas de Xindeler son **modulares**: los materiales usados determinan los stats finales del arma. Los tipos disponibles incluyen espada, hacha, martillo, arco, daga, bastón, cetro, tomo, foco y símbolo sagrado.
+Las armas de Xindeler son **modulares**: los materiales usados determinan los stats finales del arma. Los tipos disponibles incluyen espada, hacha, martillo, arco, bastón, cetro, tomo, foco y símbolo sagrado. Daga, escudo, lanza y cerbatana están planeadas pero todavía no son crafteables.
 
 Materiales de armas: metales (`metal_weapon_materials`) y maderas (`wood_weapon_materials`), con distintas propiedades según la fuente.
 
@@ -30,7 +30,17 @@ Items de utilidad: los gliders permiten planear desde alturas, las linternas ilu
 
 ## Calidad de items
 
-Los items tienen un sistema de **calidad** representado por colores (similar a rating de color). La calidad del item final depende de los materiales usados: mejores materiales = mayor calidad.
+Los items tienen un sistema de **calidad** representado por colores. La calidad del item final depende de los materiales usados: mejores materiales = mayor calidad.
+
+| Calidad | Color |
+|---------|-------|
+| Low (Baja) | Gris |
+| Common (Común) | Celeste |
+| Moderate (Moderada) | Verde |
+| High (Alta) | Azul |
+| Epic (Épica) | Violeta |
+| Legendary (Legendaria) | Dorado |
+| Artifact (Artefacto) | Naranja |
 
 ## Reparación
 
