@@ -33,6 +33,16 @@ Las escuelas determinan el *tipo* de efecto mágico:
 
 > Actualmente el **Mage** y el **Cleric** son las clases con acceso a magia. Futuras clases como Warlock, Druid y Bard tendrán acceso a combinaciones únicas de fuentes y escuelas.
 
+## Cómo está construido un hechizo
+
+Todo hechizo en Xindeler se define por tres cosas:
+
+- **Una Fuente** (de la tabla de arriba) y **una Escuela** — juntas ubican al hechizo en la taxonomía mágica del juego y determinan qué sensación visual y temática tiene al lanzarlo.
+- **Un cooldown**, validado por el servidor — no podés spamear un hechizo más rápido de lo que su cooldown permite, sin importar trucos del lado del cliente.
+- **Un requerimiento de arma de caster** — lanzar un hechizo requiere tener equipada el arma correspondiente (Tomo, Foco, Símbolo Sagrado, Bastón o Cetro; ver [Armas](/es/gameplay/armas)).
+
+Algunos hechizos están además restringidos a una clase específica — los hechizos firma de una clase solo funcionan para esa clase, mientras que los hechizos más universales y de tier más bajo están disponibles más ampliamente entre casters que comparten una combinación de fuente/escuela.
+
 ## ¿Cómo se aprenden los hechizos?
 
 Los hechizos se aprenden a través de los skill trees de clase. Cada árbol tiene hechizos organizados por nivel (0–9), desbloqueables con puntos de habilidad.

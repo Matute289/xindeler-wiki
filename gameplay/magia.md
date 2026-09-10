@@ -33,6 +33,16 @@ Schools determine the *type* of magical effect:
 
 > Currently the **Mage** and the **Cleric** are the classes with access to magic. Future classes like Warlock, Druid and Bard will have access to unique combinations of sources and schools.
 
+## How a Spell Is Built
+
+Every spell in Xindeler is defined by three things:
+
+- **One Source** (from the table above) and **one School** — together they place the spell in the game's magic taxonomy and determine what it visually and thematically feels like to cast.
+- **A cooldown**, enforced by the server — you can't spam a spell faster than its cooldown allows, regardless of client-side tricks.
+- **A caster weapon requirement** — casting a spell requires having the matching weapon type equipped (Tome, Focus, Holy Symbol, Staff or Sceptre; see [Weapons](/gameplay/armas)).
+
+Some spells are further restricted to a specific class — a class's signature spells only work for that class, while more universal, lower-tier spells are available more broadly across casters who share a source/school combination.
+
 ## How Are Spells Learned?
 
 Spells are learned through class skill trees. Each tree has spells organized by level (0–9), unlockable with skill points.
