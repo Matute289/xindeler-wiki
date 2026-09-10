@@ -1,0 +1,26 @@
+name: Check PRs into development
+
+# Promotion is one-way: feature/fix branches -> development, and
+# (periodically) development -> main. We never merge main back into
+# development. Mirrors xindeler-new-horizon's check-target-branch.yml.
+
+on:
+  pull_request:
+    branches:
+      - development
+
+jobs:
+  reject-main-source:
+    name: Reject main -> development
+    runs-on: ubuntu-latest
+    env:
+      SOURCE: ${{ github.head_ref }}
+    steps:
+      - name: Validate source branch
+        run: |
+          if [[ "$SOURCE" == "main" ]]; then
+            echo "ERROR: do not merge 'main' into 'development'."
+            echo "Promotion is one-way: feature/fix -> development -> main."
+            exit 1
+          fi
+          echo "Source branch '$SOURCE' is allowed into development."

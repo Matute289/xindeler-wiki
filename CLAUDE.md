@@ -33,11 +33,14 @@ This repo (`Matute289/xindeler-wiki`) is the **public wiki** — the player-faci
 
 ## Branch Workflow
 
-- `main` is protected — no direct pushes allowed for contributors
-- All changes go through PRs
-- PRs require **1 approval** from the repo owner (Matías) before merging
-- The owner can bypass protection and push/merge directly when needed
-- CI: `.github/workflows/build.yml` runs `npm run build` on every PR (job: `validate`)
+Mirrors `xindeler-new-horizon`'s model, adapted to this repo (no `hot-fix` branch — not needed at this repo's scale).
+
+- **`development`** — default branch, continuous development. All feature/fix/lore branches PR into `development`.
+- **`main`** — only receives content that's fully done. PRs into `main` are only accepted from `development` (enforced by `check-source-branch.yml`).
+- Both `development` and `main` are protected — no direct pushes for contributors, PRs require **1 approval**, admin (Matías) can bypass.
+- Promotion is one-way: `feature/* → development → main`. Never merge `main` back into `development` (enforced by `check-target-branch.yml`).
+- **Deploy is decoupled from merging.** Merging to `main` does *not* deploy. Pushing a `v*` tag from `main` does — `.github/workflows/deploy.yml` builds and rsyncs `.vitepress/dist/` to the VPS. Tag format: `vYYYY.MM.DD` or semantic `vX.Y.Z`, whichever reads clearest for a given release.
+- CI: `.github/workflows/build.yml` runs `npm run build` (job: `validate`) on every push/PR to `development` or `main`. It only validates — never deploys.
 
 ---
 
@@ -211,8 +214,12 @@ The source of all arcane magic in the mortal world. Mention it by name; do not e
 
 ### VPS deploy (June 2026)
 - Live at `wiki.xindeler.com` — nginx serves `/srv/xindeler/wiki/public/` (config in `MyServerVPS/nginx/sites-available/wiki.xindeler.com`)
-- `.github/workflows/build.yml` rsyncs `.vitepress/dist/` to the VPS on every push to `main`
 - VPS: `ssh -i ~/.ssh/id_ed25519 mgrinberg@216.238.126.97`
+
+### Branch model + tag-based deploy (September 2026)
+- Repo restructured to mirror `xindeler-new-horizon`: `development` (default, continuous work) → PR → `main` (stable) → tag `v*` → deploy.
+- All previously-merged branches deleted (kept only `main`, now joined by `development`).
+- `.github/workflows/deploy.yml` replaces the old "rsync on every push to main" behavior — deploy now only fires on a `v*` tag pushed to `main`. See [Branch Workflow](#branch-workflow) above.
 
 ### Domain migration: `greenmountain.dev` → `xindeler.com` (June 2026)
 All `xindeler.*.greenmountain.dev` subdomains (root, `wiki.`, `auth.`, `cdn.`, `docs.`, `downloads.`) now redirect (301) to their `xindeler.com` counterparts — see `MyServerVPS/nginx/sites-available/*.xindeler.greenmountain.dev`. `xindeler.com` (and its subdomains) is the canonical domain going forward; new links and docs should point there directly rather than relying on the redirect.
