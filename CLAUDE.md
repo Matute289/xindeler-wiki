@@ -232,7 +232,7 @@ All `xindeler.*.greenmountain.dev` subdomains (root, `wiki.`, `auth.`, `cdn.`, `
 
 | Page | Gap |
 |------|-----|
-| `gameplay/clases/` | 4 classes documented; 10+ planned. Add pages as classes ship in-game. |
+| `gameplay/clases/` | 14 classes documented and shipped (see `gameplay/clases/`); skill trees still being fleshed out for barbarian/sorcerer/warlock/bard/paladin/druid/ranger/monk/artificer/blood-slayer. |
 | `gameplay/razas/` | 6 races documented; passive/ability tables are sparse. Expand from game data. |
 | `lore/historia.md` | Six ages teased. Expand each age section as narrative ships. |
 | `lore/panteon.md` | Unfaithful cryptic by design. Reveal as game story progresses. |

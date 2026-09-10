@@ -9,33 +9,41 @@ Una selección de personajes que los jugadores pueden encontrar en el mundo:
 | Nombre | Rol | Región |
 |--------|-----|--------|
 | Acaelus Thorne | Arcanista | Los Highlands |
-| Aldovane | — | — |
-| Alenac | — | — |
+| Aldovane | Arcanista | — |
+| Alenac | — | Cromatolis |
 | Bhardo | — | — |
 | Dorrim Hammergrim | Herrero / Artesano | — |
-| Dravmir | — | — |
-| Farath | — | — |
-| Hesvane | — | — |
-| Kalee | — | — |
-| Lemvane | — | — |
+| Dravmir | Arcanista | — |
+| Farath | — | Isen-Kor |
+| Hesvane | Arcanista | — |
+| Kalee | — | Cromatolis |
+| Lemvane | Arcanista | — |
 | Lio | — | — |
-| Maelthir | — | — |
+| Maelthir | Arcanista | — |
 | Merk | Comerciante | The Freelands |
-| Oltheris | — | — |
-| Orenmar | — | — |
+| Oltheris | Arcanista | — |
+| Orenmar | Arcanista | — |
 | Orly Skiffback | Capitán de airship | Rutas aéreas |
-| Razveth | — | — |
-| Sevrane | — | — |
+| Razveth | Mago de guerra (histórico) | — |
+| Sevrane | Guardiana | — |
 | Smoke Ashrise | — | — |
-| Tessved | — | — |
+| Tessved | Arcanista | — |
 | Toldek | Herrero enano | — |
 | Tror Mulav | — | — |
-| Vesryne | — | — |
-| Xorveth | — | — |
+| Vesryne | Arcanista (histórico) | — |
+| Xorveth | Mago de guerra (histórico) | — |
 | Ysseketh | Arcanista | — |
-| Zerxus Ilerez | — | — |
+| Zerxus Ilerez | Caballero (histórico) | — |
 
 > El lore detallado de cada NPC — su historia, motivaciones, relaciones y secretos — forma parte del contenido que se revela progresivamente en el juego.
+
+## Roles Comunes
+
+Más allá de los NPCs de lore nombrados arriba, el mundo está poblado por arquetipos de rol recurrentes — la gente que hace que un asentamiento funcione:
+
+Alquimista · Herrero · Cocinero · Granjero · Guardia · Herborista · Cazador · Mercader · Montañés · Viajero · Aldeano
+
+Son roles, no individuos — cualquier asentamiento tiene su propio herrero, sus propios guardias, sin necesitar un trasfondo único para cada uno.
 
 ## Tipos de NPCs
 

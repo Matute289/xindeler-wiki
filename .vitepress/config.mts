@@ -87,6 +87,8 @@ export default defineConfig({
                 { text: 'Combat', link: '/gameplay/combate' },
                 { text: 'Magic', link: '/gameplay/magia' },
                 { text: 'Crafting', link: '/gameplay/crafteo' },
+                { text: 'Weapons', link: '/gameplay/armas' },
+                { text: 'Dungeons', link: '/gameplay/mazmorras' },
                 { text: 'Skills', link: '/gameplay/habilidades' },
               ],
             },
@@ -108,6 +110,7 @@ export default defineConfig({
               text: 'Database',
               items: [
                 { text: 'Creatures', link: '/base-de-datos/criaturas' },
+                { text: 'Armor', link: '/base-de-datos/armaduras' },
                 { text: 'NPCs', link: '/base-de-datos/npcs' },
               ],
             },
@@ -216,6 +219,8 @@ export default defineConfig({
                 { text: 'Combate', link: '/es/gameplay/combate' },
                 { text: 'Magia', link: '/es/gameplay/magia' },
                 { text: 'Crafteo', link: '/es/gameplay/crafteo' },
+                { text: 'Armas', link: '/es/gameplay/armas' },
+                { text: 'Mazmorras', link: '/es/gameplay/mazmorras' },
                 { text: 'Habilidades', link: '/es/gameplay/habilidades' },
               ],
             },
@@ -237,6 +242,7 @@ export default defineConfig({
               text: 'Base de Datos',
               items: [
                 { text: 'Criaturas', link: '/es/base-de-datos/criaturas' },
+                { text: 'Armaduras', link: '/es/base-de-datos/armaduras' },
                 { text: 'NPCs', link: '/es/base-de-datos/npcs' },
               ],
             },

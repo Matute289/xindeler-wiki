@@ -13,8 +13,22 @@ Algunas habilidades requieren o generan **combo points**. Ejecutar habilidades e
 ### Poise
 El sistema de **poise** determina cuándo un personaje puede ser interrumpido. Ataques pesados o acumulación de daño suficiente rompen el poise del objetivo, interrumpiendo su animación actual. El Dhampir tiene resistencia a CC, que indirectamente protege su poise.
 
-### Parry
-Bloquear en el momento exacto de un ataque activa un **parry**, que reduce el daño a cero y puede abrir ventanas de contraataque. El Warrior tiene habilidades específicas para aprovechar el parry (DefensiveRiposte).
+El poise se agota a través de cuatro estados crecientes antes de que el personaje caiga al piso:
+
+| Estado | Efecto |
+|--------|--------|
+| Interrupted | Un aturdimiento breve que corta tu acción actual |
+| Stunned | Un aturdimiento más largo con retroceso |
+| Dazed | Un tambaleo más pesado, movimiento muy reducido |
+| Knocked Down | Caída completa — el retroceso más fuerte y la recuperación más larga |
+
+Cada estado pega más fuerte que el anterior, así que desgastar el poise de un enemigo es una estrategia tan válida como el daño puro.
+
+### Dodge / Roll
+Rodar (roll) otorga inmunidad breve a ciertos ataques mientras dura — cronometrar un roll a través de la ventana activa de un ataque te permite esquivarlo por completo en vez de bloquearlo o recibirlo. El posicionamiento sigue importando: un roll que termina dentro del área efectiva del ataque no te salva.
+
+### Block y Parry
+Bloquear es una postura propia, distinta del **parry**. Mantener el bloqueo reduce el daño entrante durante su duración; cronometrar el bloqueo justo en el momento exacto de un ataque activa en cambio un parry, que reduce el daño a cero y puede abrir ventanas de contraataque. El Warrior tiene habilidades específicas para aprovechar el parry (DefensiveRiposte).
 
 ### Backstab
 Atacar a un enemigo **por la espalda** otorga una bonificación de precisión. El Rogue es la clase más optimizada para aprovechar esta mecánica, pero cualquier clase puede ejecutar backstabs en el posicionamiento correcto.

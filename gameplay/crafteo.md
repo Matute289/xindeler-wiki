@@ -12,7 +12,7 @@ To craft an item you need:
 ## Categories of Craftable Items
 
 ### Weapons
-Weapons in Xindeler are **modular**: the materials used determine the final stats of the weapon. Available types include sword, axe, hammer, bow, dagger, staff, sceptre, tome, focus and holy symbol.
+Weapons in Xindeler are **modular**: the materials used determine the final stats of the weapon. Available types include sword, axe, hammer, bow, staff, sceptre, tome, focus and holy symbol. Dagger, shield, spear and blowgun are planned but not craftable yet.
 
 Weapon materials: metals (`metal_weapon_materials`) and woods (`wood_weapon_materials`), with different properties depending on the source.
 
@@ -30,7 +30,17 @@ Utility items: gliders allow gliding from heights, lanterns illuminate dark area
 
 ## Item Quality
 
-Items have a **quality** system represented by colors (similar to color rating). The quality of the final item depends on the materials used: better materials = higher quality.
+Items have a **quality** system represented by colors. The quality of the final item depends on the materials used: better materials = higher quality.
+
+| Quality | Color |
+|---------|-------|
+| Low | Grey |
+| Common | Light blue |
+| Moderate | Green |
+| High | Blue |
+| Epic | Purple |
+| Legendary | Gold |
+| Artifact | Orange |
 
 ## Repair
 
