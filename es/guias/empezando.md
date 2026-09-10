@@ -28,13 +28,11 @@ Están disponibles versiones para:
 
 ### 1. Crear una cuenta
 
-Al iniciar el cliente por primera vez, se te pedirá que crees una cuenta con nombre de usuario y contraseña.
-
-> El servicio de autenticación está en desarrollo activo. Consultá la [Hoja de Ruta](https://xindeler.com#roadmap) para más información.
+Al iniciar el cliente por primera vez, se te pedirá que crees una cuenta. Está disponible el login nativo con usuario/contraseña, además de OAuth de Discord y Google, y autenticación de dos factores opcional (2FA/TOTP) para seguridad extra de la cuenta.
 
 ### 2. Crear tu personaje
 
-Elegí tu [raza](/gameplay/razas/) y tu [clase](/gameplay/clases/). Cada combinación tiene un estilo de juego diferente.
+Elegí tu [raza](/es/gameplay/razas/) y tu [clase](/es/gameplay/clases/). Cada combinación tiene un estilo de juego diferente.
 
 Algunos consejos para nuevos jugadores:
 - **Warrior + Dwarf** — combinación resistente, ideal para aprender el sistema de combate.
@@ -49,6 +47,30 @@ Xindeler es un mundo vasto con biomas, sitios y dungeon generados proceduralment
 ### 4. Primeras misiones
 
 Al llegar al mundo encontrarás NPCs en las aldeas cercanas que ofrecen misiones de inicio: recolección, exploración y combate. Son la mejor forma de aprender los sistemas básicos y conseguir tu primer equipamiento.
+
+## Controles e interfaz
+
+### Inventario y equipamiento
+
+Tu equipo vive en una ventana con pestañas **Inventario / Equipamiento**: la pestaña Inventario lista todo lo que llevás encima, mientras que la de Equipamiento muestra un paperdoll de tu personaje junto con un bloque de estadísticas siempre visible, así podés comparar un ítem nuevo contra lo que tenés puesto sin cambiar de pantalla. Equipá un ítem con doble clic o arrastrándolo a un slot del paperdoll; arrastrá los ítems de uso frecuente a tu hotbar para acceso rápido en combate.
+
+En vez de botones fijos de esquina para Configuración, Social, Mapa y Crafteo, el juego muestra pistas contextuales en pantalla en la esquina inferior derecha que cambian según lo que estás haciendo — escalando, nadando, empuñando un arma, o moviéndote de noche. Los cuatro menús siguen accesibles por sus atajos de teclado, el menú de Esc, o tu skillbar.
+
+### Mapa y waypoints
+
+El mapa muestra tu entorno, puntos de interés y asentamientos conocidos. Activar una fogata la fija como tu waypoint — tu punto de respawn, que persiste entre sesiones hasta que fijás uno nuevo.
+
+### Planeo (Gliding)
+
+Todo personaje puede planear desde suficiente altura, útil para cubrir distancia rápido o escapar de una mala pelea. No te salva de una caída que nunca llega a despegar — primero necesitás altura.
+
+### Mazmorras y cuevas
+
+Las mazmorras y cuevas del mundo tienen el mejor loot y las peleas más difíciles — ver [Regiones](/es/lore/regiones) y [Criaturas](/es/base-de-datos/criaturas) para lo que se sabe de lo que hay ahí afuera.
+
+### Mercaderes y comercio
+
+Los mercaderes compran y venden según su especialización — ver [NPCs](/es/base-de-datos/npcs) para los distintos roles. Agruparte con otros jugadores te permite compartir misiones, loot y contenido difícil — la mayoría de las mazmorras son más fáciles, y más divertidas, en grupo.
 
 ## Siguientes pasos
 
