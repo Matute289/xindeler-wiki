@@ -1,0 +1,26 @@
+name: Check source branch
+
+# PRs into main are only allowed from development — main only receives
+# content that's already been reviewed there. Mirrors
+# xindeler-new-horizon's check-source-branch.yml.
+
+on:
+  pull_request:
+    branches:
+      - main
+
+jobs:
+  check-branch:
+    name: Validate source branch
+    runs-on: ubuntu-latest
+    env:
+      SOURCE: ${{ github.head_ref }}
+    steps:
+      - name: Validate source branch
+        run: |
+          if [[ "$SOURCE" != "development" ]]; then
+            echo "ERROR: PRs to 'main' are only allowed from 'development'."
+            echo "Current source branch: $SOURCE"
+            exit 1
+          fi
+          echo "Source branch '$SOURCE' is allowed."

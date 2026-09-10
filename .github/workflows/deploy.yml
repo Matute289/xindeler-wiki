@@ -1,0 +1,51 @@
+name: Deploy
+
+# Deploy is a deliberate, versioned act, decoupled from merging: a merge to
+# main lands content, but nothing ships to wiki.xindeler.com until someone
+# pushes a v* tag from main. Mirrors xindeler-new-horizon's release model
+# (build.yml/release.yml there), adapted to this repo's single VPS rsync
+# target — no per-platform packaging needed for a static site.
+
+on:
+  push:
+    tags: ["v*"]
+
+jobs:
+  validate:
+    name: Validate this is a real version tag
+    runs-on: ubuntu-latest
+    steps:
+      - name: Refuse to deploy from anything but a v* tag
+        run: |
+          if [[ "${{ github.ref_type }}" != "tag" || ! "${{ github.ref_name }}" =~ ^v[0-9]+\.[0-9]+\.[0-9]+ ]]; then
+            echo "::error::deploy.yml must run against a v* tag (got ref_type=${{ github.ref_type }}, ref_name=${{ github.ref_name }})."
+            exit 1
+          fi
+          echo "OK: deploying ${{ github.ref_name }}"
+
+  deploy:
+    name: Build & deploy to VPS
+    needs: [validate]
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 24
+          cache: npm
+      - run: npm ci
+      - run: npm run build
+
+      - name: Deploy to VPS
+        run: |
+          mkdir -p ~/.ssh
+          echo "${{ secrets.VPS_SSH_KEY }}" > ~/.ssh/deploy_key
+          chmod 600 ~/.ssh/deploy_key
+          ssh-keyscan -H "${{ secrets.VPS_HOST }}" >> ~/.ssh/known_hosts 2>/dev/null
+          rsync -avz --delete \
+            -e "ssh -i ~/.ssh/deploy_key" \
+            .vitepress/dist/ \
+            "mgrinberg@${{ secrets.VPS_HOST }}:/srv/xindeler/wiki/public/"
+
+      - name: Report
+        run: echo "Deployed ${{ github.ref_name }} to https://wiki.xindeler.com"
