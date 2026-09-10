@@ -66,7 +66,7 @@ Todo personaje puede planear desde suficiente altura, útil para cubrir distanci
 
 ### Mazmorras y cuevas
 
-Las mazmorras y cuevas del mundo tienen el mejor loot y las peleas más difíciles — ver [Regiones](/es/lore/regiones) y [Criaturas](/es/base-de-datos/criaturas) para lo que se sabe de lo que hay ahí afuera.
+Las mazmorras y cuevas del mundo tienen el mejor loot y las peleas más difíciles — ver [Mazmorras](/es/gameplay/mazmorras), [Regiones](/es/lore/regiones) y [Criaturas](/es/base-de-datos/criaturas) para lo que se sabe de lo que hay ahí afuera.
 
 ### Mercaderes y comercio
 

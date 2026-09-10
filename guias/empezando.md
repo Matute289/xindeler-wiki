@@ -66,7 +66,7 @@ Every character can glide from sufficient height, useful for covering distance q
 
 ### Dungeons & Caves
 
-The world's dungeons and caves hold the best loot and the toughest fights — see [Regions](/lore/regiones) and [Creatures](/base-de-datos/criaturas) for what's known about what's out there.
+The world's dungeons and caves hold the best loot and the toughest fights — see [Dungeons](/gameplay/mazmorras), [Regions](/lore/regiones) and [Creatures](/base-de-datos/criaturas) for what's known about what's out there.
 
 ### Merchants & Trading
 
