@@ -4,7 +4,7 @@
 
 **Goal:** Expand `xindeler-wiki`'s gameplay/systems documentation using `wiki.veloren.net`'s "Getting Started → NPCs" block (9 source pages) as a structural reference, replacing every "Veloren" mention with "Xindeler" and every Veloren-specific fact/name with the real Xindeler equivalent — verified against `xindeler-new-horizon` and `xindeler-design`, never assumed or invented.
 
-**Architecture:** Content-only changes to Markdown pages (no new VitePress components), plus two brand-new pages (`gameplay/armas.md`, `base-de-datos/armaduras.md`) with matching sidebar entries. Every content task touches the same file in both locales (root EN + `es/` mirror) in the same task.
+**Architecture:** Content-only changes to Markdown pages (no new VitePress components), plus three brand-new pages (`gameplay/armas.md`, `base-de-datos/armaduras.md`, `gameplay/mazmorras.md`) with matching sidebar entries. Every content task touches the same file in both locales (root EN + `es/` mirror) in the same task.
 
 **Tech Stack:** VitePress 1.6.4, Markdown content, no custom Vue components.
 
@@ -14,7 +14,9 @@
 - **Bilingual**: every content change lands in both the EN root file and its `es/` mirror in the same task, with `/es/` prefixed internal links in the ES file.
 - **Never invent lore.** Any proper noun (creature, legendary item, boss, site, dungeon) must come from `xindeler-design`'s existing canon (`lore/45-bestiary/`, `lore/50-relics/`, `lore/80-geography/`, `lore/90-npcs/` — check via `gh api repos/Matute289/xindeler-design/contents/<path>`) or be omitted/left `.badge-secret`. Never port a Veloren-specific proper noun as-is unless the wiki already uses it (Ogre/Cyclops/Troll/Werewolf/Minotaur/Yeti/Oni are already confirmed live in `criaturas.md` — safe to keep).
 - **Never publish an unconfirmed mechanical number.** Poise cutoffs, quality-tier materials, crafting stations, weapon/armor stats — anything Task 1 marks UNCONFIRMED ships as a described concept without the specific number, not a guess.
-- **The Mindflayer question is not this plan's to resolve** — per the design spec, the live in-game name ("Mindflayer") is flagged for a canon rename ("the Mind-Eaters") that hasn't shipped. No task below may name this creature; skip it in any bestiary/dungeon content until Matías decides.
+- **Mindflayer → Mind-Eater: resolved, but gated on merge.** Matías confirmed the rename ships as canon (`xindeler-new-horizon#290`). Task 7 may name this creature as "Mind-Eater" (EN) / "Devoramentes" (ES) **only once that PR is merged** — check its status before writing the section; if still open, treat it as UNCONFIRMED and skip the entry rather than naming it early.
+- **Dungeons: two confirmed types**, resolved by Matías — story/mission dungeons and world-exploration dungeons with tier-gated difficulty. Task 9 publishes this structure. Still never invent a specific dungeon or boss proper noun beyond confirmed canon.
+- **Never publish a spell-name list.** A directory audit of `xindeler-new-horizon`'s spell assets found a large-scale unresolved IP issue (verbatim D&D 5e spell names across hundreds of asset files) — flagged to Matías separately, not this plan's to fix. Task 11 (the new magic-structure section) covers Sources × Schools only, structurally — no specific spell names, ever, regardless of what's "confirmed" to exist in source. This is a hard constraint, not a verification gate.
 - `npm run build` succeeding, plus a manual `npm run dev` walkthrough of every touched page (both locales), is the correctness gate — no linter/test suite in this repo.
 - Backing research: `docs/superpowers/specs/2026-09-10-veloren-wiki-content-expansion-design.md`.
 
@@ -27,7 +29,7 @@
 - Modify: `CLAUDE.md` (Pending Work table)
 
 **Interfaces:**
-- Produces: a CONFIRMED/UNCONFIRMED/CHANGED table that Tasks 3-9 cite by name.
+- Produces: a CONFIRMED/UNCONFIRMED/CHANGED table that Tasks 3-9 and 11 cite by name.
 
 Classes (all 14 confirmed live), races (Danari/Draugr→Gnome/Dhampir rename confirmed live in `assets/voxygen/i18n/en/`), and "no repair cost" (confirmed via CHANGELOG v0.19.0) are already verified — see the design spec, don't re-verify them. This task covers what's still open:
 
@@ -43,7 +45,7 @@ git sparse-checkout set common/src/comp common/src/states assets/voxygen/i18n/en
 - [ ] **Step 5: Confirm quality tiers and materials.** Grep `assets/common/items` or wherever item definitions live for a `quality` field (Low/Common/Moderate/High/Epic/Legendary/Artifact or Xindeler's actual tier names) and per-category material names (metal/wood/textile/hide progression). Record the real names — do not assume Veloren's (Bronze→Orichalcum, etc.) carry over unchanged.
 - [ ] **Step 6: Confirm crafting stations.** Grep for the station enum/asset names (Anvil, Forge, Loom, etc.) actually used. Record the real list — Xindeler may have renamed, merged, or added stations.
 - [ ] **Step 7: Confirm weapon types and armor slots.** Grep `common/src/comp` for the weapon-type enum (Axe/Bow/Hammer/Sceptre/Staff/Sword/+ Dagger/Tome/Focus/Holy Symbol, per `crafteo.md`'s existing claims) and the armor-slot enum (Head/Neck/Shoulders/Chest/Hands/Ring/Belt/Back/Pants/Foot per Veloren's model). Record what actually exists.
-- [ ] **Step 8: Write the verification doc** — one table: `Fact | Xindeler source (file:line) | Status (CONFIRMED same as Veloren / CONFIRMED different: <value> / UNCONFIRMED) `. This is the citation source for Tasks 3-9; if a later task needs a fact not in this table, that task must do its own targeted grep rather than guess.
+- [ ] **Step 8: Write the verification doc** — one table: `Fact | Xindeler source (file:line) | Status (CONFIRMED same as Veloren / CONFIRMED different: <value> / UNCONFIRMED) `. This is the citation source for Tasks 3-9 and 11; if a later task needs a fact not in this table, that task must do its own targeted grep rather than guess.
 - [ ] **Step 9: Fix `CLAUDE.md`'s stale Pending Work line.** In the `gameplay/clases/` row of the Pending Work table, replace "4 classes documented; 10+ planned" with "14 classes documented and shipped (see `gameplay/clases/`); skill trees still being fleshed out for barbarian/sorcerer/warlock/bard/paladin/druid/ranger/monk/artificer/blood-slayer."
 - [ ] **Step 10: Clean up the scratch clone**: `rm -rf /tmp/nh-verify`.
 - [ ] **Step 11: Commit**
@@ -182,14 +184,15 @@ git commit -m "docs: add armor database page (slots, sets)"
 - Modify: `base-de-datos/criaturas.md`
 - Modify: `es/base-de-datos/criaturas.md`
 
-Current structure (Large Humanoids, Medium Quadrupeds, Arthropods/Birds/Crustaceans, Dragons, Golems, Lore Creatures) is a reasonable start. Do not delete existing confirmed content (Ogre/Cyclops/Troll/Werewolf/Minotaur/Yeti/Oni, Dragons, Golems, existing Lore Creatures) and do not add "Mindflayer" per the Global Constraints:
+Current structure (Large Humanoids, Medium Quadrupeds, Arthropods/Birds/Crustaceans, Dragons, Golems, Lore Creatures) is a reasonable start. Do not delete existing confirmed content (Ogre/Cyclops/Troll/Werewolf/Minotaur/Yeti/Oni, Dragons, Golems, existing Lore Creatures):
 
 - [ ] **Step 1: Fetch the real bestiary list** from `xindeler-design`: `gh api repos/Matute289/xindeler-design/contents/lore/45-bestiary --jq '.[].name'`. Cross-reference against what's already in `criaturas.md` (False Hydra, Frost Worm, Juvenile Mimic (Ivi) are already there).
 - [ ] **Step 2: Add the remaining named entries** (`grethull`, `korrovax`, `nethercrone`, `terrorath`, `titanspawn`, `todesstern-lebensstern`, `eshvane-deathless-hart`, `black-unicorn`, `baby-face-monster`) to the "Lore Creatures" section, one short atmospheric paragraph each (same style as the existing False Hydra entry: name + `.badge-secret` if the design file's content reads as a genuine reveal-risk, or a plain heading if it's simple flavor with no hidden twist — read each design file first via `gh api repos/Matute289/xindeler-design/contents/lore/45-bestiary/<file> --jq '.content' | base64 -d` to judge which treatment fits, then write an original one-paragraph tease, never copy the design file's prose verbatim since that file may contain full reveal-tier detail not meant for the public wiki).
-- [ ] **Step 3: Adopt body-plan subsections** within "Arthropods, Birds and Crustaceans" (e.g. split into Arthropods / Small Birds / Large Birds) only if Task 1's verification turned up confirmed large-bird-type creatures; otherwise leave the category as one section.
-- [ ] **Step 4: Mirror into ES** (`es/base-de-datos/criaturas.md`).
-- [ ] **Step 5: Build check** — `npm run build` succeeds.
-- [ ] **Step 6: Commit**
+- [ ] **Step 3: Check `xindeler-new-horizon#290`'s status** (`gh pr view 290 --repo Matute289/xindeler-new-horizon --json state,mergedAt`). If merged, add a "Mind-Eater" entry (EN) / "Devoramentes" (ES) to the Large Humanoids/bosses list, one line, no more detail than the other entries in that list (Ogre/Cyclops/Troll/etc. get a single list mention, not a paragraph — match that). If not merged yet, skip this step entirely — do not name the creature.
+- [ ] **Step 4: Adopt body-plan subsections** within "Arthropods, Birds and Crustaceans" (e.g. split into Arthropods / Small Birds / Large Birds) only if Task 1's verification turned up confirmed large-bird-type creatures; otherwise leave the category as one section.
+- [ ] **Step 5: Mirror into ES** (`es/base-de-datos/criaturas.md`).
+- [ ] **Step 6: Build check** — `npm run build` succeeds.
+- [ ] **Step 7: Commit**
 
 ```bash
 git add base-de-datos/criaturas.md es/base-de-datos/criaturas.md
@@ -218,31 +221,85 @@ git commit -m "docs: fill NPC roles/regions from canon, add common role archetyp
 
 ---
 
-### Task 9: Dungeons — design proposal only (no publish)
+### Task 9: New page `gameplay/mazmorras.md` — dungeons (story vs. world-exploration)
 
 **Files:**
-- Create: `docs/superpowers/specs/2026-09-10-dungeons-page-proposal.md` (not published to the site)
+- Create: `gameplay/mazmorras.md`
+- Create: `es/gameplay/mazmorras.md`
+- Modify: `.vitepress/config.mts` (sidebar entry under `/gameplay/` in both locale blocks)
 
-Veloren's "Dungeons" hub (tiered dungeon list with named bosses per tier) doesn't map cleanly onto Xindeler's canon, which models dungeon-like spaces as narrative **wards inside cities** (`xindeler-design/lore/80-geography/kalthis/wards/.../undercity.md`) rather than a flat tier list. Publishing a Veloren-shaped "Dungeons" page risks contradicting or pre-empting real canon structure that isn't the wiki's to invent.
+**Interfaces:**
+- Produces: a page `guias/empezando.md`'s dungeons/caves pointer (Task 2) and `lore/regiones.md` can cross-link to.
 
-- [ ] **Step 1: Read the ward-based examples** in `xindeler-design`: `gh api repos/Matute289/xindeler-design/contents/lore/80-geography/kalthis/wards --jq '.[].name'` and read one or two ward files for tone/structure (role/region facts only, same rule as Task 8).
-- [ ] **Step 2: Write a short proposal doc** (not a wiki page) with 2-3 options for how a public "Dungeons/Sites" wiki section could work without contradicting the ward model — e.g. (a) skip a dedicated page entirely and fold a handful of atmospheric "sites" into `lore/regiones.md` the way Veloren's minor "Sites" are 1-2 lines each, (b) a light "explore the wards" teaser page with region-level hooks only, no boss/loot detail, (c) wait until in-game dungeon content ships and is confirmed safe. State a recommendation but leave the final call to Matías.
-- [ ] **Step 3: Commit** (no build check needed — this file isn't part of the built site)
+Matías confirmed two dungeon types exist (2026-09-10): story/mission dungeons and world-exploration dungeons with tier-gated difficulty. This is structural content — no specific dungeon or boss names beyond confirmed canon (grep `xindeler-design/lore/45-bestiary/`, `50-relics/`, `80-geography/` first per the Global Constraints; if nothing concrete is confirmed, describe the two categories generically):
+
+- [ ] **Step 1: Read one or two ward examples** in `xindeler-design` for tone: `gh api repos/Matute289/xindeler-design/contents/lore/80-geography/kalthis/wards --jq '.[].name'`, then read a file or two (role/region/atmosphere only, never bio/motivation/secrets — same rule as Task 8) to calibrate how "story dungeon" content should read.
+- [ ] **Step 2: Write `gameplay/mazmorras.md` (EN)** with two sections: **"Story Dungeons"** (tied to quests/missions, narrative-driven, atmospheric description only, cross-linking to `lore/regiones.md` for the region context rather than naming specific instances unless `xindeler-design` already has a confirmed public-safe one) and **"World Dungeons"** (encountered while exploring, gated by a tier/difficulty system — describe the risk model Matías stated: entering above your tier is survivable-but-hard, entering badly under-leveled gets you killed fast rather than blocking entry outright). Do not invent specific dungeon names, tier numbers, or boss encounters not confirmed in canon.
+- [ ] **Step 3: Cross-link** from `guias/empezando.md`'s dungeons/caves pointer (added in Task 2) to this new page instead of `lore/regiones.md` alone.
+- [ ] **Step 4: Mirror into ES** (`es/gameplay/mazmorras.md`).
+- [ ] **Step 5: Add sidebar entries** in `.vitepress/config.mts` under `/gameplay/` in both locale blocks, near Combat/Weapons.
+- [ ] **Step 6: Build check** — `npm run build` succeeds.
+- [ ] **Step 7: Commit**
 
 ```bash
-git add docs/superpowers/specs/2026-09-10-dungeons-page-proposal.md
-git commit -m "docs: propose approach for a dungeons/sites wiki section (no publish yet)"
+git add gameplay/mazmorras.md es/gameplay/mazmorras.md .vitepress/config.mts
+git commit -m "docs: add dungeons page (story vs. world-exploration types)"
 ```
 
 ---
 
-### Task 10: Final review pass and PR
+### Task 10: Expand `guias/empezando.md`'s dungeons pointer to link Task 9's new page
+
+**Files:**
+- Modify: `guias/empezando.md`
+- Modify: `es/guias/empezando.md`
+
+**Interfaces:**
+- Consumes: Task 9's `gameplay/mazmorras.md` (must exist before this task runs — sequence Task 9 before Task 10, despite the number order, if executed out of plan order).
+
+Task 2 added a one-line pointer from the new "Controls & Interface" section to dungeons/caves content pointing only at `lore/regiones.md` and `base-de-datos/criaturas.md` (written before Task 9's page existed). This is a 2-line fix:
+
+- [ ] **Step 1: Update the pointer line (EN)** to also link `gameplay/mazmorras.md`.
+- [ ] **Step 2: Mirror into ES**.
+- [ ] **Step 3: Build check** — `npm run build` succeeds.
+- [ ] **Step 4: Commit**
+
+```bash
+git add guias/empezando.md es/guias/empezando.md
+git commit -m "docs: link the new dungeons page from the getting-started guide"
+```
+
+---
+
+### Task 11: Expand `gameplay/magia.md` with a Sources × Schools × Spells structure section
+
+**Files:**
+- Modify: `gameplay/magia.md`
+- Modify: `es/gameplay/magia.md`
+
+Matías' addition (2026-09-10): "habría que agregar una sección para la estructura de Fuente de magia, escuelas y hechizos." **Hard constraint, not a judgment call**: this section describes *structure* only — how a spell is composed (source + school + cooldown, per-class spell pools, caster-weapon-gated starter spells, as already shipped per CHANGELOG v0.19.0) — and must **never** list specific spell names. A directory audit of `xindeler-new-horizon`'s spell assets during this planning pass found a large-scale, unresolved IP problem (many spell names are verbatim D&D 5e terms) that's been flagged to Matías separately and is out of scope for this repo to fix. Do not reference, list, or hint at specific spell names in this task's output, even ones that seem generic-sounding — err toward zero examples rather than picking "safe-looking" ones, since this hasn't been individually vetted per-name.
+
+- [ ] **Step 1: Add a "How a Spell Is Built" section (EN)** to `gameplay/magia.md`, after the existing "Schools of Magic" table and before "How Are Spells Learned?": each spell has one Source (already listed) and one School (already listed); spells are server-authoritative with per-ability cooldowns; casting requires the matching caster weapon type (Tome/Focus/Holy Symbol/Staff, per the existing "How Are Spells Learned?" paragraph); some spells are class-gated (signature spells require the matching class, basic cantrip-tier spells are available more broadly) — this class-gating detail is CONFIRMED via CHANGELOG v0.19.0 ("Caster signature spells now require the matching class"). No spell names anywhere in this section.
+- [ ] **Step 2: Mirror into ES** (`es/gameplay/magia.md`).
+- [ ] **Step 3: Build check** — `npm run build` succeeds.
+- [ ] **Step 4: Self-check**: `grep -i "fireball\|eldritch\|smite\|power word" gameplay/magia.md es/gameplay/magia.md` should return nothing — a cheap tripwire against accidentally naming a D&D-derived spell.
+- [ ] **Step 5: Commit**
+
+```bash
+git add gameplay/magia.md es/gameplay/magia.md
+git commit -m "docs: add spell structure section to magic page (sources/schools, no spell names)"
+```
+
+---
+
+### Task 12: Final review pass and PR
 
 **Files:**
 - None (verification only)
 
 - [ ] **Step 1: Full build** — `npm run build` from repo root, confirm zero errors/warnings.
-- [ ] **Step 2: Local dev server walkthrough** — `npm run dev`, visit every page touched by Tasks 2-8 in both EN and ES, confirm no broken internal links (`cleanUrls: true` means links must match exactly) and both new pages (`gameplay/armas`, `base-de-datos/armaduras`) appear correctly in the sidebar of both locales.
+- [ ] **Step 2: Local dev server walkthrough** — `npm run dev`, visit every page touched by Tasks 2-11 in both EN and ES, confirm no broken internal links (`cleanUrls: true` means links must match exactly) and all three new pages (`gameplay/armas`, `base-de-datos/armaduras`, `gameplay/mazmorras`) appear correctly in the sidebar of both locales.
 - [ ] **Step 3: Grep for stray "Veloren" mentions** introduced by this plan: `grep -rn "Veloren" guias/ gameplay/ base-de-datos/ es/guias/ es/gameplay/ es/base-de-datos/` — every hit must be a pre-existing, intentional mention (e.g. "forked from Veloren" in `empezando.md`'s intro), not something this plan's new content left in by mistake.
-- [ ] **Step 4: Grep for "Mindflayer"** across all touched files to confirm the Global Constraint held: `grep -rin "mindflayer" guias/ gameplay/ base-de-datos/ es/` should return nothing.
-- [ ] **Step 5: Open the PR into `development`** (never `main`), summarizing which of Tasks 2-9 landed and flagging the two decisions that need Matías' sign-off before merge: the Mindflayer naming question (Task 1/Global Constraints) and the dungeons/sites proposal (Task 9). Do not merge without his review — this is the checkpoint he explicitly asked for.
+- [ ] **Step 4: Grep for "Mindflayer"** (should be absent, or present only if Task 7 confirmed `xindeler-new-horizon#290` merged and used "Mind-Eater"/"Devoramentes" instead): `grep -rin "mindflayer" guias/ gameplay/ base-de-datos/ es/` should return nothing.
+- [ ] **Step 5: Grep for D&D-derived spell names** as a final tripwire (same check as Task 11 Step 4, run repo-wide this time): `grep -rin "fireball\|eldritch\|smite\|power word\|meteor swarm" guias/ gameplay/ base-de-datos/ lore/ es/` should return nothing.
+- [ ] **Step 6: Open the PR into `development`** (never `main`), summarizing which of Tasks 2-11 landed. Do not merge without Matías' review — this is the checkpoint he explicitly asked for.
