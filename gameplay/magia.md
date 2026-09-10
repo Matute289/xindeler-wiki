@@ -41,13 +41,23 @@ Every spell in Xindeler is defined by three things:
 - **A cooldown**, enforced by the server — you can't spam a spell faster than its cooldown allows, regardless of client-side tricks.
 - **A caster weapon requirement** — casting a spell requires having the matching weapon type equipped (Tome, Focus, Holy Symbol, Staff or Sceptre; see [Weapons](/gameplay/armas)).
 
-Some spells are further restricted to a specific class — a class's signature spells only work for that class, while more universal, lower-tier spells are available more broadly across casters who share a source/school combination.
+Some spells are further restricted to a specific class — a class's signature spells only work for that class, while more universal, lower-tier spells are available more broadly across casters who share a source/school combination. Naming tends to scale with power: a Paladin's early smites carry punchy, direct names like **Ember Strike**, while the highest-tier spells in the game reach for something more ominous — **Edge of Oblivion** is about as dramatic as it gets.
 
 ## How Are Spells Learned?
 
 Spells are learned through class skill trees. Each tree has spells organized by level (0–9), unlockable with skill points.
 
 Caster weapons (Tome, Focus, Holy Symbol, Staff) determine which set of basic spells you have available, while signature spells are exclusive to the class.
+
+### Starter Spells
+
+Three caster weapons ship with a basic attack plus a class-exclusive signature spell:
+
+| Caster Weapon | Basic Attack | Signature Spell | Class |
+|----------------|--------------|------------------|-------|
+| Tome | Cinderbolt | Shatterburst | Mage |
+| Holy Symbol | Dawnmote | Censure | Cleric |
+| Focus | Thornspit | Dread Whisper | — |
 
 ## The Veil
 
