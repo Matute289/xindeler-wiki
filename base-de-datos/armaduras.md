@@ -35,6 +35,8 @@ There are over 50 armor sets in the game. The numbers below are each set's base 
 | Plate | Full metal plating, precision-oriented | 51.6 | — | — | — | 0.70 | 1.31 |
 | Dragonscale | Scaled armor with draconic styling | 54.0 | — | — | — | 0.72 | 1.35 |
 
+*Protection reduces incoming damage. Poise Res. resists interrupts (see [Poise](/gameplay/combate)). Energy Max/Reward affect your energy pool and how fast it refills. Precision Power boosts crit damage. Stealth makes you harder to detect. A blank cell means that set doesn't touch that stat at all — not zero, just not part of its identity.*
+
 Each set has its own class and level requirements — check the crafting recipe or the item tooltip in-game for exact numbers, which vary by piece and quality tier.
 
 **Mail armor is a special case**: instead of a fixed named set, it scales through the same 6-tier metal ladder as weapons (Bronze → Iron → Steel → Cobalt → Silver/Gold/Bloodsteel → Orichalcum), so its stats depend entirely on which metal it's crafted from rather than a set identity.

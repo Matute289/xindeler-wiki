@@ -35,6 +35,8 @@ Hay más de 50 sets de armadura en el juego. Los números de abajo son el multip
 | Plate | Placas metálicas completas, orientado a precisión | 51.6 | — | — | — | 0.70 | 1.31 |
 | Dragonscale | Armadura escamada con estilo dracónico | 54.0 | — | — | — | 0.72 | 1.35 |
 
+*Protección reduce el daño recibido. Res. Poise resiste interrupciones (ver [Poise](/es/gameplay/combate)). Energía Máx./Recompensa afectan tu pool de energía y qué tan rápido se recarga. Poder de Precisión aumenta el daño crítico. Sigilo te hace más difícil de detectar. Una celda vacía significa que ese set no toca ese stat en absoluto — no que sea cero, simplemente no forma parte de su identidad.*
+
 Cada set tiene sus propios requerimientos de clase y nivel — revisá la receta de crafteo o el tooltip del ítem en el juego para los números exactos, que varían por pieza y tier de calidad.
 
 **La armadura de Mail es un caso especial**: en vez de un set fijo con nombre propio, escala con la misma escalera de 6 tiers de metal que las armas (Bronce → Hierro → Acero → Cobalto → Plata/Oro/Acero de Sangre → Orichalcum), así que sus stats dependen enteramente de con qué metal se craftea, no de una identidad de set.
