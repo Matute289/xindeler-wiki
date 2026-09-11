@@ -27,10 +27,10 @@ Las armas son **modulares**: los stats finales salen de la combinación de mater
 Algunas armas de Xindeler son reliquias únicas con historia propia, en vez de equipo crafteado. Su verdadera historia es parte del lore profundo del juego — lo que sigue es solo lo que se puede contar sin arruinar nada.
 
 - **Frostbane** <span class="badge-secret">Lore</span> — una reliquia que dicen data de la Gran Guerra. Lo que corta queda frío mucho después de que la herida cierra.
-- **El Hacha del Leviatán** <span class="badge-secret">Lore</span> — un hacha de manufactura dracónica, demasiado grande y demasiado antigua para haber sido forjada por manos mortales.
-- **El Bastón Ligavelos** <span class="badge-secret">Lore</span> — un bastón que zumba con el Velo mismo. Quienes lo estudiaron prefieren no hablar de quién lo portó por última vez.
+- **The Leviathan's Axe** <span class="badge-secret">Lore</span> — un hacha de manufactura dracónica, demasiado grande y demasiado antigua para haber sido forjada por manos mortales.
+- **The Veilbinder Staff** <span class="badge-secret">Lore</span> — un bastón que zumba con el Velo mismo. Quienes lo estudiaron prefieren no hablar de quién lo portó por última vez.
 - **Wailmaul** <span class="badge-secret">Lore</span> — un martillo de guerra que lleva el sonido de rostros gritando en cada golpe. Nadie rastreó de dónde viene el grito.
-- **El Segador del Rey Sin Corona** <span class="badge-secret">Lore</span> — una espada nombrada por un trono que ya no existe, empuñada por alguien que sigue existiendo, y mucho.
-- **El Cetro de Médula** <span class="badge-secret">Lore</span> — un cetro coronado con algo que alguna vez fue un cráneo. No le gusta que lo apunten hacia los vivos.
+- **The Reaver of the Crownless King** <span class="badge-secret">Lore</span> — una espada nombrada por un trono que ya no existe, empuñada por alguien que sigue existiendo, y mucho.
+- **The Marrow-Scepter** <span class="badge-secret">Lore</span> — un cetro coronado con algo que alguna vez fue un cráneo. No le gusta que lo apunten hacia los vivos.
 
 > *Dónde están estas reliquias, quién las porta hoy, y qué son realmente — eso es parte de la historia que el juego revela a medida que avanza.*
