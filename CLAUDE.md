@@ -228,15 +228,15 @@ All `xindeler.*.greenmountain.dev` subdomains (root, `wiki.`, `auth.`, `cdn.`, `
 
 ## Pending Work
 
-### Veloren-wiki integration (September 2026) — nearly done
+### Veloren-wiki integration (September 2026) — done, pending Matías' review
 
-Following `docs/superpowers/plans/2026-09-10-veloren-wiki-content-expansion.md`, the wiki gained `gameplay/armas.md`, `gameplay/armaduras.md` → `base-de-datos/armaduras.md`, `gameplay/mazmorras.md`, plus expansions to `combate.md`, `crafteo.md`, `magia.md`, `criaturas.md`, `npcs.md`, `empezando.md` (see PR #17, merged to `development`).
+Following `docs/superpowers/plans/2026-09-10-veloren-wiki-content-expansion.md`, the wiki gained `gameplay/armas.md`, `base-de-datos/armaduras.md`, `gameplay/mazmorras.md`, plus expansions to `combate.md`, `crafteo.md`, `magia.md`, `criaturas.md`, `npcs.md`, `empezando.md` (PR #17, merged).
 
-**Still open:** `gameplay/mazmorras.md` doesn't name the 10 real world-exploration dungeons yet (Gnarling Fortress, Adlet Stronghold, Sahagin Island, Haniwa Catacomb, Vampire Castle, Myrmidon Dungeon, Sea Chapel, the Mind-Eater's dungeon, Terracotta Ruins, Dwarven Mine — confirmed to exist in `xindeler-new-horizon` but currently not spawning due to a placement bug tracked as COW-13) — waiting on whether their inherited Veloren names stay as-is or get renamed, plus per-dungeon boss/region data once COW-13 ships. Story/mission dungeons (COW-14) have no design yet.
+`gameplay/mazmorras.md` now names all 10 real world-exploration dungeons with proposed epic names (tagged `.badge-wip`, "Proposed naming") — Matías asked to rename them ("épico, mezcla de D&D y nuestro canon") the night of 2026-09-10/11 and said he'd review in the morning. Mapping doc: `xindeler-design#200` (not merged, proposal only). **Do not consider these names final** until he confirms — if he changes them, update both `gameplay/mazmorras.md`/`es/gameplay/mazmorras.md` and notify the "Cromatolis - New Horizon" session (they're waiting on this before touching the engine side, per `xindeler-design/specs/2026-09-10-cow13-exploration-dungeons-design.md` §5.5). Story/mission dungeons (COW-14) still have no narrative design — needs Matías' actual quest ideas, not the wiki's to invent.
 
 ### i18n quality — done (September 2026)
 
-Full native-speaker review completed across `lore/`, `gameplay/`, `guias/`, `base-de-datos/` in both locales (PR #18, merged). Re-audit if large new content lands without a native pass.
+Full native-speaker review completed across `lore/`, `gameplay/`, `guias/`, `base-de-datos/` in both locales (PR #18, merged). Re-audit if large new content lands without a native pass. **Naming convention confirmed with Matías (2026-09-11): spell names stay in English in both locales (only their descriptions translate); every other proper noun (creatures, legendary items, places) translates normally into Spanish** — see the equivalent rule already applied in `xindeler-new-horizon`'s es-419 locale for the precedent.
 
 ### Content gaps to fill over time
 
@@ -244,14 +244,14 @@ Full native-speaker review completed across `lore/`, `gameplay/`, `guias/`, `bas
 |------|-----|
 | `gameplay/clases/` | 14 classes documented and shipped; skill trees still being fleshed out for barbarian/sorcerer/warlock/bard/paladin/druid/ranger/monk/artificer/blood-slayer. |
 | `gameplay/razas/` | 6 races documented; passive/ability tables are sparse. Expand from game data. |
-| `lore/historia.md` | Six ages teased. Expand each age section as narrative ships. |
+| `lore/historia.md` | Six ages teased, deliberately not expanded further — Ages III and V are explicitly deep-lore-secret; forcing more detail here would leak them. |
 | `lore/panteon.md` | Unfaithful cryptic by design. Reveal as game story progresses. |
-| `lore/regiones.md` | 11 regions listed with brief descriptions. Each deserves its own subpage. |
-| `lore/facciones.md` | 4 factions described; 14 others listed by name only. |
+| `lore/regiones.md` | 11 regions listed with brief descriptions. **Only Cromatolis is in active game development today** (confirmed by Matías, 2026-09-11) — Freelands is the plausible next one but has no date, and the rest have none at all. Don't prioritize expanding a region's own subpage ahead of that. Cromatolis' capital (Kalthis) is now named; deeper Cromatolis lore (its king, its general, the factions tied to it) stays unpublished — too deep/spoiler-heavy for the wiki even though it's the active region. |
+| `lore/facciones.md` | 8 factions now described (Caminos Syndicate, Vesperan Dynasty, The Sisterhood, Janus Council, The Council of Owls, The Order of the Inmost Light, Cult of the Crownless King, Children of the Cold); 10 others still listed by name only. |
 | `base-de-datos/criaturas.md` | 10 lore creatures highlighted (as of Sept 2026). Full per-creature pages eventually. |
 | `base-de-datos/npcs.md` | Roles/regions filled in for most named NPCs; still no lore/backstory (by design, revealed in-game). Fill in further as AURORA (NPC AI system) ships. |
 | `base-de-datos/items/` | Item database — new section when item system ships. |
-| `base-de-datos/spells/` | A starter-spell table exists in `gameplay/magia.md`; a full spell database is a separate future section once the magic system is complete. |
+| `base-de-datos/spells/` | A starter-spell table + a couple of named examples exist in `gameplay/magia.md`; a full spell database is a separate future section once the magic system is complete. |
 
 ### Deploy
 
