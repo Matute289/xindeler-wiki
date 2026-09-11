@@ -50,6 +50,59 @@ Upon arriving in the world you will find NPCs in nearby villages who offer start
 
 ## Controls & Interface
 
+### Default Keybinds
+
+| Action | Default |
+|--------|---------|
+| Move forward / left / back / right | W / A / S / D |
+| Jump | Space |
+| Roll / dodge | Mouse Middle-click (macOS: Shift) |
+| Sneak | Shift |
+| Glide | Ctrl |
+| Attack Primary | Mouse Left |
+| Attack Secondary / block-aim | Mouse Right |
+| Block | Alt |
+| Interact | E |
+| Toggle weapon / wield | R |
+| Mount | F |
+| Toggle lantern | G |
+| Inventory | I |
+| Character menu (Diary) | P |
+| Map | M |
+| Crafting | C |
+| Social | O |
+| Trade | T |
+| Chat | Enter |
+| Command mode | / |
+| Auto-walk | . |
+| Sit | K |
+| Hotbar slots 1–10 | 1–9, Q |
+| Swap loadout | Tab |
+| Screenshot | F4 |
+
+All of these are rebindable in the settings menu.
+
+### Useful Commands
+
+Chat commands you can use without any admin/moderator role:
+
+| Command | What it does |
+|---------|--------------|
+| `/say` (`/s`) | Local chat |
+| `/region` (`/r`) | Region chat |
+| `/world` (`/w`) | World chat |
+| `/faction` (`/f`) | Faction chat |
+| `/group` (`/g`) | Group chat |
+| `/tell` (`/t`) | Whisper a player |
+| `/group_invite`, `/group_kick`, `/group_promote` | Manage your group |
+| `/group_leave` | Leave your current group |
+| `/join_faction` | Join or leave a faction |
+| `/motd` | Show the server's message of the day |
+| `/players` | List online players |
+| `/battlemode` | Toggle PvP/PvE |
+| `/set_class` | Pick your class |
+| `/location` | Set a named location |
+
 ### Inventory & Equipment
 
 Your gear lives in a tabbed **Inventory / Equipment** window: the Inventory tab lists everything you're carrying, while the Equipment tab shows a paperdoll of your character alongside an always-visible stat block, so you can compare a new item against what you have equipped without switching screens. Equip an item by double-clicking it or dragging it onto a paperdoll slot; drag frequently-used items onto your hotbar for quick access in combat.

@@ -50,6 +50,59 @@ Al llegar al mundo encontrarás NPCs en las aldeas cercanas que ofrecen misiones
 
 ## Controles e interfaz
 
+### Controles por defecto
+
+| Acción | Tecla por defecto |
+|--------|---------------------|
+| Moverse adelante / izquierda / atrás / derecha | W / A / S / D |
+| Saltar | Espacio |
+| Rodar / esquivar | Clic central del mouse (macOS: Shift) |
+| Agacharse | Shift |
+| Planear | Ctrl |
+| Ataque primario | Clic izquierdo |
+| Ataque secundario / apuntar bloqueo | Clic derecho |
+| Bloquear | Alt |
+| Interactuar | E |
+| Alternar arma / empuñar | R |
+| Montar | F |
+| Alternar linterna | G |
+| Inventario | I |
+| Menú de personaje (Diario) | P |
+| Mapa | M |
+| Crafteo | C |
+| Social | O |
+| Comerciar | T |
+| Chat | Enter |
+| Modo comando | / |
+| Auto-caminar | . |
+| Sentarse | K |
+| Slots de hotbar 1–10 | 1–9, Q |
+| Cambiar loadout | Tab |
+| Captura de pantalla | F4 |
+
+Todos estos se pueden reasignar en el menú de configuración.
+
+### Comandos útiles
+
+Comandos de chat que podés usar sin rol de admin/moderador:
+
+| Comando | Qué hace |
+|---------|----------|
+| `/say` (`/s`) | Chat local |
+| `/region` (`/r`) | Chat de región |
+| `/world` (`/w`) | Chat mundial |
+| `/faction` (`/f`) | Chat de facción |
+| `/group` (`/g`) | Chat de grupo |
+| `/tell` (`/t`) | Susurrar a un jugador |
+| `/group_invite`, `/group_kick`, `/group_promote` | Gestionar tu grupo |
+| `/group_leave` | Salir de tu grupo actual |
+| `/join_faction` | Unirte o salir de una facción |
+| `/motd` | Mostrar el mensaje del día del servidor |
+| `/players` | Listar jugadores en línea |
+| `/battlemode` | Alternar PvP/PvE |
+| `/set_class` | Elegir tu clase |
+| `/location` | Fijar una ubicación con nombre |
+
 ### Inventario y equipamiento
 
 Tu equipo vive en una ventana con pestañas **Inventario / Equipamiento**: la pestaña Inventario lista todo lo que llevás encima, mientras que la de Equipamiento muestra un paperdoll de tu personaje junto con un bloque de estadísticas siempre visible, así podés comparar un ítem nuevo contra lo que tenés puesto sin cambiar de pantalla. Equipá un ítem con doble clic o arrastrándolo a un slot del paperdoll; arrastrá los ítems de uso frecuente a tu hotbar para acceso rápido en combate.
