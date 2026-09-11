@@ -33,6 +33,22 @@ Bloquear es una postura propia, distinta del **parry**. Mantener el bloqueo redu
 ### Backstab
 Atacar a un enemigo **por la espalda** otorga una bonificación de precisión. El Rogue es la clase más optimizada para aprovechar esta mecánica, pero cualquier clase puede ejecutar backstabs en el posicionamiento correcto.
 
+### Combat Rating
+
+Todo personaje y criatura tiene un **Combat Rating** — un número único que resume qué tan peligroso es, construido a partir de su equipo, stats y habilidades. Aparece en tu bolsa y hoja de personaje, en los nameplates sobre otras entidades (como un ícono chico de tier — o una calavera si te superan ampliamente), y en los cuadros de grupo. Reutiliza los mismos siete colores de calidad de los items:
+
+| Tier | Rango de Combat Rating |
+|------|-------------------------|
+| Low | menos de 2.0 |
+| Common | 2.0 – 3.5 |
+| Moderate | 3.5 – 6.5 |
+| High | 6.5 – 8.5 |
+| Epic | 8.5 – 10.4 |
+| Legendary | 10.4 – 122.0 |
+| Artifact | 122.0 – 200.0 |
+
+Un ícono de calavera en el nameplate significa que el Combat Rating del objetivo supera 122 — mejor alejate. El Combat Rating también alimenta otras fórmulas directamente: es un factor en los cálculos de resistencia, y la experiencia que ganás al matar algo es aproximadamente su Combat Rating × 20.
+
 ## Buffs y debuffs
 
 ### Buffs positivos (selección)

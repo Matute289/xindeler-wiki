@@ -33,6 +33,22 @@ Blocking is its own stance, separate from **Parry**. Holding block reduces incom
 ### Backstab
 Attacking an enemy **from behind** grants a precision bonus. The Rogue is the most optimized class to exploit this mechanic, but any class can execute backstabs with correct positioning.
 
+### Combat Rating
+
+Every character and creature has a **Combat Rating** — a single number that summarizes how dangerous they are, built from their gear, stats and abilities. It shows up in your bag and character sheet, on nameplates above other entities (as a small tier icon — or a skull if they wildly outclass you), and in party frames. It reuses the same seven colors as item quality:
+
+| Tier | Combat Rating range |
+|------|---------------------|
+| Low | below 2.0 |
+| Common | 2.0 – 3.5 |
+| Moderate | 3.5 – 6.5 |
+| High | 6.5 – 8.5 |
+| Epic | 8.5 – 10.4 |
+| Legendary | 10.4 – 122.0 |
+| Artifact | 122.0 – 200.0 |
+
+A skull nameplate icon means the target's Combat Rating exceeds 122 — walk away. Combat Rating also feeds directly into other formulas: it's a factor in resistance calculations, and the XP you get from a kill is roughly its Combat Rating × 20.
+
 ## Buffs and Debuffs
 
 ### Positive Buffs (selection)
