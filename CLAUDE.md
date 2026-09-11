@@ -232,7 +232,7 @@ All `xindeler.*.greenmountain.dev` subdomains (root, `wiki.`, `auth.`, `cdn.`, `
 
 Following `docs/superpowers/plans/2026-09-10-veloren-wiki-content-expansion.md`, the wiki gained `gameplay/armas.md`, `base-de-datos/armaduras.md`, `gameplay/mazmorras.md`, plus expansions to `combate.md`, `crafteo.md`, `magia.md`, `criaturas.md`, `npcs.md`, `empezando.md` (PR #17, merged).
 
-`gameplay/mazmorras.md` now names all 10 real world-exploration dungeons with proposed epic names (tagged `.badge-wip`, "Proposed naming") — Matías asked to rename them ("épico, mezcla de D&D y nuestro canon") the night of 2026-09-10/11 and said he'd review in the morning. Mapping doc: `xindeler-design#200` (not merged, proposal only). **Do not consider these names final** until he confirms — if he changes them, update both `gameplay/mazmorras.md`/`es/gameplay/mazmorras.md` and notify the "Cromatolis - New Horizon" session (they're waiting on this before touching the engine side, per `xindeler-design/specs/2026-09-10-cow13-exploration-dungeons-design.md` §5.5). Story/mission dungeons (COW-14) still have no narrative design — needs Matías' actual quest ideas, not the wiki's to invent.
+`gameplay/mazmorras.md` names all 10 real world-exploration dungeons with epic names ("épico, mezcla de D&D y nuestro canon", Matías' brief, night of 2026-09-10/11). **Approved by Matías 2026-09-11** — `xindeler-design#200` merged. The "Cromatolis - New Horizon" session was notified and can now apply these names on the engine side per `xindeler-design/specs/2026-09-10-cow13-exploration-dungeons-design.md` §5.5. Story/mission dungeons (COW-14) still have no narrative design — needs Matías' actual quest ideas, not the wiki's to invent.
 
 ### i18n quality — done (September 2026)
 

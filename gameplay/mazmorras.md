@@ -10,7 +10,7 @@ Some dungeons are tied to specific quests and missions — narrative-driven spac
 
 Other dungeons are out there to be found while exploring the world — no quest required, just the willingness to go looking. Each one carries a difficulty tier: going in under-leveled doesn't lock you out, but it will get you killed fast. Going in appropriately geared, on the other hand, is how you find the best loot and the toughest fights in the game.
 
-<span class="badge-wip">Proposed naming</span> — the ten known world dungeons, pending final approval:
+The ten known world dungeons:
 
 | Dungeon | Inhabitants | Boss(es) |
 |---------|-------------|----------|

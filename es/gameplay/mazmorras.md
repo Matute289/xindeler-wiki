@@ -10,7 +10,7 @@ Algunas mazmorras están ligadas a misiones específicas — espacios narrativos
 
 Otras mazmorras están ahí afuera para ser encontradas explorando el mundo — sin necesidad de misión, solo las ganas de ir a buscarlas. Cada una tiene un tier de dificultad: entrar por debajo de tu nivel no te bloquea el acceso, pero te va a matar rápido. Entrar bien equipado, en cambio, es cómo encontrás el mejor loot y las peleas más difíciles del juego.
 
-<span class="badge-wip">Nombres propuestos</span> — las diez mazmorras del mundo conocidas, pendientes de aprobación final:
+Las diez mazmorras del mundo conocidas:
 
 | Mazmorra | Habitantes | Jefe(s) |
 |----------|-----------|---------|
