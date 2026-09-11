@@ -2,13 +2,29 @@
 
 Xindeler's combat system is real-time, based on active abilities, positioning and status mechanics that create tactical depth.
 
+## Combat Controls
+
+If you've never played before, this is the short version — every action mentioned on this page, mapped to the key or button that does it:
+
+| Action | Key / Button |
+|--------|--------------|
+| Attack Primary | Mouse Left |
+| Attack Secondary | Mouse Right |
+| Block (hold) | Alt |
+| Parry (Block, timed to the instant an attack lands) | Alt |
+| Dodge / Roll | Mouse Middle-click (macOS: Shift) |
+| Toggle weapon / wield | R |
+| Class abilities & combos (hotbar) | 1–9, Q |
+
+These are the defaults — see [Getting Started](/guias/empezando) for the full keybind list, and every key is rebindable in the settings menu.
+
 ## Core Mechanics
 
 ### Energy
 Energy is the primary resource for executing active abilities. It regenerates passively and can be increased with racial passives (Human +3% recovery, Gnome +5% maximum) or class abilities.
 
 ### Combos
-Some abilities require or generate **combo points**. Executing abilities in the correct order maximizes damage and triggers additional effects.
+Some abilities require or generate **combo points**. Executing abilities in the correct order maximizes damage and triggers additional effects. Combos are triggered from your hotbar (keys **1–9** and **Q**), same as any other active ability.
 
 ### Poise
 The **Poise** system determines when a character can be interrupted. Heavy attacks or sufficient damage accumulation breaks the target's Poise, interrupting their current animation. The Dhampir has CC resistance, which indirectly protects their Poise.
@@ -24,14 +40,14 @@ Poise depletes through four escalating states before a character is knocked down
 
 Each state hits harder than the last, so chipping away at an enemy's Poise is as valid a strategy as raw damage.
 
-### Dodge / Roll
+### Dodge / Roll — **Mouse Middle-click** (macOS: **Shift**)
 Rolling grants brief immunity to certain attacks while it lasts — timing a roll through an attack's active window lets you shrug it off entirely instead of blocking or eating the hit. Positioning still matters: a roll that ends inside the attack's effective area doesn't save you.
 
-### Block and Parry
-Blocking is its own stance, separate from **Parry**. Holding block reduces incoming damage over its duration; timing a block at the exact moment of an attack instead triggers a parry, which reduces damage to zero and can open counterattack windows. The Warrior has specific abilities to capitalize on parries (DefensiveRiposte).
+### Block and Parry — **Alt**
+Blocking is its own stance, separate from **Parry**. Holding **Alt** reduces incoming damage over its duration; timing that same button-press at the exact moment of an attack instead triggers a parry, which reduces damage to zero and can open counterattack windows. The Warrior has specific abilities to capitalize on parries (DefensiveRiposte).
 
-### Backstab
-Attacking an enemy **from behind** grants a precision bonus. The Rogue is the most optimized class to exploit this mechanic, but any class can execute backstabs with correct positioning.
+### Backstab — no dedicated key, it's positional
+Attacking an enemy **from behind** with your normal attack (**Mouse Left**) grants a precision bonus. The Rogue is the most optimized class to exploit this mechanic, but any class can execute backstabs with correct positioning.
 
 ### Combat Rating
 
