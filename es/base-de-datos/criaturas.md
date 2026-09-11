@@ -22,6 +22,8 @@ Más allá de las criaturas de lore nombradas y los jefes de mazmorra, la fauna 
 **Domesticables, con excepciones:**
 - **Quadruped Medium** — Lobos, Tigres, Osos, Leones, Frostfangs, Sabertooths, Tuskrams y decenas de otras bestias medianas. Domesticables salvo **Catoblepas, Mamut, Elefante e Hirdrasil** — demasiado masivos para vincularse.
 
+<img src="https://cdn.xindeler.com/images/wiki/2026-09-11/criaturas/lobo.webp" alt="Lobo" width="200"> <img src="https://cdn.xindeler.com/images/wiki/2026-09-11/criaturas/oso.webp" alt="Oso" width="200"> <img src="https://cdn.xindeler.com/images/wiki/2026-09-11/criaturas/rata.webp" alt="Rata" width="200">
+
 **Nunca domesticables:**
 - **Theropod** — Raptores y sus parientes. Siempre hostiles, sin excepciones.
 - **Arthropod** — Arañas gigantes, escarabajos y otros insectos.
@@ -87,3 +89,5 @@ Un unicornio es un unicornio es un unicornio — excepto que este no es blanco, 
 ---
 
 > *El bestiario completo de Xindeler — con estadísticas, drops, ubicaciones y lore de cada criatura — se expande a medida que el juego se desarrolla. Esta página se actualiza continuamente.*
+
+<p class="wiki-credit">Algunas imágenes de esta página fueron adaptadas de la <a href="https://wiki.veloren.net">Veloren Wiki</a>, disponible bajo licencia <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a>.</p>

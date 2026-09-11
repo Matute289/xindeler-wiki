@@ -251,7 +251,7 @@ Full native-speaker review completed across `lore/`, `gameplay/`, `guias/`, `bas
 | `base-de-datos/criaturas.md` | 10 lore creatures highlighted (as of Sept 2026). Full per-creature pages eventually. |
 | `base-de-datos/npcs.md` | Roles/regions filled in for most named NPCs; still no lore/backstory (by design, revealed in-game). Fill in further as AURORA (NPC AI system) ships. |
 | `base-de-datos/items/` | Item database — new section when item system ships. |
-| `base-de-datos/spells/` | A starter-spell table + a couple of named examples exist in `gameplay/magia.md`; a full spell database is a separate future section once the magic system is complete. |
+| `base-de-datos/spells/` | **Backlog (2026-09-11, Matías):** no full spell list yet, by design — `gameplay/magia.md` only covers structure (Sources, Schools, mechanics) plus a handful of starter-spell examples. The IP blocker that justified this is resolved (the 17 non-SRD D&D-derived spell names were renamed and merged, `xindeler-design#193`/`#208`). Remaining blocker is simply that not every class's spell pool is finished yet. **Build this page once all classes' spells are done** — pull the full roster from `xindeler-new-horizon`'s `assets/common/abilities/spells/`, organized by class/skill tree, deciding how much detail to show per spell (name + School/Source at minimum) consistent with the "gameplay mechanics = full detail" editorial rule. |
 
 ### Deploy
 

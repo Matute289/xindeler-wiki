@@ -8,12 +8,12 @@ El sistema de habilidades de Xindeler está organizado en **skill trees** especi
 
 | Árbol | Tipo | Clases |
 |-------|------|--------|
-| Espada (Sword) | Activo + Pasivo | Warrior |
-| Hacha (Axe) | Activo + Pasivo | Warrior |
-| Martillo (Hammer) | Activo + Pasivo | Warrior |
-| Arco (Bow) | Activo + Pasivo | Rogue |
-| Bastón de Fuego (Staff) | Activo + Pasivo | Mage |
-| Cetro de Sanación (Sceptre) | Activo + Pasivo | Cleric |
+| Espada (Sword) | Activo + Pasivo | Guerrero |
+| Hacha (Axe) | Activo + Pasivo | Guerrero |
+| Martillo (Hammer) | Activo + Pasivo | Guerrero |
+| Arco (Bow) | Activo + Pasivo | Pícaro |
+| Bastón de Fuego (Staff) | Activo + Pasivo | Mago |
+| Cetro de Sanación (Sceptre) | Activo + Pasivo | Clérigo |
 
 ### Árbol General
 
@@ -25,7 +25,7 @@ Disponible para todas las clases. Incluye:
 
 ### Árboles de clase
 
-Cada clase tiene su propio árbol. Completo para Warrior, Mage, Cleric y Rogue. Las 10 clases que se sumaron más recientemente (Barbarian, Sorcerer, Warlock, Bard, Paladin, Druid, Ranger, Monk, Artificer, Blood Slayer) ya son jugables, pero sus árboles propios todavía están en desarrollo — ver el [listado de clases](/es/gameplay/clases/) para el detalle de cada una.
+Cada clase tiene su propio árbol. Completo para Guerrero, Mago, Clérigo y Pícaro. Las 10 clases que se sumaron más recientemente (Bárbaro, Hechicero, Brujo, Bardo, Paladín, Druida, Explorador, Monje, Artífice, Verdugo de Sangre) ya son jugables, pero sus árboles propios todavía están en desarrollo — ver el [listado de clases](/es/gameplay/clases/) para el detalle de cada una.
 
 ### Árbol de Minería (Pick)
 

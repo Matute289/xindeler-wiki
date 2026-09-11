@@ -1,5 +1,7 @@
 # Combat
 
+![Combat](https://cdn.xindeler.com/images/wiki/2026-09-11/combate/banner-combate.webp)
+
 Xindeler's combat system is real-time, based on active abilities, positioning and status mechanics that create tactical depth.
 
 ## Combat Controls
@@ -21,6 +23,9 @@ These are the defaults — see [Getting Started](/guias/empezando) for the full 
 ## Core Mechanics
 
 ### Energy
+
+![Health and energy bars](https://cdn.xindeler.com/images/wiki/2026-09-11/combate/barras-de-vida-y-energia.webp)
+
 Energy is the primary resource for executing active abilities. It regenerates passively and can be increased with racial passives (Human +3% recovery, Gnome +5% maximum) or class abilities.
 
 ### Combos
@@ -48,6 +53,10 @@ Blocking is its own stance, separate from **Parry**. Holding **Alt** reduces inc
 
 ### Backstab — no dedicated key, it's positional
 Attacking an enemy **from behind** with your normal attack (**Mouse Left**) grants a precision bonus. The Rogue is the most optimized class to exploit this mechanic, but any class can execute backstabs with correct positioning.
+
+<img src="https://cdn.xindeler.com/images/wiki/2026-09-11/combate/agacharse-sigilo.webp" alt="Crouching to approach unseen" width="400">
+
+Sneaking (**Shift**, held) closes distance quietly — enemies notice a crouched character later, which makes it easier to line up a backstab or simply skip a fight you don't want.
 
 ### Combat Rating
 
@@ -103,3 +112,5 @@ Projectiles have server-validated cooldowns — it is not possible to fire faste
 ## Death and Respawn
 
 Upon death, the character respawns at the nearest spawn point. There is no permanent loss of items or levels.
+
+<p class="wiki-credit">Images on this page are adapted from the <a href="https://wiki.veloren.net">Veloren Wiki</a>, available under <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a>.</p>

@@ -1,6 +1,6 @@
 # Multiclase
 
-Cuando tu personaje ya tiene experiencia suficiente, Xindeler te deja ramificarte a una segunda clase sin abandonar la primera — un sistema de multiclase al estilo D&D.
+Cuando tu personaje ya tiene experiencia suficiente, Xindeler te deja ramificarte a una segunda clase sin abandonar la primera.
 
 ## Cómo funciona
 
@@ -11,7 +11,7 @@ Cuando tu personaje ya tiene experiencia suficiente, Xindeler te deja ramificart
 
 ## Elegir una segunda clase
 
-Cualquier clase jugable se puede elegir como segunda clase, siempre que sea distinta de la primera. No hay combinaciones forzadas — un Warrior puede sumar Cleric para tener algo de autosuficiencia, un Mage puede sumar Rogue para movilidad, o podés ir por una combinación más rara todavía.
+Cualquier clase jugable se puede elegir como segunda clase, siempre que sea distinta de la primera. No hay combinaciones forzadas — un Guerrero puede sumar Clérigo para tener algo de autosuficiencia, un Mago puede sumar Pícaro para movilidad, o podés ir por una combinación más rara todavía.
 
 ## Por qué multiclasear
 

@@ -4,27 +4,33 @@ Xindeler's crafting system allows you to create weapons, armor, consumables, too
 
 ## How It Works
 
+![The crafting menu](https://cdn.xindeler.com/images/wiki/2026-09-11/guias/menu-de-crafteo.webp)
+
 To craft an item you need:
 1. The required **materials** in your inventory
 2. A **crafting station** of the corresponding type
 3. Having unlocked the **recipe** (some are automatic, others require recipe books)
 
+![Crafting a simple recipe](https://cdn.xindeler.com/images/wiki/2026-09-11/crafteo/ejemplo-receta-crafteo.webp)
+
 ## Crafting Stations
+
+![Crafting stations](https://cdn.xindeler.com/images/wiki/2026-09-11/crafteo/banner-estaciones.webp)
 
 There are 10 crafting stations, each covering a different category of recipe:
 
 | Station | Used for | Recipes |
 |---------|----------|--------:|
-| Crafting Bench | General item assembly | 132 |
-| Anvil | Metal weapons and armor | 72 |
-| Loom | Weaving cloth from thread | 56 |
-| Cauldron | Potions and alchemical items | 20 |
-| Forge | Smelting ore into ingots | 10 |
-| Cooking Pot | Food and consumables | 8 |
-| Spinning Wheel | Turning raw fiber into thread | 7 |
-| Tanning Rack | Curing raw hide into leather | 4 |
-| Dismantling Bench | Salvaging items back into materials | — (not recipe-based) |
-| Repair Bench | Equipment repair | — (not recipe-based) |
+| <img src="https://cdn.xindeler.com/images/wiki/2026-09-11/crafteo/icono-estacion-mesa-de-crafteo.webp" alt="" width="32"> Crafting Bench | General item assembly | 132 |
+| <img src="https://cdn.xindeler.com/images/wiki/2026-09-11/crafteo/icono-estacion-yunque.webp" alt="" width="32"> Anvil | Metal weapons and armor | 72 |
+| <img src="https://cdn.xindeler.com/images/wiki/2026-09-11/crafteo/icono-estacion-telar.webp" alt="" width="32"> Loom | Weaving cloth from thread | 56 |
+| <img src="https://cdn.xindeler.com/images/wiki/2026-09-11/crafteo/icono-estacion-caldero.webp" alt="" width="32"> Cauldron | Potions and alchemical items | 20 |
+| <img src="https://cdn.xindeler.com/images/wiki/2026-09-11/crafteo/icono-estacion-forja.webp" alt="" width="32"> Forge | Smelting ore into ingots | 10 |
+| <img src="https://cdn.xindeler.com/images/wiki/2026-09-11/crafteo/icono-estacion-olla-de-cocina.webp" alt="" width="32"> Cooking Pot | Food and consumables | 8 |
+| <img src="https://cdn.xindeler.com/images/wiki/2026-09-11/crafteo/icono-estacion-rueca.webp" alt="" width="32"> Spinning Wheel | Turning raw fiber into thread | 7 |
+| <img src="https://cdn.xindeler.com/images/wiki/2026-09-11/crafteo/icono-estacion-curtidor.webp" alt="" width="32"> Tanning Rack | Curing raw hide into leather | 4 |
+| <img src="https://cdn.xindeler.com/images/wiki/2026-09-11/crafteo/icono-estacion-banco-de-reciclaje.webp" alt="" width="32"> Dismantling Bench | Salvaging items back into materials | — (not recipe-based) |
+| <img src="https://cdn.xindeler.com/images/wiki/2026-09-11/crafteo/icono-estacion-banco-de-reparacion.webp" alt="" width="32"> Repair Bench | Equipment repair | — (not recipe-based) |
 
 ## Categories of Craftable Items
 
@@ -61,7 +67,7 @@ Items have a **quality** system represented by colors. The quality of the final 
 
 Real material names, by category and tier (confirmed against the game's item data — not every category has a material at every tier):
 
-| Tier | Metal | Wood | Textile | Hide |
+| Tier | <img src="https://cdn.xindeler.com/images/wiki/2026-09-11/crafteo/icono-material-lingotes.webp" alt="" width="24"> Metal | <img src="https://cdn.xindeler.com/images/wiki/2026-09-11/crafteo/icono-material-troncos.webp" alt="" width="24"> Wood | <img src="https://cdn.xindeler.com/images/wiki/2026-09-11/crafteo/icono-material-textiles.webp" alt="" width="24"> Textile | <img src="https://cdn.xindeler.com/images/wiki/2026-09-11/crafteo/icono-material-cueros.webp" alt="" width="24"> Hide |
 |------|-------|------|---------|------|
 | Low | Bronze, Tin | Wood | Linen | Animal Hide, Simple Leather |
 | Common | Iron | Bamboo | Wool, Cloth Strips | Tough Hide, Thick Leather, Leather Strips |
@@ -72,6 +78,10 @@ Real material names, by category and tier (confirmed against the game's item dat
 
 No material reaches the Artifact tier — that quality is reserved for crafted or unique items, not raw materials.
 
+Raw materials are gathered directly from the world, before they're refined into the tiers above:
+
+<img src="https://cdn.xindeler.com/images/wiki/2026-09-11/crafteo/icono-material-minerales.webp" alt="Ores" width="70"> <img src="https://cdn.xindeler.com/images/wiki/2026-09-11/crafteo/icono-material-gemas.webp" alt="Gems" width="70"> <img src="https://cdn.xindeler.com/images/wiki/2026-09-11/crafteo/icono-material-pieles.webp" alt="Hides" width="70"> <img src="https://cdn.xindeler.com/images/wiki/2026-09-11/crafteo/icono-material-materiales-animales.webp" alt="Animal materials" width="70">
+
 ## Repair
 
 Items have no repair cost in resources. You can repair your equipment without economic penalty.
@@ -79,3 +89,5 @@ Items have no repair cost in resources. You can repair your equipment without ec
 ## Inventory
 
 The inventory has **36 slots**, expanded from the original fork version. Some items stack (materials, consumables), others occupy individual slots (weapons, armor).
+
+<p class="wiki-credit">Images on this page are adapted from the <a href="https://wiki.veloren.net">Veloren Wiki</a>, available under <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a>.</p>

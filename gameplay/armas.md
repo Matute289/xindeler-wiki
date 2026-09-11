@@ -1,20 +1,26 @@
 # Weapons
 
+![Weapons](https://cdn.xindeler.com/images/wiki/2026-09-11/armas/banner-armas.webp)
+
 Xindeler currently has **9 weapon types**, each with its own combat feel and skill-tree interactions. Dagger, shield, spear and blowgun are planned for a future update.
 
 ## Weapon Types
 
+<img src="https://cdn.xindeler.com/images/wiki/2026-09-11/armas/icono-categoria-armas.webp" alt="Weapon types" width="90">
+
 | Type | Style |
 |------|-------|
-| Sword | Balanced, combo-driven melee |
-| Axe | Heavy, high-damage melee with cleave potential |
-| Hammer | Slow, poise-breaking melee |
-| Bow | Ranged physical damage |
-| Staff | Ranged caster weapon (Arcana) |
-| Sceptre | Support/caster weapon (Divine) |
+| <img src="https://cdn.xindeler.com/images/wiki/2026-09-11/armas/icono-espada.webp" alt="" width="36"> Sword | Balanced, combo-driven melee |
+| <img src="https://cdn.xindeler.com/images/wiki/2026-09-11/armas/icono-hacha.webp" alt="" width="36"> Axe | Heavy, high-damage melee with cleave potential |
+| <img src="https://cdn.xindeler.com/images/wiki/2026-09-11/armas/icono-martillo.webp" alt="" width="36"> Hammer | Slow, poise-breaking melee |
+| <img src="https://cdn.xindeler.com/images/wiki/2026-09-11/armas/icono-arco.webp" alt="" width="36"> Bow | Ranged physical damage |
+| <img src="https://cdn.xindeler.com/images/wiki/2026-09-11/armas/icono-baston.webp" alt="" width="36"> Staff | Ranged caster weapon (Arcana) |
+| <img src="https://cdn.xindeler.com/images/wiki/2026-09-11/armas/icono-cetro.webp" alt="" width="36"> Sceptre | Support/caster weapon (Divine) |
 | Tome | Caster weapon, basic spell set |
 | Holy Symbol | Caster weapon, basic spell set (Divine) |
 | Focus | Caster weapon, basic spell set (Arcana) |
+
+> Tome, Holy Symbol and Focus are original to Xindeler — they don't exist in the base engine, so there's no reference art for them yet.
 
 Caster weapons (Tome, Holy Symbol, Focus, Staff, Sceptre) determine which set of basic spells you have available — see [Magic](/gameplay/magia) for how sources, schools and spells fit together.
 
@@ -34,3 +40,5 @@ Some weapons in Xindeler are unique, storied relics rather than crafted gear. Th
 - **The Marrow-Scepter** <span class="badge-secret">Lore</span> — a scepter crowned with something that used to be a skull. It does not like being pointed at the living.
 
 > *Where these relics are, who carries them now, and what they truly are — that's part of the story the game reveals as it unfolds.*
+
+<p class="wiki-credit">Images on this page are adapted from the <a href="https://wiki.veloren.net">Veloren Wiki</a>, available under <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a>.</p>

@@ -1,5 +1,7 @@
 # Combate
 
+![Combate](https://cdn.xindeler.com/images/wiki/2026-09-11/combate/banner-combate.webp)
+
 El sistema de combate de Xindeler es en tiempo real, basado en habilidades activas, posicionamiento y mecánicas de estado que crean profundidad táctica.
 
 ## Controles de combate
@@ -21,13 +23,16 @@ Estas son las teclas por defecto — ver [Cómo empezar](/es/guias/empezando) pa
 ## Mecánicas fundamentales
 
 ### Energía
-La energía es el recurso principal para ejecutar habilidades activas. Se regenera pasivamente y puede aumentarse con pasivos raciales (Human +3% recuperación, Gnome +5% máximo) o habilidades de clase.
+
+![Barras de vida y energía](https://cdn.xindeler.com/images/wiki/2026-09-11/combate/barras-de-vida-y-energia.webp)
+
+La energía es el recurso principal para ejecutar habilidades activas. Se regenera pasivamente y puede aumentarse con pasivos raciales (Humano +3% recuperación, Gnomo +5% máximo) o habilidades de clase.
 
 ### Combos
 Algunas habilidades requieren o generan **combo points**. Ejecutar habilidades en el orden correcto maximiza el daño y desencadena efectos adicionales. Los combos se disparan desde tu hotbar (teclas **1–9** y **Q**), igual que cualquier otra habilidad activa.
 
 ### Poise
-El sistema de **poise** determina cuándo un personaje puede ser interrumpido. Ataques pesados o acumulación de daño suficiente rompen el poise del objetivo, interrumpiendo su animación actual. El Dhampir tiene resistencia a CC, que indirectamente protege su poise.
+El sistema de **poise** determina cuándo un personaje puede ser interrumpido. Ataques pesados o acumulación de daño suficiente rompen el poise del objetivo, interrumpiendo su animación actual. El Dhampiro tiene resistencia a CC, que indirectamente protege su poise.
 
 El poise se agota a través de cuatro estados crecientes antes de que el personaje caiga al piso:
 
@@ -44,10 +49,14 @@ Cada estado pega más fuerte que el anterior, así que desgastar el poise de un 
 Rodar (roll) otorga inmunidad breve a ciertos ataques mientras dura — cronometrar un roll a través de la ventana activa de un ataque te permite esquivarlo por completo en vez de bloquearlo o recibirlo. El posicionamiento sigue importando: un roll que termina dentro del área efectiva del ataque no te salva.
 
 ### Block y Parry — **Alt**
-Bloquear es una postura propia, distinta del **parry**. Mantener **Alt** reduce el daño entrante durante su duración; cronometrar esa misma tecla justo en el momento exacto de un ataque activa en cambio un parry, que reduce el daño a cero y puede abrir ventanas de contraataque. El Warrior tiene habilidades específicas para aprovechar el parry (DefensiveRiposte).
+Bloquear es una postura propia, distinta del **parry**. Mantener **Alt** reduce el daño entrante durante su duración; cronometrar esa misma tecla justo en el momento exacto de un ataque activa en cambio un parry, que reduce el daño a cero y puede abrir ventanas de contraataque. El Guerrero tiene habilidades específicas para aprovechar el parry (DefensiveRiposte).
 
 ### Backstab — sin tecla propia, es posicional
-Atacar a un enemigo **por la espalda** con tu ataque normal (**clic izquierdo**) otorga una bonificación de precisión. El Rogue es la clase más optimizada para aprovechar esta mecánica, pero cualquier clase puede ejecutar backstabs en el posicionamiento correcto.
+Atacar a un enemigo **por la espalda** con tu ataque normal (**clic izquierdo**) otorga una bonificación de precisión. El Pícaro es la clase más optimizada para aprovechar esta mecánica, pero cualquier clase puede ejecutar backstabs en el posicionamiento correcto.
+
+<img src="https://cdn.xindeler.com/images/wiki/2026-09-11/combate/agacharse-sigilo.webp" alt="Agachado para acercarse sin ser visto" width="400">
+
+Agacharse (**Shift**, mantenido) permite cerrar distancia sin llamar la atención — los enemigos notan a un personaje agachado más tarde, lo que facilita armar un backstab o directamente evitar una pelea que no querés.
 
 ### Combat Rating
 
@@ -73,7 +82,7 @@ Un ícono de calavera en el nameplate significa que el Combat Rating del objetiv
 |:-:|--------|--------|
 | 💚 | Regeneration | Recupera salud por tiempo |
 | 💨 | Hastened | Aumenta velocidad de movimiento y ataque |
-| 🛡️ | Fortitude | Aumenta reducción de daño (Stoneblood del Dwarf) |
+| 🛡️ | Fortitude | Aumenta reducción de daño (Stoneblood del Enano) |
 | ⚔️ | Frenzied | Aumenta daño de ataque |
 | 🩸 | Lifesteal | Roba porcentaje de daño como salud |
 | ✨ | Invulnerability | Inmunidad temporal a daño |
@@ -89,8 +98,8 @@ Un ícono de calavera en el nameplate significa que el Combat Rating del objetiv
 | ❄️ | Frozen | Ralentización severa o inmovilización |
 | 🦶 | Crippled | Ralentización de movimiento |
 | ☠️ | Poisoned | Daño por tiempo de veneno |
-| 😱 | Terrified | Huida, incapaz de atacar (efecto del Mage) |
-| 💫 | Charmed | No ataca al lanzador (efecto del Cleric) |
+| 😱 | Terrified | Huida, incapaz de atacar (efecto del Mago) |
+| 💫 | Charmed | No ataca al lanzador (efecto del Clérigo) |
 
 ::: tip
 Estos íconos son una referencia rápida de esta página, no un calco 1:1 del arte real de la barra de buffs en el juego — pero los nombres de efecto y qué hacen son exactamente lo que vas a ver en los tooltips.
@@ -103,3 +112,5 @@ Los proyectiles tienen cooldowns validados en el servidor — no es posible disp
 ## Muerte y respawn
 
 Al morir, el personaje respawnea en el punto de spawn más cercano. No hay pérdida permanente de items o niveles.
+
+<p class="wiki-credit">Algunas imágenes de esta página fueron adaptadas de la <a href="https://wiki.veloren.net">Veloren Wiki</a>, disponible bajo licencia <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a>.</p>

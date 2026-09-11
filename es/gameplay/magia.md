@@ -1,37 +1,56 @@
 # Magia
 
-El sistema de magia de Xindeler es uno de los más profundos del juego. Organizado en **fuentes mágicas** y **escuelas**, cada combinación define un estilo de combate diferente.
+El sistema de magia de Xindeler es uno de los más profundos del juego. Todo hechizo se define por dos cosas independientes entre sí: una **Fuente** (de dónde sale el poder) y una **Escuela** (qué forma toma su efecto) — una Escuela no está atada a una sola Fuente, es un estilo de efecto que distintas Fuentes pueden canalizar cada una a su manera.
 
 ## Fuentes mágicas
 
-Cada hechizo pertenece a una fuente mágica que define su origen y naturaleza:
+Cada hechizo se nutre de una fuente mágica que define su origen y naturaleza:
 
 | Fuente | Descripción |
 |--------|-------------|
 | **Arcana** | La magia del Veil — el tejido de energía que permea el mundo |
 | **Divina** | Concedida por los Luminaries a sus seguidores fieles |
-| **Primal** | La fuerza bruta de la naturaleza y los elementos |
-| **Psionic** | El poder de la mente sobre la materia |
+| **Primordial** | La fuerza bruta de la naturaleza y los elementos |
+| **Psiónica** | El poder de la mente sobre la materia |
 | **Ki** | Energía interna canalizada a través del cuerpo |
 
 ## Escuelas de magia
 
-Las escuelas determinan el *tipo* de efecto mágico:
+Una Escuela describe el *estilo* que toma el efecto de un hechizo — daño directo, invocación, engaño, etc. — independientemente de qué Fuente lo alimenta. Una misma Escuela puede alcanzarse desde más de una Fuente: la Evocación de un Clérigo y la de un Mago golpean igual de fuerte y rápido, solo que sacan el poder de lugares distintos.
 
-| Escuela | Fuente | Descripción |
-|---------|--------|-------------|
-| **Evocación** | Arcana | Daño directo, explosiones, proyectiles |
-| **Hemomancy** | Arcana | Magia de sangre — única en Xindeler |
-| **Axiomancy** | Arcana | Gravedad, tiempo y espacio |
-| **Nigromancia** | Arcana | Control y debilitamiento |
-| **Encantamiento** | Arcana / Divina | Manipulación mental |
-| **Abjuración** | Arcana | Defensa y negación mágica |
-| **Conjuración** | Arcana | Invocación y summoning |
-| **Ilusión** | Arcana | Engaño y percepción |
-| **Adivinación** | Arcana | Conocimiento e información |
-| **Transmutación** | Arcana | Transformación y alteración |
+| Escuela | Descripción |
+|---------|-------------|
+| **Evocación** | Daño directo, explosiones, proyectiles |
+| **Conjuración** | Invocación y summoning |
+| **Transmutación** | Transformación y alteración |
+| **Abjuración** | Defensa y negación mágica |
+| **Nigromancia** | Control y debilitamiento |
+| **Encantamiento** | Manipulación mental |
+| **Ilusión** | Engaño y percepción |
+| **Adivinación** | Conocimiento e información |
+| **Axiomancia** | Gravedad, tiempo y espacio — dividida en dos subdisciplinas, una orientada al tiempo y el destino, la otra a la gravedad y la masa |
+| **Hemomancia** | Magia de sangre — una práctica prohibida, única en Xindeler |
 
-> Actualmente el **Mage** y el **Cleric** son las clases con acceso a magia. Futuras clases como Warlock, Druid y Bard tendrán acceso a combinaciones únicas de fuentes y escuelas.
+### Qué Fuentes alimentan cada Escuela hoy
+
+No todas las combinaciones de Escuela × Fuente existen todavía — se van a ir sumando más a medida que salgan nuevas clases.
+
+| Escuela | Arcana | Divina | Primordial | Psiónica | Ki |
+|--------|:---:|:---:|:---:|:---:|:---:|
+| Evocación | ✅ | ✅ | — | — | — |
+| Conjuración | ✅ | ✅ | ✅ | — | — |
+| Transmutación | ✅ | ✅ | ✅ | — | — |
+| Abjuración | ✅ | ✅ | ✅ | — | — |
+| Nigromancia | ✅ | ✅ | — | — | — |
+| Encantamiento | ✅ | ✅ | — | — | — |
+| Adivinación | ✅ | ✅ | ✅ | — | — |
+| Ilusión | ✅ | — | — | — | — |
+| Axiomancia | ✅ | — | — | — | — |
+| Hemomancia | ✅ | — | — | — | — |
+
+> Psiónica y Ki todavía no están en la grilla de Escuelas — son disciplinas propias (Ki en particular alimenta al **Monje**), reservadas para clases que funcionan por fuera del par fuente/escuela.
+
+> Actualmente el **Mago** y el **Clérigo** son las clases con acceso a magia. Futuras clases como Brujo, Druida y Bardo tendrán acceso a combinaciones únicas de fuentes y escuelas.
 
 ## Cómo está construido un hechizo
 
@@ -55,8 +74,8 @@ Tres armas de casteo vienen con un ataque básico más un hechizo firma exclusiv
 
 | Arma de Casteo | Ataque Básico | Hechizo Firma | Clase |
 |----------------|---------------|----------------|-------|
-| Tomo | Cinderbolt | Shatterburst | Mage |
-| Símbolo Sagrado | Dawnmote | Censure | Cleric |
+| Tomo | Cinderbolt | Shatterburst | Mago |
+| Símbolo Sagrado | Dawnmote | Censure | Clérigo |
 | Foco | Thornspit | Dread Whisper | — |
 
 ## El Veil

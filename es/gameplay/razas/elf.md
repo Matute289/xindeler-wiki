@@ -1,4 +1,4 @@
-# Elf
+# Elfo
 
 Los Elfos son elegantes, veloces y longevos. Su afinidad natural con la magia y el movimiento los hace ideales para clases que requieren movilidad o cadencia de hechizos.
 
@@ -9,11 +9,11 @@ Los Elfos son elegantes, veloces y longevos. Su afinidad natural con la magia y 
 
 ## Fleetness
 
-Al activarla, el Elf recibe un burst temporal adicional de velocidad de movimiento. Ideal para posicionamiento rápido, escape o persecución.
+Al activarla, el Elfo recibe un burst temporal adicional de velocidad de movimiento. Ideal para posicionamiento rápido, escape o persecución.
 
 ## Sinergia con clases
 
-La velocidad extra es más valiosa para clases que necesitan mantener distancia o reposicionarse constantemente: **Mage** y **Rogue** son las combinaciones más populares.
+La velocidad extra es más valiosa para clases que necesitan mantener distancia o reposicionarse constantemente: **Mago** y **Pícaro** son las combinaciones más populares.
 
 ## Lore
 

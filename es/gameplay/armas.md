@@ -1,20 +1,26 @@
 # Armas
 
+![Armas](https://cdn.xindeler.com/images/wiki/2026-09-11/armas/banner-armas.webp)
+
 Xindeler tiene actualmente **9 tipos de arma**, cada uno con su propia sensación de combate e interacciones con el árbol de habilidades. Daga, escudo, lanza y cerbatana están planeadas para una futura actualización.
 
 ## Tipos de arma
 
+<img src="https://cdn.xindeler.com/images/wiki/2026-09-11/armas/icono-categoria-armas.webp" alt="Tipos de arma" width="90">
+
 | Tipo | Estilo |
 |------|--------|
-| Espada | Melé balanceada, orientada a combos |
-| Hacha | Melé pesada, alto daño con potencial de barrido |
-| Martillo | Melé lenta, rompe poise |
-| Arco | Daño físico a distancia |
-| Bastón | Arma de casteo a distancia (Arcana) |
-| Cetro | Arma de soporte/casteo (Divino) |
+| <img src="https://cdn.xindeler.com/images/wiki/2026-09-11/armas/icono-espada.webp" alt="" width="36"> Espada | Melé balanceada, orientada a combos |
+| <img src="https://cdn.xindeler.com/images/wiki/2026-09-11/armas/icono-hacha.webp" alt="" width="36"> Hacha | Melé pesada, alto daño con potencial de barrido |
+| <img src="https://cdn.xindeler.com/images/wiki/2026-09-11/armas/icono-martillo.webp" alt="" width="36"> Martillo | Melé lenta, rompe poise |
+| <img src="https://cdn.xindeler.com/images/wiki/2026-09-11/armas/icono-arco.webp" alt="" width="36"> Arco | Daño físico a distancia |
+| <img src="https://cdn.xindeler.com/images/wiki/2026-09-11/armas/icono-baston.webp" alt="" width="36"> Bastón | Arma de casteo a distancia (Arcana) |
+| <img src="https://cdn.xindeler.com/images/wiki/2026-09-11/armas/icono-cetro.webp" alt="" width="36"> Cetro | Arma de soporte/casteo (Divino) |
 | Tomo | Arma de casteo, set básico de hechizos |
 | Símbolo Sagrado | Arma de casteo, set básico de hechizos (Divino) |
 | Foco | Arma de casteo, set básico de hechizos (Arcana) |
+
+> Tomo, Símbolo Sagrado y Foco son propios de Xindeler — no existen en el motor base, así que todavía no hay arte de referencia para ellos.
 
 Las armas de casteo (Tomo, Símbolo Sagrado, Foco, Bastón, Cetro) determinan qué set de hechizos básicos tenés disponible — ver [Magia](/es/gameplay/magia) para cómo encajan fuentes, escuelas y hechizos.
 
@@ -34,3 +40,5 @@ Algunas armas de Xindeler son reliquias únicas con historia propia, en vez de e
 - **El Cetro de Médula** <span class="badge-secret">Lore</span> — un cetro coronado con algo que alguna vez fue un cráneo. No le gusta que lo apunten hacia los vivos.
 
 > *Dónde están estas reliquias, quién las porta hoy, y qué son realmente — eso es parte de la historia que el juego revela a medida que avanza.*
+
+<p class="wiki-credit">Algunas imágenes de esta página fueron adaptadas de la <a href="https://wiki.veloren.net">Veloren Wiki</a>, disponible bajo licencia <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a>.</p>

@@ -41,4 +41,4 @@ Entidades que existen fuera de la jerarquía de los Luminaries. No son dioses en
 
 Los cultos a los Luminaries son parte fundamental de la vida en Xindeler. Gildmar tiene presencia fuerte en las ciudades comerciales. Vorne es adorado por guerreros y soldados. Nereth recibe ofrendas en los entierros. Yssira tiene sus archivistas y magos académicos.
 
-El Cleric es la clase que canaliza directamente la magia divina de los Luminaries — su fuente de poder depende de la relación con su dios elegido.
+El Clérigo es la clase que canaliza directamente la magia divina de los Luminaries — su fuente de poder depende de la relación con su dios elegido.

@@ -1,35 +1,54 @@
 # Magic
 
-Xindeler's magic system is one of the deepest in the game. Organized into **magic sources** and **schools**, each combination defines a different combat style.
+Xindeler's magic system is one of the deepest in the game. Every spell is defined by two independent things: a **Source** (where its power comes from) and a **School** (what form its effect takes) — a School isn't tied to one Source, it's a style of effect that different Sources can channel in their own way.
 
 ## Magic Sources
 
-Each spell belongs to a magic source that defines its origin and nature:
+Each spell draws on a magic source that defines its origin and nature:
 
 | Source | Description |
 |--------|-------------|
-| **Arcana** | The magic of the Veil — the fabric of energy that permeates the world |
+| **Arcane** | The magic of the Veil — the fabric of energy that permeates the world |
 | **Divine** | Granted by the Luminaries to their faithful followers |
-| **Primal** | The raw force of nature and the elements |
+| **Primordial** | The raw force of nature and the elements |
 | **Psionic** | The power of the mind over matter |
 | **Ki** | Internal energy channeled through the body |
 
 ## Schools of Magic
 
-Schools determine the *type* of magical effect:
+A School describes the *style* a spell's effect takes — direct damage, summoning, deception, and so on — independent of which Source fuels it. The same School can be reached from more than one Source: a Cleric's Evocation and a Mage's Evocation both hit hard and fast, they just draw on different power.
 
-| School | Source | Description |
-|---------|--------|-------------|
-| **Evocation** | Arcana | Direct damage, explosions, projectiles |
-| **Hemomancy** | Arcana | Blood magic — unique to Xindeler |
-| **Axiomancy** | Arcana | Gravity, time and space |
-| **Necromancy** | Arcana | Control and debilitation |
-| **Enchantment** | Arcana / Divine | Mental manipulation |
-| **Abjuration** | Arcana | Defense and magical negation |
-| **Conjuration** | Arcana | Summoning |
-| **Illusion** | Arcana | Deception and perception |
-| **Divination** | Arcana | Knowledge and information |
-| **Transmutation** | Arcana | Transformation and alteration |
+| School | Description |
+|---------|-------------|
+| **Evocation** | Direct damage, explosions, projectiles |
+| **Conjuration** | Summoning |
+| **Transmutation** | Transformation and alteration |
+| **Abjuration** | Defense and magical negation |
+| **Necromancy** | Control and debilitation |
+| **Enchantment** | Mental manipulation |
+| **Illusion** | Deception and perception |
+| **Divination** | Knowledge and information |
+| **Axiomancy** | Gravity, time and space — split into two sub-disciplines, one bent toward time and fate, the other toward gravity and mass |
+| **Hemomancy** | Blood magic — a forbidden practice, unique to Xindeler |
+
+### Which Sources each School draws on, today
+
+Not every School × Source combination is in use yet — more will open up as new classes ship.
+
+| School | Arcane | Divine | Primordial | Psionic | Ki |
+|--------|:---:|:---:|:---:|:---:|:---:|
+| Evocation | ✅ | ✅ | — | — | — |
+| Conjuration | ✅ | ✅ | ✅ | — | — |
+| Transmutation | ✅ | ✅ | ✅ | — | — |
+| Abjuration | ✅ | ✅ | ✅ | — | — |
+| Necromancy | ✅ | ✅ | — | — | — |
+| Enchantment | ✅ | ✅ | — | — | — |
+| Divination | ✅ | ✅ | ✅ | — | — |
+| Illusion | ✅ | — | — | — | — |
+| Axiomancy | ✅ | — | — | — | — |
+| Hemomancy | ✅ | — | — | — | — |
+
+> Psionic and Ki don't sit on the School grid at all yet — they're disciplines of their own (Ki notably powers the **Monk**), reserved for classes that work outside the source/school pairing entirely.
 
 > Currently the **Mage** and the **Cleric** are the classes with access to magic. Future classes like Warlock, Druid and Bard will have access to unique combinations of sources and schools.
 

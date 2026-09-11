@@ -8,12 +8,12 @@ Las razas otorgan un **pasivo permanente** y una **habilidad innata** activa. Ni
 
 | Raza | Pasivo | Habilidad innata |
 |------|--------|-----------------|
-| [Human](/es/gameplay/razas/human) | +3% recuperación de energía | Second Wind |
-| [Elf](/es/gameplay/razas/elf) | +3% velocidad de movimiento | Fleetness |
-| [Dwarf](/es/gameplay/razas/dwarf) | +2% reducción de daño recibido | Stoneblood |
-| [Orc](/es/gameplay/razas/orc) | +3% daño de ataque | Bloodrage |
-| [Gnome](/es/gameplay/razas/gnome) | +5% energía máxima | Shadowstep |
-| [Dhampir](/es/gameplay/razas/dhampir) | +10% resistencia a control de masas | Gravechill |
+| [Humano](/es/gameplay/razas/human) | +3% recuperación de energía | Second Wind |
+| [Elfo](/es/gameplay/razas/elf) | +3% velocidad de movimiento | Fleetness |
+| [Enano](/es/gameplay/razas/dwarf) | +2% reducción de daño recibido | Stoneblood |
+| [Orco](/es/gameplay/razas/orc) | +3% daño de ataque | Bloodrage |
+| [Gnomo](/es/gameplay/razas/gnome) | +5% energía máxima | Shadowstep |
+| [Dhampiro](/es/gameplay/razas/dhampir) | +10% resistencia a control de masas | Gravechill |
 
 → [Ver todas las razas en detalle](/es/gameplay/razas/)
 
@@ -23,10 +23,10 @@ La clase determina tu rol en combate, las armas que podés usar y las habilidade
 
 | Clase | Rol | Armas principales |
 |-------|-----|-------------------|
-| [Warrior](/es/gameplay/clases/warrior) | Daño / Tanque | Espada, hacha, martillo |
-| [Mage](/es/gameplay/clases/mage) | Daño mágico | Tomo, foco, bastón |
-| [Cleric](/es/gameplay/clases/cleric) | Soporte / Sanación | Símbolo sagrado, cetro |
-| [Rogue](/es/gameplay/clases/rogue) | Daño / Movilidad | Daga, arco |
+| [Guerrero](/es/gameplay/clases/warrior) | Daño / Tanque | Espada, hacha, martillo |
+| [Mago](/es/gameplay/clases/mage) | Daño mágico | Tomo, foco, bastón |
+| [Clérigo](/es/gameplay/clases/cleric) | Soporte / Sanación | Símbolo sagrado, cetro |
+| [Pícaro](/es/gameplay/clases/rogue) | Daño / Movilidad | Daga, arco |
 
 → [Ver las 14 clases en detalle](/es/gameplay/clases/)
 

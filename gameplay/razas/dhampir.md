@@ -1,5 +1,7 @@
 # Dhampir
 
+<img src="https://cdn.xindeler.com/images/wiki/2026-09-11/razas/dhampir-masculino.webp" alt="Dhampir character render" width="220"> <img src="https://cdn.xindeler.com/images/wiki/2026-09-11/razas/dhampir-femenino.webp" alt="Dhampir character render" width="220">
+
 The Dhampir are beings between life and death, with a supernatural resistance to crowd control that makes them difficult to immobilize in combat.
 
 | | |
@@ -22,3 +24,5 @@ The Dhampir's +10% CC resistance passive is one of the most unique in the game. 
 ## Lore
 
 *The Dhampir are a people who crossed a threshold that most mortals cannot cross and return from. They are neither living nor dead — they are something different. Their presence unsettles other races, but their loyalty, once earned, is absolute. They have their own relationship with death that no other race fully understands.*
+
+<p class="wiki-credit">Images on this page are adapted from the <a href="https://wiki.veloren.net">Veloren Wiki</a>, available under <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a>.</p>

@@ -2,7 +2,7 @@
 
 Tu trasfondo captura quién era tu personaje antes de que empezara la aventura — su oficio, su posición social, el mundo que lo formó. Xindeler tiene **24 trasfondos** en 7 categorías.
 
-Un trasfondo nunca restringe tu elección de raza o clase. Un Noble puede ser Barbarian, un Criminal puede ser Cleric — es puramente un gancho de historia y un punto de partida, no una restricción de build.
+Un trasfondo nunca restringe tu elección de raza o clase. Un Noble puede ser Bárbaro, un Criminal puede ser Clérigo — es puramente un gancho de historia y un punto de partida, no una restricción de build.
 
 ## Spiritual
 

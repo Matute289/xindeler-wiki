@@ -22,6 +22,8 @@ Beyond the named lore creatures and dungeon bosses, the world's fauna is organiz
 **Tameable, with exceptions:**
 - **Quadruped Medium** — Wolves, Tigers, Bears, Lions, Frostfangs, Sabertooths, Tuskrams and dozens of other mid-sized beasts. Tameable except for **Catoblepas, Mammoth, Elephant and Hirdrasil** — too massive to bond with.
 
+<img src="https://cdn.xindeler.com/images/wiki/2026-09-11/criaturas/lobo.webp" alt="Wolf" width="200"> <img src="https://cdn.xindeler.com/images/wiki/2026-09-11/criaturas/oso.webp" alt="Bear" width="200"> <img src="https://cdn.xindeler.com/images/wiki/2026-09-11/criaturas/rata.webp" alt="Rat" width="200">
+
 **Never tameable:**
 - **Theropod** — Raptors and their kin. Always hostile, no exceptions.
 - **Arthropod** — Giant spiders, beetles and other insects.
@@ -87,3 +89,5 @@ A unicorn is a unicorn is a unicorn — except this one isn't white, and doesn't
 ---
 
 > *The complete bestiary of Xindeler — with stats, drops, locations and lore for each creature — expands as the game develops. This page is updated continuously.*
+
+<p class="wiki-credit">Images on this page are adapted from the <a href="https://wiki.veloren.net">Veloren Wiki</a>, available under <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a>.</p>

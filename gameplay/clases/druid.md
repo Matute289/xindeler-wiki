@@ -8,7 +8,7 @@ The Druid channels primal nature magic and shapeshifting to adapt to any fight. 
 |---|---|
 | **Role** | Shapeshifting / Nature magic |
 | **Difficulty** | ⭐⭐ Medium |
-| **Magic source** | Primal |
+| **Magic source** | Primordial |
 | **Main weapons** | Staff |
 | **Starting equipment** | Rawhide leather armor |
 

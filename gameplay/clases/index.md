@@ -26,8 +26,8 @@ These ten joined the roster more recently. They're fully playable — selectable
 | [Warlock](/gameplay/clases/warlock) | Magic damage | ⭐⭐⭐ High | Arcane (pact) |
 | [Bard](/gameplay/clases/bard) | Support / Control | ⭐⭐ Medium | Arcane (music) |
 | [Paladin](/gameplay/clases/paladin) | Damage / Tank | ⭐⭐ Medium | Divine (oath) |
-| [Druid](/gameplay/clases/druid) | Magic damage / Support | ⭐⭐ Medium | Primal |
-| [Ranger](/gameplay/clases/ranger) | Damage / Mobility | ⭐⭐ Medium | Primal (half-caster) |
+| [Druid](/gameplay/clases/druid) | Magic damage / Support | ⭐⭐ Medium | Primordial |
+| [Ranger](/gameplay/clases/ranger) | Damage / Mobility | ⭐⭐ Medium | Primordial (half-caster) |
 | [Monk](/gameplay/clases/monk) | Damage / Mobility | ⭐⭐ Medium | Ki |
 | [Artificer](/gameplay/clases/artificer) | Magic damage / Support | ⭐⭐ Medium | Arcane (half) |
 | [Blood Slayer](/gameplay/clases/blood-slayer) | Melee damage / Blood magic | ⭐⭐⭐ High | Hemomancy + martial |

@@ -1,6 +1,6 @@
-# Rogue
+# Pícaro
 
-El Rogue es el maestro del sigilo, la velocidad y el daño de precisión. Letal desde las sombras, difícil de atrapar y capaz de eliminar objetivos antes de que puedan reaccionar.
+El Pícaro es el maestro del sigilo, la velocidad y el daño de precisión. Letal desde las sombras, difícil de atrapar y capaz de eliminar objetivos antes de que puedan reaccionar.
 
 ## Resumen
 
@@ -14,11 +14,11 @@ El Rogue es el maestro del sigilo, la velocidad y el daño de precisión. Letal 
 
 ## Playstyle
 
-El Rogue opera en las sombras, acercándose sin ser detectado y descargando un burst de daño masivo antes de desaparecer. En combate abierto es más vulnerable que el Warrior, pero en manos expertas es la clase con mayor daño pico del juego.
+El Pícaro opera en las sombras, acercándose sin ser detectado y descargando un burst de daño masivo antes de desaparecer. En combate abierto es más vulnerable que el Guerrero, pero en manos expertas es la clase con mayor daño pico del juego.
 
 ## Mecánica clave: Backstab
 
-El Rogue recibe una **bonificación de precisión al atacar por la espalda**. Esto incentiva posicionamiento táctico y coordinación con aliados que mantengan la atención del enemigo mirando hacia otro lado.
+El Pícaro recibe una **bonificación de precisión al atacar por la espalda**. Esto incentiva posicionamiento táctico y coordinación con aliados que mantengan la atención del enemigo mirando hacia otro lado.
 
 ## Árboles de habilidades
 
@@ -42,7 +42,7 @@ Habilidades orientadas a entradas desde invisible, golpes múltiples rápidos y 
 
 ## Equipamiento inicial
 
-El Rogue comienza con cueros de caza que incluyen una **bonificación pasiva de sigilo**, permitiéndole acercarse a enemigos más fácilmente desde el inicio del juego.
+El Pícaro comienza con cueros de caza que incluyen una **bonificación pasiva de sigilo**, permitiéndole acercarse a enemigos más fácilmente desde el inicio del juego.
 
 ## Efectos de estado relevantes
 
@@ -52,6 +52,6 @@ El Rogue comienza con cueros de caza que incluyen una **bonificación pasiva de 
 
 ## Consejos
 
-- **Gnome** es la raza más popular para Rogue: Shadowstep (blink) + +5% energía máxima potencian enormemente la movilidad.
-- La curva de aprendizaje es alta pero el payoff también: con buen posicionamiento el Rogue supera en daño a cualquier otra clase.
+- **Gnomo** es la raza más popular para Pícaro: Shadowstep (blink) + +5% energía máxima potencian enormemente la movilidad.
+- La curva de aprendizaje es alta pero el payoff también: con buen posicionamiento el Pícaro supera en daño a cualquier otra clase.
 - En PvP, combiná **ArdentHunt** desde sigilo con un remate de daga para máximo burst.

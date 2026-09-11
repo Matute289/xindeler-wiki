@@ -8,7 +8,7 @@ The Ranger is a hunter archetype that mixes martial precision with a touch of pr
 |---|---|
 | **Role** | Ranged damage / Hunter |
 | **Difficulty** | ⭐⭐ Medium |
-| **Magic source** | Primal (half-caster) |
+| **Magic source** | Primordial (half-caster) |
 | **Main weapons** | Bow |
 | **Starting equipment** | Rawhide leather armor |
 

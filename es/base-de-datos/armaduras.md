@@ -1,5 +1,7 @@
 # Armaduras
 
+<img src="https://cdn.xindeler.com/images/wiki/2026-09-11/armaduras/icono-categoria-armadura.webp" alt="Armaduras" width="90">
+
 Las armaduras de Xindeler se craftean por slot — ver [Crafteo](/es/gameplay/crafteo) para cómo funcionan los tiers de calidad y los materiales.
 
 ## Slots de armadura
@@ -22,6 +24,8 @@ Además de los 12 slots de equipo de arriba, tu inventario tiene 4 slots de bols
 
 ## Sets de armadura
 
+<img src="https://cdn.xindeler.com/images/wiki/2026-09-11/armaduras/icono-sets-de-armadura.webp" alt="Sets de armadura" width="90">
+
 Hay más de 50 sets de armadura en el juego. Los números de abajo son el multiplicador base de cada set — confirmados directamente contra los datos reales del juego — no el stat final en una pieza específica, que también depende del tier de calidad de esa pieza (ver [Crafteo](/es/gameplay/crafteo)):
 
 | Set | Identidad | Protección | Res. Poise | Energía Máx. | Recompensa Energía | Poder de Precisión | Sigilo |
@@ -41,4 +45,12 @@ Cada set tiene sus propios requerimientos de clase y nivel — revisá la receta
 
 **La armadura de Mail es un caso especial**: en vez de un set fijo con nombre propio, escala con la misma escalera de 6 tiers de metal que las armas (Bronce → Hierro → Acero → Cobalto → Plata/Oro/Acero de Sangre → Orichalcum), así que sus stats dependen enteramente de con qué metal se craftea, no de una identidad de set.
 
+## Leer los stats de un ítem
+
+![Tooltip de un ítem de armadura](https://cdn.xindeler.com/images/wiki/2026-09-11/armaduras/tooltip-de-armadura.webp)
+
+Pasar el mouse sobre cualquier pieza de armadura muestra su bloque completo de stats — protección, resistencia a poise y el resto de las columnas de arriba, calculadas para el tier de calidad específico de ese ítem.
+
 > *Las tablas completas de stats por pieza y los bonus de set se expanden acá a medida que se construye la base de datos de ítems.*
+
+<p class="wiki-credit">Algunas imágenes de esta página fueron adaptadas de la <a href="https://wiki.veloren.net">Veloren Wiki</a>, disponible bajo licencia <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a>.</p>
