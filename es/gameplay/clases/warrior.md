@@ -1,6 +1,6 @@
-# Warrior
+# Guerrero
 
-El Warrior es el maestro del combate físico. Resistente, versátil y letal en distancia corta, es ideal para jugadores que quieren estar en el frente de batalla.
+El Guerrero es el maestro del combate físico. Resistente, versátil y letal en distancia corta, es ideal para jugadores que quieren estar en el frente de batalla.
 
 ## Resumen
 
@@ -14,9 +14,9 @@ El Warrior es el maestro del combate físico. Resistente, versátil y letal en d
 
 ## Playstyle
 
-El Warrior domina el combate cuerpo a cuerpo con una combinación de daño sostenido, resistencia y control de combate. Sus árboles de habilidades le permiten especializarse en diferentes arquetipos: el espadachín ágil, el berserker destructivo o el golpeador de masa que rompe la resistencia de los enemigos.
+El Guerrero domina el combate cuerpo a cuerpo con una combinación de daño sostenido, resistencia y control de combate. Sus árboles de habilidades le permiten especializarse en diferentes arquetipos: el espadachín ágil, el berserker destructivo o el golpeador de masa que rompe la resistencia de los enemigos.
 
-## Skill trees
+## Árboles de habilidades
 
 ### Espada (Sword)
 Especialización en técnica y precisión. Habilidades clave:
@@ -50,10 +50,10 @@ Especialización en romper defensas y control de masas:
 
 ## Habilidades generales
 
-Como Warrior también tenés acceso a los árboles generales que incluyen mejoras de trepa, nado y desbloqueo de grupos de armas adicionales.
+Como Guerrero también tenés acceso a los árboles generales que incluyen mejoras de trepa, nado y desbloqueo de grupos de armas adicionales.
 
 ## Consejos
 
 - La combinación **Hammer + Berserk (Axe)** es devastadora en PvP.
 - **DefensiveRiposte** requiere timing preciso pero es uno de los mejores contraataques del juego.
-- El Warrior pair bien con razas de alta reducción de daño como el **Dwarf**.
+- El Guerrero combina bien con razas de alta reducción de daño como el **Enano**.

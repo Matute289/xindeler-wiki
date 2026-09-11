@@ -246,6 +246,22 @@ h1, h2, h3,
   color: #f0c842;
 }
 
+/* ── Créditos de imágenes (atribución CC BY-SA) ──────────────────── */
+.wiki-credit {
+  margin-top: 3rem;
+  font-size: 0.7rem;
+  line-height: 1.4;
+  color: var(--vp-c-text-3);
+  opacity: 0.6;
+}
+
+.dark .vp-doc .wiki-credit a,
+.wiki-credit a {
+  color: var(--vp-c-text-2);
+  font-weight: 600;
+  text-decoration: underline;
+}
+
 /* ── Scrollbar sutil ──────────────────────────────────────────────── */
 ::-webkit-scrollbar { width: 6px; }
 ::-webkit-scrollbar-track { background: #06060f; }

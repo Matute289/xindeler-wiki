@@ -1,6 +1,6 @@
 # Multiclassing
 
-Once a character is experienced enough, Xindeler lets you branch into a second class without giving up the first — a D&D-style multiclass system.
+Once a character is experienced enough, Xindeler lets you branch into a second class without giving up the first.
 
 ## How It Works
 

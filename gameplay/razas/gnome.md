@@ -1,5 +1,7 @@
 # Gnome
 
+<img src="https://cdn.xindeler.com/images/wiki/2026-09-11/razas/gnome-masculino.webp" alt="Gnome character render" width="220"> <img src="https://cdn.xindeler.com/images/wiki/2026-09-11/razas/gnome-femenino.webp" alt="Gnome character render" width="220">
+
 The Gnomes are an enigmatic people with a natural affinity for shadows and mobility. Their innate Shadowstep ability makes them the most mobile race in the game.
 
 | | |
@@ -18,3 +20,5 @@ A short-range blink that instantly teleports the Gnome to a nearby position. Wit
 ## Lore
 
 *The origin of the Gnomes is shrouded in mystery. Little is known of their homelands or their history before appearing in the records of the known world. The Gnomes themselves rarely give direct answers about their past — an attitude other peoples find frustrating or fascinating, depending on who is asking.*
+
+<p class="wiki-credit">Images on this page are adapted from the <a href="https://wiki.veloren.net">Veloren Wiki</a>, available under <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a>.</p>

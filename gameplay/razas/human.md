@@ -1,5 +1,7 @@
 # Human
 
+<img src="https://cdn.xindeler.com/images/wiki/2026-09-11/razas/humano-masculino.webp" alt="Human character render" width="220"> <img src="https://cdn.xindeler.com/images/wiki/2026-09-11/razas/humano-femenino.webp" alt="Human character render" width="220">
+
 Humans are the most versatile race in Xindeler. Without special restrictions or pronounced weaknesses, they adapt well to any class.
 
 | | |
@@ -18,3 +20,5 @@ Works well with any class, but is especially useful for **Cleric** (where Energy
 ## Lore
 
 *Humans are the most numerous and widespread of Xindeler's peoples. Without extreme innate advantages, they have compensated with adaptability, ingenuity and ambition. The great empires of the world — and its most devastating wars — have been built and fought primarily by human hands.*
+
+<p class="wiki-credit">Images on this page are adapted from the <a href="https://wiki.veloren.net">Veloren Wiki</a>, available under <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a>.</p>

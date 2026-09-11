@@ -10,8 +10,8 @@ Los doce dioses fieles. Cada uno tiene un dominio, un reino propio más allá de
 |--------|---------|
 | **Solenne, la Madre del Amanecer** | Sol, luz, vida, agricultura |
 | **Seraine, la Luz Eterna** | Redención, misericordia, sanación |
-| **Aurelle, la Arch-Wright** | Arte, creación, elfos |
-| **Veshtur, el Estandarte Inroto** | Dragones platinados, juramentos, protección |
+| **Aurelle, la Arquitecta Suprema** | Arte, creación, elfos |
+| **Veshtur, el Estandarte Inquebrantable** | Dragones platinados, juramentos, protección |
 | **Hestdram, el Martillo Eterno** | Forja, artesanía, hogar, familia |
 | **Veradel, la Madre Salvaje** | Naturaleza, mares, tempestades |
 | **Lunere, la Soñadora Pálida** | Luna, sueños, segunda vista |
@@ -35,10 +35,10 @@ Nueve dioses que rompieron el pacto del Worldsong. Sus nombres son conocidos en 
 
 Entidades que existen fuera de la jerarquía de los Luminaries. No son dioses en el sentido tradicional — son fuerzas más antiguas o de naturaleza diferente.
 
-*El lore de los Eternals es parte del contenido que se revelan en el juego.*
+*El lore de los Eternals es parte del contenido que se revela en el juego.*
 
 ## La religión en el mundo
 
 Los cultos a los Luminaries son parte fundamental de la vida en Xindeler. Gildmar tiene presencia fuerte en las ciudades comerciales. Vorne es adorado por guerreros y soldados. Nereth recibe ofrendas en los entierros. Yssira tiene sus archivistas y magos académicos.
 
-El Cleric es la clase que canaliza directamente la magia divina de los Luminaries — su fuente de poder depende de la relación con su dios elegido.
+El Clérigo es la clase que canaliza directamente la magia divina de los Luminaries — su fuente de poder depende de la relación con su dios elegido.

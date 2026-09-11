@@ -8,41 +8,49 @@ Una selección de personajes que los jugadores pueden encontrar en el mundo:
 
 | Nombre | Rol | Región |
 |--------|-----|--------|
-| Acaelus Thorne | Arcanista | Los Highlands |
-| Aldovane | — | — |
-| Alenac | — | — |
+| Acaelus Thorne | Arcanista | The Highlands |
+| Aldovane | Arcanista | — |
+| Alenac | — | Cromatolis |
 | Bhardo | — | — |
 | Dorrim Hammergrim | Herrero / Artesano | — |
-| Dravmir | — | — |
-| Farath | — | — |
-| Hesvane | — | — |
-| Kalee | — | — |
-| Lemvane | — | — |
+| Dravmir | Arcanista | — |
+| Farath | — | Isen-Kor |
+| Hesvane | Arcanista | — |
+| Kalee | — | Cromatolis |
+| Lemvane | Arcanista | — |
 | Lio | — | — |
-| Maelthir | — | — |
+| Maelthir | Arcanista | — |
 | Merk | Comerciante | The Freelands |
-| Oltheris | — | — |
-| Orenmar | — | — |
-| Orly Skiffback | Capitán de airship | Rutas aéreas |
-| Razveth | — | — |
-| Sevrane | — | — |
+| Oltheris | Arcanista | — |
+| Orenmar | Arcanista | — |
+| Orly Skiffback | Capitán de aeronave | Rutas aéreas |
+| Razveth | Mago de guerra (histórico) | — |
+| Sevrane | Guardiana | — |
 | Smoke Ashrise | — | — |
-| Tessved | — | — |
+| Tessved | Arcanista | — |
 | Toldek | Herrero enano | — |
 | Tror Mulav | — | — |
-| Vesryne | — | — |
-| Xorveth | — | — |
+| Vesryne | Arcanista (histórico) | — |
+| Xorveth | Mago de guerra (histórico) | — |
 | Ysseketh | Arcanista | — |
-| Zerxus Ilerez | — | — |
+| Zerxus Ilerez | Caballero (histórico) | — |
 
 > El lore detallado de cada NPC — su historia, motivaciones, relaciones y secretos — forma parte del contenido que se revela progresivamente en el juego.
+
+## Roles Comunes
+
+Más allá de los NPCs de lore nombrados arriba, el mundo está poblado por 14 arquetipos de rol recurrentes — la gente que hace que un asentamiento funcione:
+
+Alquimista · Herrero · Arquero · Capitán · Cocinero · Granjero · Guardia · Herborista · Cazador · Mercader · Montañés · Desollador · Aldeano · *(más un Muñeco de entrenamiento de combate)*
+
+Son roles, no individuos — cualquier asentamiento tiene su propio herrero, sus propios guardias, sin necesitar un trasfondo único para cada uno. Todos comparten los mismos **100 HP base** planos — un Guardia no es más resistente que un Granjero, solo está mejor equipado y entrenado. Lo que realmente varía es su **tier de habilidad**: Guardia, Herrero, Mercader, Alquimista y Cocinero pelean con un árbol de combate real, el Capitán pelea con uno todavía más profundo, y el resto no tiene habilidad en combate. La experiencia que otorga matarlos tampoco es fija — escala con el [Combat Rating](/es/gameplay/combate) de ese NPC en el momento de matarlo, así que un Guardia armado vale notablemente más que un Granjero desarmado pese a tener la misma vida.
 
 ## Tipos de NPCs
 
 ### Mercaderes
-Compran y venden items según su especialización. Un hunter vende armas y provisiones de caza; un herborista vende consumibles y ingredientes. Los mercaderes no venden fuera de su área de especialización.
+Compran y venden items según su especialización. Un cazador vende armas y provisiones de caza; un herborista vende consumibles y ingredientes. Los mercaderes no venden fuera de su área de especialización.
 
-### Capitanes de Airship
+### Capitanes de Aeronave
 Algunos NPCs como Orly Skiffback operan rutas de transporte aéreo entre asentamientos. Las rutas son dinámicas y pueden cambiar según el estado del mundo.
 
 ### Dadores de misiones
@@ -53,7 +61,7 @@ Algunos NPCs pueden contratarse como acompañantes temporales, con un límite de
 
 ## AURORA — El futuro de los NPCs
 
-El **Project AURORA** es el sistema que dará a los NPCs de Xindeler una profundidad sin precedentes:
+El **Proyecto AURORA** es el sistema que dará a los NPCs de Xindeler una profundidad sin precedentes:
 
 - Memoria persistente de interacciones con jugadores
 - Relaciones sociales con otros NPCs (amistad, rivalidad, familia)

@@ -1,6 +1,6 @@
-# Mage
+# Mago
 
-El Mage canaliza las fuerzas arcanas para destruir, manipular y controlar el campo de batalla. La clase más compleja de dominar y la más poderosa en manos expertas.
+El Mago canaliza las fuerzas arcanas para destruir, manipular y controlar el campo de batalla. La clase más compleja de dominar y la más poderosa en manos expertas.
 
 ## Resumen
 
@@ -14,7 +14,7 @@ El Mage canaliza las fuerzas arcanas para destruir, manipular y controlar el cam
 
 ## Playstyle
 
-El Mage opera a distancia media-larga, combinando hechizos de daño masivo con efectos de control de masas. Sus escuelas de magia son las más variadas del juego: desde la manipulación de la gravedad y el tiempo hasta la magia de sangre más oscura.
+El Mago opera a distancia media-larga, combinando hechizos de daño masivo con efectos de control de masas. Sus escuelas de magia son las más variadas del juego: desde la manipulación de la gravedad y el tiempo hasta la magia de sangre más oscura.
 
 ## Escuelas de magia disponibles
 
@@ -45,7 +45,7 @@ Control y debilitamiento.
 ### Encantamiento — Devoción (Divina)
 Acceso a hechizos de control mental.
 
-**Hechizo disponible:** **Censure** — aplica Charmed: el NPC afectado no ataca al Mage mientras dure el efecto.
+**Hechizo disponible:** **Censure** — aplica Charmed: el NPC afectado no ataca al Mago mientras dure el efecto.
 
 ### Abjuración
 Magia defensiva de alto nivel.
@@ -60,7 +60,7 @@ Magia defensiva de alto nivel.
 | Foco | Thornspit | Dread Whisper |
 | Bastón | (fuego) | FireShockwave, Pyroclasm |
 
-## Nuevos efectos de estado (Mage)
+## Nuevos efectos de estado (Mago)
 
 - **Terrified** — el objetivo huye y no puede atacar
 - **Hollowtouched** — acumula stacks que reducen la salud máxima
@@ -68,5 +68,5 @@ Magia defensiva de alto nivel.
 ## Consejos
 
 - La Hemomancy y la Axiomancy son las escuelas más complejas. Empezá con Evocación para aprender el ritmo del combate mágico.
-- El Mage es más frágil que otras clases. Mantené distancia y usá el control de masas para sobrevivir.
-- **Elf** es la raza más popular para Mage por el +3% velocidad de movimiento, que facilita el kiting.
+- El Mago es más frágil que otras clases. Mantené distancia y usá el control de masas para sobrevivir.
+- **Elfo** es la raza más popular para Mago por el +3% velocidad de movimiento, que facilita el kiting.

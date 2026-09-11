@@ -35,3 +35,19 @@ features:
     link: /es/guias/empezando
     linkText: Ver las guías
 ---
+
+## El Mundo, en Números
+
+| | |
+|:-:|:--|
+| ⚔️ **14** | clases jugables, cada una con sus propias armas, fuente mágica e identidad |
+| 🧬 **6** | razas jugables, cada una con un pasivo y una habilidad innata |
+| 🏰 **10** | mazmorras del mundo con tier, desde el Bastión Wrackwood hasta la Mina Cinderdeep |
+| 🐾 **150+** | especies de fauna salvaje, organizadas en 12 tipos de cuerpo |
+| 🌍 **11** | regiones y continentes conocidos, desde los Highlands hasta Isen-Kor |
+| 🛐 **12 + 9** | Luminaries que mantuvieron el pacto, y Unfaithful que lo rompieron |
+| 🗣️ **2** | idiomas que habla esta wiki — inglés y español latinoamericano, sincronizados |
+
+::: tip ¿Recién llegás?
+Arrancá por [Cómo empezar](/es/guias/empezando) — cubre todo desde la descarga hasta tu primera misión, controles incluidos.
+:::

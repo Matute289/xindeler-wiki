@@ -9,33 +9,41 @@ A selection of characters players can encounter in the world:
 | Name | Role | Region |
 |--------|-----|--------|
 | Acaelus Thorne | Arcanist | The Highlands |
-| Aldovane | — | — |
-| Alenac | — | — |
+| Aldovane | Arcanist | — |
+| Alenac | — | Cromatolis |
 | Bhardo | — | — |
 | Dorrim Hammergrim | Blacksmith / Craftsman | — |
-| Dravmir | — | — |
-| Farath | — | — |
-| Hesvane | — | — |
-| Kalee | — | — |
-| Lemvane | — | — |
+| Dravmir | Arcanist | — |
+| Farath | — | Isen-Kor |
+| Hesvane | Arcanist | — |
+| Kalee | — | Cromatolis |
+| Lemvane | Arcanist | — |
 | Lio | — | — |
-| Maelthir | — | — |
+| Maelthir | Arcanist | — |
 | Merk | Merchant | The Freelands |
-| Oltheris | — | — |
-| Orenmar | — | — |
+| Oltheris | Arcanist | — |
+| Orenmar | Arcanist | — |
 | Orly Skiffback | Airship Captain | Air routes |
-| Razveth | — | — |
-| Sevrane | — | — |
+| Razveth | War-mage (historical) | — |
+| Sevrane | Guardian | — |
 | Smoke Ashrise | — | — |
-| Tessved | — | — |
+| Tessved | Arcanist | — |
 | Toldek | Dwarven blacksmith | — |
 | Tror Mulav | — | — |
-| Vesryne | — | — |
-| Xorveth | — | — |
+| Vesryne | Arcanist (historical) | — |
+| Xorveth | War-mage (historical) | — |
 | Ysseketh | Arcanist | — |
-| Zerxus Ilerez | — | — |
+| Zerxus Ilerez | Knight (historical) | — |
 
 > The detailed lore of each NPC — their history, motivations, relationships and secrets — is part of the content that is revealed progressively in the game.
+
+## Common Roles
+
+Beyond the named lore NPCs above, the world is populated by 14 recurring role archetypes — the people who make a settlement function:
+
+Alchemist · Blacksmith · Bowman · Captain · Chef · Farmer · Guard · Herbalist · Hunter · Merchant · Mountaineer · Skinner · Villager · *(plus a Dummy used for combat training)*
+
+These are roles, not individuals — any given settlement has its own Blacksmith, its own Guards, without needing a unique named backstory for each. Every one of them shares the same flat **100 base HP** — a Guard isn't tankier than a Farmer, they're just better equipped and trained. What actually varies is their **skill tier**: Guard, Blacksmith, Merchant, Alchemist and Chef fight with a proper combat skillset, a Captain fights with an even deeper one, and the rest are unskilled in a fight. The XP a kill grants isn't fixed either — it scales with that NPC's [Combat Rating](/gameplay/combate) at the moment you kill them, so an armed Guard is worth noticeably more than an unarmed Farmer despite having identical health.
 
 ## NPC Types
 

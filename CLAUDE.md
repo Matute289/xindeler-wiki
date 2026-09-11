@@ -228,20 +228,31 @@ All `xindeler.*.greenmountain.dev` subdomains (root, `wiki.`, `auth.`, `cdn.`, `
 
 ## Pending Work
 
+### Veloren-wiki integration (September 2026) — done, pending Matías' review
+
+Following `docs/superpowers/plans/2026-09-10-veloren-wiki-content-expansion.md`, the wiki gained `gameplay/armas.md`, `base-de-datos/armaduras.md`, `gameplay/mazmorras.md`, plus expansions to `combate.md`, `crafteo.md`, `magia.md`, `criaturas.md`, `npcs.md`, `empezando.md` (PR #17, merged).
+
+`gameplay/mazmorras.md` names all 10 real world-exploration dungeons with epic names ("épico, mezcla de D&D y nuestro canon", Matías' brief, night of 2026-09-10/11). **Approved by Matías 2026-09-11** — `xindeler-design#200` merged. The "Cromatolis - New Horizon" session was notified and can now apply these names on the engine side per `xindeler-design/specs/2026-09-10-cow13-exploration-dungeons-design.md` §5.5. Story/mission dungeons (COW-14) still have no narrative design — needs Matías' actual quest ideas, not the wiki's to invent.
+
+### i18n quality — done (September 2026)
+
+Full native-speaker review completed across `lore/`, `gameplay/`, `guias/`, `base-de-datos/` in both locales (PR #18, merged). Re-audit if large new content lands without a native pass. **Naming convention confirmed with Matías (2026-09-11): spell names stay in English in both locales (only their descriptions translate); every other proper noun (creatures, legendary items, places) translates normally into Spanish** — see the equivalent rule already applied in `xindeler-new-horizon`'s es-419 locale for the precedent.
+
 ### Content gaps to fill over time
 
 | Page | Gap |
 |------|-----|
-| `gameplay/clases/` | 4 classes documented; 10+ planned. Add pages as classes ship in-game. |
+| `gameplay/clases/` | 14 classes documented and shipped; skill trees still being fleshed out for barbarian/sorcerer/warlock/bard/paladin/druid/ranger/monk/artificer/blood-slayer. |
 | `gameplay/razas/` | 6 races documented; passive/ability tables are sparse. Expand from game data. |
-| `lore/historia.md` | Six ages teased. Expand each age section as narrative ships. |
+| `lore/historia.md` | Six ages teased, deliberately not expanded further — Ages III and V are explicitly deep-lore-secret; forcing more detail here would leak them. |
 | `lore/panteon.md` | Unfaithful cryptic by design. Reveal as game story progresses. |
-| `lore/regiones.md` | 11 regions listed with brief descriptions. Each deserves its own subpage. |
-| `lore/facciones.md` | 4 factions described; 14 others listed by name only. |
-| `base-de-datos/criaturas.md` | 3 lore creatures highlighted. Full per-creature pages eventually. |
-| `base-de-datos/npcs.md` | 26 NPCs listed with no lore. Fill in as AURORA (NPC AI system) ships. |
+| `lore/regiones.md` | 11 regions listed with brief descriptions. **Only Cromatolis is in active game development today** (confirmed by Matías, 2026-09-11) — Freelands is the plausible next one but has no date, and the rest have none at all. Don't prioritize expanding a region's own subpage ahead of that. Cromatolis' capital (Kalthis) is now named; deeper Cromatolis lore (its king, its general, the factions tied to it) stays unpublished — too deep/spoiler-heavy for the wiki even though it's the active region. |
+| `lore/facciones.md` | 8 factions now described (Caminos Syndicate, Vesperan Dynasty, The Sisterhood, Janus Council, The Council of Owls, The Order of the Inmost Light, Cult of the Crownless King, Children of the Cold); 10 others still listed by name only. |
+| `base-de-datos/criaturas.md` | 10 lore creatures highlighted (as of Sept 2026). Full per-creature pages eventually. |
+| `base-de-datos/npcs.md` | Roles/regions filled in for most named NPCs; still no lore/backstory (by design, revealed in-game). Fill in further as AURORA (NPC AI system) ships. |
 | `base-de-datos/items/` | Item database — new section when item system ships. |
-| `base-de-datos/spells/` | Spell database — new section when magic system is complete. |
+| `base-de-datos/spells/` | **Backlog (2026-09-11, Matías):** no full spell list yet, by design — `gameplay/magia.md` only covers structure (Sources, Schools, mechanics) plus a handful of starter-spell examples. The IP blocker that justified this is resolved (the 17 non-SRD D&D-derived spell names were renamed and merged, `xindeler-design#193`/`#208`). Remaining blocker is simply that not every class's spell pool is finished yet. **Build this page once all classes' spells are done** — pull the full roster from `xindeler-new-horizon`'s `assets/common/abilities/spells/`, organized by class/skill tree, deciding how much detail to show per spell (name + School/Source at minimum) consistent with the "gameplay mechanics = full detail" editorial rule. |
 
-### i18n quality
-The `es/` locale was machine-translated from English. It should be reviewed by a native Spanish speaker. Priority order: `lore/` pages first, then `gameplay/`, then `guias/`.
+### Deploy
+
+Everything above is on `development`, not yet promoted to `main`/tagged for deploy — that promotion is Matías' call, not automatic.
