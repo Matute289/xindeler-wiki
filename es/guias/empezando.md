@@ -42,7 +42,7 @@ Algunos consejos para nuevos jugadores:
 
 ### 3. El mundo
 
-Xindeler es un mundo vasto con biomas, sitios y dungeon generados proceduralmente. Explorar es parte del juego: encontrarás aldeas, ruinas, cuevas y criaturas en cada región.
+Xindeler es un mundo vasto con biomas, sitios y mazmorras generadas proceduralmente. Explorar es parte del juego: encontrarás aldeas, ruinas, cuevas y criaturas en cada región.
 
 ### 4. Primeras misiones
 
@@ -74,6 +74,6 @@ Los mercaderes compran y venden según su especialización — ver [NPCs](/es/ba
 
 ## Siguientes pasos
 
-- [Creación de personaje →](/guias/creacion-de-personaje)
-- [Sistema de clases →](/gameplay/clases/)
-- [Sistema de combate →](/gameplay/combate)
+- [Creación de personaje →](/es/guias/creacion-de-personaje)
+- [Sistema de clases →](/es/gameplay/clases/)
+- [Sistema de combate →](/es/gameplay/combate)

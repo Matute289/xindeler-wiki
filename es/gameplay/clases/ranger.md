@@ -8,13 +8,13 @@ El Ranger es un arquetipo de cazador que combina precisión marcial con un toque
 |---|---|
 | **Rol** | Daño a distancia / Cazador |
 | **Dificultad** | ⭐⭐ Media |
-| **Fuente mágica** | Primal (half-caster) |
+| **Fuente mágica** | Primal (semi-caster) |
 | **Armas principales** | Arco |
 | **Equipamiento inicial** | Armadura de cuero crudo (rawhide leather) |
 
 ## Playstyle
 
-El Ranger pelea como half-caster, combinando habilidad marcial con el arco y un poco de magia de la naturaleza en vez de apoyarse por completo en una sola cosa. Su curva de stats favorece alta precisión y evasión, lo que lo convierte en un cazador ágil pensado para conectar disparos y mantenerse fuera de alcance en vez de intercambiar golpes de frente.
+El Ranger pelea como semi-caster, combinando habilidad marcial con el arco y un poco de magia de la naturaleza en vez de apoyarse por completo en una sola cosa. Su curva de stats favorece alta precisión y evasión, lo que lo convierte en un cazador ágil pensado para conectar disparos y mantenerse fuera de alcance en vez de intercambiar golpes de frente.
 
 ## Estado Actual
 

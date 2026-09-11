@@ -49,7 +49,7 @@ El gran continente del oeste. Dividido en cuatro regiones con características m
 
 ---
 
-## Regiones no detalladas
+## Regiones sin Cartografiar
 
 Hay lugares en el mundo de Xindeler que no aparecen en los mapas estándar. Algunos por elección. Otros porque quienes fueron a explorarlos no regresaron para contarlo.
 

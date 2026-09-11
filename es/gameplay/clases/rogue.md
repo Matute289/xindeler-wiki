@@ -20,7 +20,7 @@ El Rogue opera en las sombras, acercándose sin ser detectado y descargando un b
 
 El Rogue recibe una **bonificación de precisión al atacar por la espalda**. Esto incentiva posicionamiento táctico y coordinación con aliados que mantengan la atención del enemigo mirando hacia otro lado.
 
-## Skill trees
+## Árboles de habilidades
 
 ### Arco (Bow)
 Especialización en daño a distancia y emboscadas desde lejos:

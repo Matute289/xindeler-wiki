@@ -22,7 +22,7 @@ These ten joined the roster more recently. They're fully playable — selectable
 | Class | Role | Difficulty | Magic source |
 |-------|-----|-----------|---------------|
 | [Barbarian](/gameplay/clases/barbarian) | Physical damage / Tank | ⭐ Low | — |
-| [Sorcerer](/gameplay/clases/sorcerer) | Magic damage | ⭐⭐⭐ High | Arcane (bloodline) |
+| [Sorcerer](/gameplay/clases/sorcerer) | Magic damage | ⭐⭐⭐ High | Arcane (innate) |
 | [Warlock](/gameplay/clases/warlock) | Magic damage | ⭐⭐⭐ High | Arcane (pact) |
 | [Bard](/gameplay/clases/bard) | Support / Control | ⭐⭐ Medium | Arcane (music) |
 | [Paladin](/gameplay/clases/paladin) | Damage / Tank | ⭐⭐ Medium | Divine (oath) |

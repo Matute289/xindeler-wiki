@@ -16,7 +16,7 @@ El Cleric canaliza la magia divina para sanar aliados, proteger al grupo y casti
 
 El Cleric divide su tiempo entre mantener con vida a sus aliados y debilitar a los enemigos con efectos de control divino. A diferencia de un sanador puro, el Cleric tiene herramientas ofensivas significativas que lo hacen viable en solitario.
 
-## Skill trees
+## Árboles de habilidades
 
 ### Cetro (Sceptre)
 El árbol principal del Cleric, enfocado en sanación y auras:

@@ -22,7 +22,7 @@ Estas diez se sumaron al roster hace poco. Son totalmente jugables — se pueden
 | Clase | Rol | Dificultad | Fuente mágica |
 |-------|-----|-----------|---------------|
 | [Barbarian](/gameplay/clases/barbarian) | Daño físico / Tanque | ⭐ Baja | — |
-| [Sorcerer](/gameplay/clases/sorcerer) | Daño mágico | ⭐⭐⭐ Alta | Arcana (linaje) |
+| [Sorcerer](/gameplay/clases/sorcerer) | Daño mágico | ⭐⭐⭐ Alta | Arcana (innata) |
 | [Warlock](/gameplay/clases/warlock) | Daño mágico | ⭐⭐⭐ Alta | Arcana (pacto) |
 | [Bard](/gameplay/clases/bard) | Soporte / Control | ⭐⭐ Media | Arcana (música) |
 | [Paladin](/gameplay/clases/paladin) | Daño / Tanque | ⭐⭐ Media | Divina (juramento) |
@@ -34,7 +34,7 @@ Estas diez se sumaron al roster hace poco. Son totalmente jugables — se pueden
 
 ## Cómo funcionan las clases
 
-### Skill trees
+### Árboles de habilidades
 Cada clase tiene uno o más árboles de habilidades. Los puntos se obtienen al subir de nivel y se gastan para desbloquear habilidades activas y pasivas.
 
 ### Restricciones de equipamiento

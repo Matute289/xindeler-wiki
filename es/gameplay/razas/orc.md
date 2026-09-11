@@ -13,7 +13,7 @@ Al activarla, el Orc entra en un estado de furia que amplifica temporalmente su 
 
 ## Sinergia con clases
 
-**Warrior + Orc** es la combinación de mayor daño físico puro del juego. También funciona bien con **Barbarian** (cuando esté disponible), cuyo kit está diseñado alrededor de mecánicas de furia similares.
+**Warrior + Orc** es la combinación de mayor daño físico puro del juego. También funciona bien con **Barbarian**, cuyo kit está diseñado alrededor de mecánicas de furia similares.
 
 ## Lore
 
