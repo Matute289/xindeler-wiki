@@ -9,13 +9,28 @@ The most dangerous creatures in the world. Some are dungeon bosses, others patro
 
 They include: Ogres, Cyclopes, Trolls (cave, mountain and swamp), Ettins, Fomorians, Werewolves, Minotaurs, Yetis, Oni (blue and red), Tide Titans, Mind-Eaters, and other entities whose names we prefer not to list here. Elemental giants — Frost, Fire, Storm, Cloud and Stone — round out the largest tier of humanoid threats.
 
-### Medium Quadrupeds
-The fauna of the world: from common predators to legendary beasts.
+### Wildlife Taxonomy
 
-Some species: Sabertooths, Tigers, Tuskrams, Lions, Wolves, Frostfangs, Bears, Mammoths, Elephants. More than forty distinct species with their own behaviors.
+Beyond the named lore creatures and dungeon bosses, the world's fauna is organized by body type — over 150 confirmed species. Whether a creature **can be tamed** depends entirely on its body type; whether it's **hostile on sight** depends on the individual species within that type, not the category as a whole (Theropods are the one exception — every single one is hostile).
 
-### Arthropods, Birds and Crustaceans
-Giant insects, large birds of prey and deep-water crustaceans with their own loot tables and behaviors.
+**Always tameable:**
+- **Quadruped Small** — Pig, Fox, Sheep, Boar, Rabbit, Cat, Dog, Goat, Turtle, Squirrel, and dozens more small ground animals.
+- **Quadruped Low** — Crocodile, Salamander, Tortoise, Basilisk, Hakulaq, Sand Shark, and other low-slung reptiles and amphibians. Hostility varies species by species here — a Salamander or Tortoise flees from a fight, a Crocodile or Alligator attacks on sight.
+- **Bird Medium** — Owls, ducks, crows, parrots and other common birds, plus tamable oddities like the Bloodmoon Bat.
+- **Crustacean** — Crabs and their larger kin.
+
+**Tameable, with exceptions:**
+- **Quadruped Medium** — Wolves, Tigers, Bears, Lions, Frostfangs, Sabertooths, Tuskrams and dozens of other mid-sized beasts. Tameable except for **Catoblepas, Mammoth, Elephant and Hirdrasil** — too massive to bond with.
+
+**Never tameable:**
+- **Theropod** — Raptors and their kin. Always hostile, no exceptions.
+- **Arthropod** — Giant spiders, beetles and other insects.
+- **Bird Large** — Phoenix, Cockatrice, Roc, and the elemental wyverns (Frost, Fire, Cloud, Sea, Weald).
+- **Fish (Small & Medium)** — Piranha, Marlin, and other aggressive or evasive fish.
+- **Dragon** and **Golem** — see below.
+- **Biped Small & Large** — dungeon-tier humanoids, covered under Large Humanoids above.
+
+Taming and mounting are separate checks — even a tameable creature only accepts a rider light enough (roughly under 70% of its own mass).
 
 ### Dragons
 Xindeler's dragons are high-power creatures organized in lines: metallic (good), chromatic (evil) and gem (neutral). See more in the [Regions — Xandrian](/lore/regiones) section.

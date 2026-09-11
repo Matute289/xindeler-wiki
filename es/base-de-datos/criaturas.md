@@ -9,13 +9,28 @@ Las criaturas más peligrosas del mundo. Algunos son jefes de mazmorra, otros pa
 
 Incluyen: Ogros, Cíclopes, Trolls (de cueva, montaña y pantano), Ettins, Fomorianos, Hombres lobo, Minotauros, Yetis, Oni (azules y rojos), Titanes de las mareas, Devoramentes, y otras entidades cuyo nombre preferimos no listar aquí. Gigantes elementales — de Escarcha, Fuego, Tormenta, Nube y Piedra — completan el tier más grande de amenazas humanoides.
 
-### Cuadrúpedos medianos
-La fauna del mundo: desde predadores comunes hasta bestias legendarias.
+### Taxonomía de fauna salvaje
 
-Algunas especies: Sabertooths, Tigres, Tuskrams, Leones, Lobos, Frostfangs, Osos, Mamuts, Elefantes. Más de cuarenta especies distintas con comportamientos propios.
+Más allá de las criaturas de lore nombradas y los jefes de mazmorra, la fauna del mundo está organizada por tipo de cuerpo — más de 150 especies confirmadas. Si una criatura **se puede domesticar** depende enteramente de su tipo de cuerpo; si es **hostil a primera vista** depende de la especie individual dentro de ese tipo, no de la categoría entera (los Theropod son la única excepción — todos y cada uno son hostiles).
 
-### Artrópodos, Aves y Crustáceos
-Insectos gigantes, aves de presa de gran tamaño y crustáceos de aguas profundas con sus propias loot tables y comportamientos.
+**Siempre domesticables:**
+- **Quadruped Small** — Cerdo, Zorro, Oveja, Jabalí, Conejo, Gato, Perro, Cabra, Tortuga, Ardilla, y decenas más de animales terrestres chicos.
+- **Quadruped Low** — Cocodrilo, Salamandra, Tortuga, Basilisco, Hakulaq, Tiburón de Arena, y otros reptiles y anfibios bajos. La hostilidad varía especie por especie acá — una Salamandra o Tortuga huye de una pelea, un Cocodrilo o Caimán ataca a primera vista.
+- **Bird Medium** — Búhos, patos, cuervos, loros y otras aves comunes, más rarezas domesticables como el Bloodmoon Bat.
+- **Crustacean** — Cangrejos y sus parientes más grandes.
+
+**Domesticables, con excepciones:**
+- **Quadruped Medium** — Lobos, Tigres, Osos, Leones, Frostfangs, Sabertooths, Tuskrams y decenas de otras bestias medianas. Domesticables salvo **Catoblepas, Mamut, Elefante e Hirdrasil** — demasiado masivos para vincularse.
+
+**Nunca domesticables:**
+- **Theropod** — Raptores y sus parientes. Siempre hostiles, sin excepciones.
+- **Arthropod** — Arañas gigantes, escarabajos y otros insectos.
+- **Bird Large** — Fénix, Cocatriz, Roc, y los wyverns elementales (Escarcha, Fuego, Nube, Mar, Bosque).
+- **Fish (Small & Medium)** — Piraña, Marlín, y otros peces agresivos o esquivos.
+- **Dragon** y **Golem** — ver más abajo.
+- **Biped Small & Large** — humanoides de tier de mazmorra, cubiertos en Humanoides Grandes arriba.
+
+Domesticar y montar son chequeos separados — incluso una criatura domesticable solo acepta un jinete lo suficientemente liviano (aproximadamente por debajo del 70% de su propia masa).
 
 ### Dragones
 Los dragones de Xindeler son criaturas de alto poder organizadas en líneas: metálicos (buenos), cromáticos (malvados) y gemas (neutrales). Ver más en la sección de [Regiones — Xandrian](/es/lore/regiones).
