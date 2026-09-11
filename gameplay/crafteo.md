@@ -6,18 +6,35 @@ Xindeler's crafting system allows you to create weapons, armor, consumables, too
 
 To craft an item you need:
 1. The required **materials** in your inventory
-2. A **crafting station** of the corresponding type (anvil, kitchen, alchemy bench, etc.)
+2. A **crafting station** of the corresponding type
 3. Having unlocked the **recipe** (some are automatic, others require recipe books)
+
+## Crafting Stations
+
+There are 10 crafting stations, each covering a different category of recipe:
+
+| Station | Used for |
+|---------|----------|
+| Crafting Bench | General item assembly |
+| Forge | Metal weapon and armor components |
+| Anvil | Metal shaping and repair |
+| Cauldron | Potions and alchemical items |
+| Cooking Pot | Food and consumables |
+| Spinning Wheel | Turning raw fiber into thread |
+| Loom | Weaving cloth from thread |
+| Tanning Rack | Curing raw hide into leather |
+| Dismantling Bench | Breaking down items for materials |
+| Repair Bench | Equipment repair |
 
 ## Categories of Craftable Items
 
 ### Weapons
 Weapons in Xindeler are **modular**: the materials used determine the final stats of the weapon. Available types include sword, axe, hammer, bow, staff, sceptre, tome, focus and holy symbol. Dagger, shield, spear and blowgun are planned but not craftable yet.
 
-Weapon materials: metals (`metal_weapon_materials`) and woods (`wood_weapon_materials`), with different properties depending on the source.
+Weapon materials come in two families — metals and woods (see the material table below) — with different properties depending on the source.
 
 ### Armor
-There is a wide variety of armor sets: adventurer, assassin, boreal, cultist, golemite, leather_plate, mail, among many more. Each set has different class and level requirements.
+There is a wide variety of armor sets — Adventurer, Assassin, Boreal, Cultist, Golemite, Leather Plate, Mail, among many more — see [Armor](/base-de-datos/armaduras) for the full list. Each set has different class and level requirements.
 
 ### Consumables and Food
 Food grants temporary combat buffs. More complex foods require more ingredients but give better effects.
@@ -41,6 +58,17 @@ Items have a **quality** system represented by colors. The quality of the final 
 | Epic | Purple |
 | Legendary | Gold |
 | Artifact | Orange |
+
+Real material names, by category and tier (confirmed against the game's item data — not every category has a material at every tier):
+
+| Tier | Metal | Wood | Textile | Hide |
+|------|-------|------|---------|------|
+| Low | Bronze, Tin | Wood | Linen | Animal Hide, Simple Leather |
+| Common | Iron | Bamboo | Cloth Strips, Wool | Tough Hide, Thick Leather, Leather Strips |
+| Moderate | Steel | Hardwood | Silk | — |
+| High | Cobalt | Ironwood | Lifecloth | Leather Troll |
+| Epic | Silver, Gold, Bloodsteel | Frostwood | — | Rugged Hide, Rigid Leather |
+| Legendary | Orichalcum | Eldwood | Sunsilk | — |
 
 ## Repair
 
