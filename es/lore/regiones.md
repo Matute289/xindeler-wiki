@@ -16,7 +16,7 @@ Los Highlands contienen varios reinos y territorios con culturas propias:
 Al noroeste de los Highlands. Un imperio humano de hierro y hielo — militarista, orgulloso y profundamente desconfiado de los que no son de los suyos. Sus inviernos son legendariamente duros. Su disciplina, también.
 
 ### Cromatolis
-Al oeste-suroeste. Un reino autocrático y vigilado, donde el control de la información es parte del poder. Su capital es una ciudad-estado hermética con reglas propias.
+Al oeste-suroeste. Un reino autocrático y vigilado, donde el control de la información es parte del poder. Su capital, **Kalthis**, es una ciudad-estado hermética con reglas propias.
 
 ### Xandrian
 Al este. La **Dinastía del Dragón** — un territorio inusual donde aproximadamente veinte tipos de dragones viven organizados en seis facciones bajo la autoridad de una emperatriz. La Ciudad Platino actúa como sede neutral de negociación.

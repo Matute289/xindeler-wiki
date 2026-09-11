@@ -16,7 +16,7 @@ The Highlands contain several kingdoms and territories with their own cultures:
 To the northwest of the Highlands. A human empire of iron and ice — militaristic, proud and deeply distrustful of outsiders. Its winters are legendarily harsh. Its discipline, too.
 
 ### Cromatolis
-To the west-southwest. An autocratic and surveilled kingdom where control of information is part of power. Its capital is a hermetic city-state with its own rules.
+To the west-southwest. An autocratic and surveilled kingdom where control of information is part of power. Its capital, **Kalthis**, is a hermetic city-state with its own rules.
 
 ### Xandrian
 To the east. The **Dragon Dynasty** — an unusual territory where approximately twenty types of dragons live organized in six factions under the authority of an empress. The Platinum City acts as a neutral seat of negotiation.
