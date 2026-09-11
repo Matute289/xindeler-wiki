@@ -117,9 +117,21 @@ El mapa muestra tu entorno, puntos de interés y asentamientos conocidos. Activa
 
 Todo personaje puede planear desde suficiente altura, útil para cubrir distancia rápido o escapar de una mala pelea. No te salva de una caída que nunca llega a despegar — primero necesitás altura.
 
-### Mazmorras y cuevas
+### Qué te vas a encontrar explorando
 
-Las mazmorras y cuevas del mundo tienen el mejor loot y las peleas más difíciles — ver [Mazmorras](/es/gameplay/mazmorras), [Regiones](/es/lore/regiones) y [Criaturas](/es/base-de-datos/criaturas) para lo que se sabe de lo que hay ahí afuera.
+Más allá de las 10 mazmorras con tier (ver [Mazmorras](/es/gameplay/mazmorras)), el mundo está salpicado de otros tipos de sitio que vale la pena reconocer a simple vista:
+
+| Sitio | Qué es |
+|-------|--------|
+| Pueblo (variantes Acantilado, Sabana, Desierto, Costero) | Asentamientos con sus propias estaciones de crafteo y mercaderes |
+| Ciudadela | Una estructura fortificada tipo castillo |
+| Árbol Gigante | Un hito vivo masivo, a menudo con sus propios puntos de interés |
+| Puente | Cruza ríos, cañones o barrancos en rutas principales |
+| Círculo de Piedra | Un sitio ritual chico |
+| Campamento | Un campamento de bandidos o NPCs |
+| Circuito de Glider | Un circuito aéreo de obstáculos dedicado para probar tu planeo |
+
+Ver [Regiones](/es/lore/regiones) y [Criaturas](/es/base-de-datos/criaturas) para lo que se sabe del mundo más allá de esto.
 
 ### Mercaderes y comercio
 

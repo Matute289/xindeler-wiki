@@ -117,9 +117,21 @@ The map shows your surroundings, points of interest and known settlements. Activ
 
 Every character can glide from sufficient height, useful for covering distance quickly or escaping a bad fight. It won't save you from a fall that never gets off the ground — you need altitude first.
 
-### Dungeons & Caves
+### What You'll Find Exploring
 
-The world's dungeons and caves hold the best loot and the toughest fights — see [Dungeons](/gameplay/mazmorras), [Regions](/lore/regiones) and [Creatures](/base-de-datos/criaturas) for what's known about what's out there.
+Beyond the 10 tiered dungeons (see [Dungeons](/gameplay/mazmorras)), the world is dotted with other site types worth knowing on sight:
+
+| Site | What it is |
+|------|------------|
+| Town (Cliff, Savannah, Desert, Coastal variants) | Settlements with their own crafting stations and merchants |
+| Citadel | A fortified, castle-like structure |
+| Giant Tree | A massive living landmark, often with its own points of interest |
+| Bridge | Crosses rivers, canyons or ravines along major routes |
+| Rock Circle | A small ritual site |
+| Camp | A bandit or NPC encampment |
+| Glider Course | A dedicated aerial obstacle course for testing your gliding |
+
+See [Regions](/lore/regiones) and [Creatures](/base-de-datos/criaturas) for what's known about the world beyond that.
 
 ### Merchants & Trading
 
