@@ -13,18 +13,18 @@ To craft an item you need:
 
 There are 10 crafting stations, each covering a different category of recipe:
 
-| Station | Used for |
-|---------|----------|
-| Crafting Bench | General item assembly |
-| Forge | Metal weapon and armor components |
-| Anvil | Metal shaping and repair |
-| Cauldron | Potions and alchemical items |
-| Cooking Pot | Food and consumables |
-| Spinning Wheel | Turning raw fiber into thread |
-| Loom | Weaving cloth from thread |
-| Tanning Rack | Curing raw hide into leather |
-| Dismantling Bench | Breaking down items for materials |
-| Repair Bench | Equipment repair |
+| Station | Used for | Recipes |
+|---------|----------|--------:|
+| Crafting Bench | General item assembly | 132 |
+| Anvil | Metal weapons and armor | 72 |
+| Loom | Weaving cloth from thread | 56 |
+| Cauldron | Potions and alchemical items | 20 |
+| Forge | Smelting ore into ingots | 10 |
+| Cooking Pot | Food and consumables | 8 |
+| Spinning Wheel | Turning raw fiber into thread | 7 |
+| Tanning Rack | Curing raw hide into leather | 4 |
+| Dismantling Bench | Salvaging items back into materials | — (not recipe-based) |
+| Repair Bench | Equipment repair | — (not recipe-based) |
 
 ## Categories of Craftable Items
 
@@ -34,7 +34,7 @@ Weapons in Xindeler are **modular**: the materials used determine the final stat
 Weapon materials come in two families — metals and woods (see the material table below) — with different properties depending on the source.
 
 ### Armor
-There is a wide variety of armor sets — Adventurer, Assassin, Boreal, Cultist, Golemite, Leather Plate, Mail, among many more — see [Armor](/base-de-datos/armaduras) for the full list. Each set has different class and level requirements.
+There is a wide variety of armor sets — Adventurer, Assassin, Boreal, Cultist, Golemite, Leather Plate, among many more — see [Armor](/base-de-datos/armaduras) for the full list. Each set has different class and level requirements. Mail armor works differently from the named sets: instead of a single fixed identity, it scales through the same 6-tier metal ladder as weapons (Bronze through Orichalcum), so its stats depend entirely on which metal you craft it from.
 
 ### Consumables and Food
 Food grants temporary combat buffs. More complex foods require more ingredients but give better effects.
@@ -64,11 +64,13 @@ Real material names, by category and tier (confirmed against the game's item dat
 | Tier | Metal | Wood | Textile | Hide |
 |------|-------|------|---------|------|
 | Low | Bronze, Tin | Wood | Linen | Animal Hide, Simple Leather |
-| Common | Iron | Bamboo | Cloth Strips, Wool | Tough Hide, Thick Leather, Leather Strips |
+| Common | Iron | Bamboo | Wool, Cloth Strips | Tough Hide, Thick Leather, Leather Strips |
 | Moderate | Steel | Hardwood | Silk | — |
 | High | Cobalt | Ironwood | Lifecloth | Leather Troll |
-| Epic | Silver, Gold, Bloodsteel | Frostwood | — | Rugged Hide, Rigid Leather |
+| Epic | Silver, Gold, Bloodsteel | Frostwood | Moonweave | Rugged Hide, Rigid Leather |
 | Legendary | Orichalcum | Eldwood | Sunsilk | — |
+
+No material reaches the Artifact tier — that quality is reserved for crafted or unique items, not raw materials.
 
 ## Repair
 

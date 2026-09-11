@@ -22,18 +22,21 @@ Además de los 12 slots de equipo de arriba, tu inventario tiene 4 slots de bols
 
 ## Sets de armadura
 
-Una selección de los sets disponibles vía crafteo o loot — ver [Crafteo](/es/gameplay/crafteo) para cómo funcionan los requerimientos de set y la calidad:
+Hay más de 50 sets de armadura en el juego. Los números de abajo son el multiplicador base de cada set — confirmados directamente contra los datos reales del juego — no el stat final en una pieza específica, que también depende del tier de calidad de esa pieza (ver [Crafteo](/es/gameplay/crafteo)):
 
-| Set | Identidad |
-|-----|-----------|
-| Adventurer | Equipo genérico de tier inicial, sin restricción de clase |
-| Assassin | Liviano, orientado a sigilo |
-| Boreal | Tema de región fría, aislamiento pesado |
-| Cultist | Estética oscura, ritualista |
-| Golemite | Placas pesadas, inspiradas en constructos |
-| Leather Plate | Híbrido de cuero y placas metálicas |
-| Mail | Cota de malla clásica |
+| Set | Identidad | Protección | Res. Poise | Energía Máx. | Recompensa Energía | Poder de Precisión | Sigilo |
+|-----|-----------|-----------:|-----------:|-------------:|--------------------:|---------------------:|-------:|
+| Adventurer | Equipo genérico de tier inicial, sin restricción de clase | 18.2 | 10.9 | — | — | — | 0.63 |
+| Assassin | Liviano, orientado a sigilo | 50.0 | 5.0 | — | — | — | — |
+| Boreal | Tema de región fría, aislamiento pesado | 90.0 | 36.0 | -45.0 | — | 0.45 | 0.45 |
+| Cultist | Estética oscura, ritualista | 72.0 | 18.0 | 27.0 | 0.36 | 0.225 | 0.36 |
+| Golemite | Placas pesadas, inspiradas en constructos | 117.0 | 40.5 | 63.0 | -0.45 | — | — |
+| Leather Plate | Híbrido de cuero y placas metálicas | 120.0 | 30.0 | — | — | — | — |
+| Plate | Placas metálicas completas, orientado a precisión | 51.6 | — | — | — | 0.70 | 1.31 |
+| Dragonscale | Armadura escamada con estilo dracónico | 54.0 | — | — | — | 0.72 | 1.35 |
 
 Cada set tiene sus propios requerimientos de clase y nivel — revisá la receta de crafteo o el tooltip del ítem en el juego para los números exactos, que varían por pieza y tier de calidad.
 
-> *Las tablas completas de stats por pieza — rating de armadura, resistencia a stun y bonus de set — se expanden acá a medida que se construye la base de datos de ítems.*
+**La armadura de Mail es un caso especial**: en vez de un set fijo con nombre propio, escala con la misma escalera de 6 tiers de metal que las armas (Bronce → Hierro → Acero → Cobalto → Plata/Oro/Acero de Sangre → Orichalcum), así que sus stats dependen enteramente de con qué metal se craftea, no de una identidad de set.
+
+> *Las tablas completas de stats por pieza y los bonus de set se expanden acá a medida que se construye la base de datos de ítems.*
