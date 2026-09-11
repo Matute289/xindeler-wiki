@@ -4,14 +4,14 @@ Hay **6 razas jugables** en Xindeler. Cada una otorga un pasivo permanente y una
 
 ## Comparativa
 
-| Raza | Pasivo | Habilidad innata | Cooldown |
-|------|--------|-----------------|---------|
-| [Human](/es/gameplay/razas/human) | +3% recuperación de energía | Second Wind | — |
-| [Elf](/es/gameplay/razas/elf) | +3% velocidad de movimiento | Fleetness | — |
-| [Dwarf](/es/gameplay/razas/dwarf) | +2% reducción de daño recibido | Stoneblood | 90s |
-| [Orc](/es/gameplay/razas/orc) | +3% daño de ataque | Bloodrage | — |
-| [Gnome](/es/gameplay/razas/gnome) | +5% energía máxima | Shadowstep | — |
-| [Dhampir](/es/gameplay/razas/dhampir) | +10% resistencia a CC | Gravechill | — |
+| | Raza | Pasivo | Habilidad innata | Cooldown |
+|:-:|------|--------|-----------------|---------|
+| 🗡️ | [Human](/es/gameplay/razas/human) | +3% recuperación de energía | Second Wind | — |
+| 🏹 | [Elf](/es/gameplay/razas/elf) | +3% velocidad de movimiento | Fleetness | — |
+| ⛏️ | [Dwarf](/es/gameplay/razas/dwarf) | +2% reducción de daño recibido | Stoneblood | 90s |
+| 🪓 | [Orc](/es/gameplay/razas/orc) | +3% daño de ataque | Bloodrage | — |
+| 🔮 | [Gnome](/es/gameplay/razas/gnome) | +5% energía máxima | Shadowstep | — |
+| 🦇 | [Dhampir](/es/gameplay/razas/dhampir) | +10% resistencia a CC | Gravechill | — |
 
 ## Combinaciones populares
 

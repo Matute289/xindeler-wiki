@@ -4,14 +4,14 @@ There are **6 playable races** in Xindeler. Each grants a permanent passive and 
 
 ## Comparison
 
-| Race | Passive | Innate ability | Cooldown |
-|------|--------|-----------------|---------|
-| [Human](/gameplay/razas/human) | +3% Energy recovery | Second Wind | — |
-| [Elf](/gameplay/razas/elf) | +3% movement speed | Fleetness | — |
-| [Dwarf](/gameplay/razas/dwarf) | +2% damage reduction | Stoneblood | 90s |
-| [Orc](/gameplay/razas/orc) | +3% attack damage | Bloodrage | — |
-| [Gnome](/gameplay/razas/gnome) | +5% maximum Energy | Shadowstep | — |
-| [Dhampir](/gameplay/razas/dhampir) | +10% CC resistance | Gravechill | — |
+| | Race | Passive | Innate ability | Cooldown |
+|:-:|------|--------|-----------------|---------|
+| 🗡️ | [Human](/gameplay/razas/human) | +3% Energy recovery | Second Wind | — |
+| 🏹 | [Elf](/gameplay/razas/elf) | +3% movement speed | Fleetness | — |
+| ⛏️ | [Dwarf](/gameplay/razas/dwarf) | +2% damage reduction | Stoneblood | 90s |
+| 🪓 | [Orc](/gameplay/razas/orc) | +3% attack damage | Bloodrage | — |
+| 🔮 | [Gnome](/gameplay/razas/gnome) | +5% maximum Energy | Shadowstep | — |
+| 🦇 | [Dhampir](/gameplay/razas/dhampir) | +10% CC resistance | Gravechill | — |
 
 ## Popular Combinations
 
