@@ -39,11 +39,11 @@ Una selección de personajes que los jugadores pueden encontrar en el mundo:
 
 ## Roles Comunes
 
-Más allá de los NPCs de lore nombrados arriba, el mundo está poblado por arquetipos de rol recurrentes — la gente que hace que un asentamiento funcione:
+Más allá de los NPCs de lore nombrados arriba, el mundo está poblado por 14 arquetipos de rol recurrentes — la gente que hace que un asentamiento funcione:
 
-Alquimista · Herrero · Cocinero · Granjero · Guardia · Herborista · Cazador · Mercader · Montañés · Viajero · Aldeano
+Alquimista · Herrero · Arquero · Capitán · Cocinero · Granjero · Guardia · Herborista · Cazador · Mercader · Montañés · Desollador · Aldeano · *(más un Muñeco de entrenamiento de combate)*
 
-Son roles, no individuos — cualquier asentamiento tiene su propio herrero, sus propios guardias, sin necesitar un trasfondo único para cada uno.
+Son roles, no individuos — cualquier asentamiento tiene su propio herrero, sus propios guardias, sin necesitar un trasfondo único para cada uno. Todos comparten los mismos **100 HP base** planos — un Guardia no es más resistente que un Granjero, solo está mejor equipado y entrenado. Lo que realmente varía es su **tier de habilidad**: Guardia, Herrero, Mercader, Alquimista y Cocinero pelean con un árbol de combate real, el Capitán pelea con uno todavía más profundo, y el resto no tiene habilidad en combate. La experiencia que otorga matarlos tampoco es fija — escala con el [Combat Rating](/es/gameplay/combate) de ese NPC en el momento de matarlo, así que un Guardia armado vale notablemente más que un Granjero desarmado pese a tener la misma vida.
 
 ## Tipos de NPCs
 
