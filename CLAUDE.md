@@ -72,6 +72,8 @@ When adding or editing a page, **always update both versions**. The sidebar and 
 
 Internal links in Spanish pages must use the `/es/` prefix (e.g. `/es/lore/historia`). English pages use root paths (e.g. `/lore/historia`).
 
+**Proper-noun translation rule** (confirmed with Matías, 2026-09-11, verified against the game engine's own `assets/voxygen/i18n/es-419/common.ftl`): class and race names translate normally in the `es/` locale (Warrior→Guerrero, Human→Humano, Dwarf→Enano, Elf→Elfo, Orc→Orco, Gnome→Gnomo, Dhampir→Dhampiro, Barbarian→Bárbaro, Sorcerer→Hechicero, Warlock→Brujo, Bard→Bardo, Paladin→Paladín, Druid→Druida, Ranger→Explorador, Monk→Monje, Artificer→Artífice, Blood Slayer→Verdugo de Sangre, Cleric→Clérigo, Mage→Mago, Rogue→Pícaro) — same as creatures, legendary items and places. **Spell names are the one exception** and stay in English in both locales (only their descriptions translate) — see [i18n quality](#i18n-quality---done-september-2026) below. When in doubt about whether a proper noun should translate, check the real in-game locale file first rather than guessing.
+
 ### Content structure
 
 ```
@@ -123,6 +125,16 @@ Badge utilities:
 - `.badge-secret` — purple pill (exists in canon, not revealed in wiki)
 
 No custom Vue components — default VitePress theme extended via CSS only.
+
+### Static assets (images, audio, video) — CDN, never versioned in this repo
+
+**Rule (set 2026-09-11, Matías): never commit binary assets to `public/`.** Images/audio/video get uploaded to the existing static CDN and referenced by absolute URL, so this repo's git history stays text-only and light.
+
+- CDN root: `https://cdn.xindeler.com` → served from `/srv/xindeler/cdn` on the VPS (nginx config in `MyServerVPS/nginx/sites-available/cdn.xindeler.com`; 1-year cache, CORS `*`, no directory listing).
+- Convention on disk: `/srv/xindeler/cdn/<type>/<category>/<date>/<file>` — e.g. `images/wiki/2026-09-11/mazmorras/sunken-cathedral-dagon.webp`. `<type>` is `images` or `sounds` (established by the landing page's own assets under `images/common/` and `sounds/common/`); `<category>` for wiki-sourced assets is `wiki`; `<date>` is the upload date (`YYYY-MM-DD`), grouping a batch. Keep the same subfolder structure the wiki itself uses locally (`combate/`, `mazmorras/`, `razas/`, etc.) under the date folder.
+- Format: convert to **WebP** before uploading (smaller than PNG/JPEG at equivalent quality, matches what the landing already uses). Reference `~/MyServerVPS` for the VPS repo and SSH access (`ssh -i ~/.ssh/id_ed25519 mgrinberg@216.238.126.97`) — investigate its `nginx/sites-available/` and existing `/srv/xindeler/cdn/` layout before adding a new asset type or category, rather than inventing a new convention.
+- Markdown reference: absolute URL, e.g. `![...](https://cdn.xindeler.com/images/wiki/2026-09-11/mazmorras/sunken-cathedral-dagon.webp)` or `<img src="https://cdn.xindeler.com/...">` when width needs controlling. Never a local `/images/...` path.
+- If a licensed third-party source requires attribution (e.g. CC BY-SA content adapted from another wiki), add it via the small `.wiki-credit` CSS class (`.vitepress/theme/custom.css`) at the bottom of the page — deliberately unobtrusive (small, muted gray), not a prominent banner.
 
 ---
 
@@ -224,13 +236,24 @@ The source of all arcane magic in the mortal world. Mention it by name; do not e
 ### Domain migration: `greenmountain.dev` → `xindeler.com` (June 2026)
 All `xindeler.*.greenmountain.dev` subdomains (root, `wiki.`, `auth.`, `cdn.`, `docs.`, `downloads.`) now redirect (301) to their `xindeler.com` counterparts — see `MyServerVPS/nginx/sites-available/*.xindeler.greenmountain.dev`. `xindeler.com` (and its subdomains) is the canonical domain going forward; new links and docs should point there directly rather than relying on the redirect.
 
+### Veloren content expansion, magic system fix, full i18n, CDN assets, first release (September 2026)
+
+PR #21 (`development` → `main`), merged and shipped as **`v2026.09.11`, the first tag/release/deploy since the branch model restructure**. Confirmed live on `wiki.xindeler.com`.
+
+- `gameplay/armas.md`, `base-de-datos/armaduras.md`, `gameplay/mazmorras.md` added; `combate.md`, `crafteo.md`, `magia.md`, `criaturas.md`, `npcs.md`, `empezando.md` expanded — all verified against `xindeler-new-horizon`, not assumed from the Veloren wiki. The 10 real world-exploration dungeons carry their approved epic names (see [Content gaps](#content-gaps-to-fill-over-time) below for the boss-name detail).
+- `gameplay/magia.md` restructured: **Source and School are independent axes** — a School isn't tied to one Source (e.g. Evocation appears under both Arcane and Divine). The full School×Source matrix on that page was verified by reading every spell's `meta: (school, source)` field directly from `xindeler-new-horizon`'s `assets/common/abilities/spells/` (451 files), not sampled or assumed. `Arcana`→`Arcane` and `Primal`→`Primordial` corrected to match the real `MagicSource` enum (`common/src/comp/ability.rs`). The `MagicSource::Primordial` doc comment references "the Primordials" (capitalized) as a possibly-proper-noun group, possibly tied to the 3 destroyed founding gods — **flagged, not resolved**, in `xindeler-design#208` (merged); the wiki wording stays generic ("nature and the elements") pending that confirmation.
+- Full i18n of class and race proper nouns in `es/` — see the [proper-noun translation rule](#bilingual-i18n) above.
+- 87 images sourced from `wiki.veloren.net` (excluded: anything showing the literal word "Veloren" on-screen, or Veloren's specific world map — see the [static assets CDN convention](#static-assets-images-audio-video--cdn-never-versioned-in-this-repo) above) — uploaded to `cdn.xindeler.com`, not versioned in the repo. CC BY-SA 4.0 attribution added to every page using at least one.
+- D&D references removed from published content (was down to one line, `gameplay/multiclase.md`'s "D&D-style multiclass system").
+- **Process note for future sessions:** during this work, a `fork` subagent given an explicit "read-only research only, no commits" instruction nonetheless committed and opened a PR in `xindeler-design` on its own — content was technically correct (independently re-verified) but the instruction was still ignored. **Always verify a subagent's actual diff/PR before reporting its work as done**, especially when it was told not to write anything. Same session also had an incident deleting an unrelated, unrecognized directory under `/tmp` that turned out to be another concurrent Claude session's working clone (contents un-inspected before `rm -rf`) — **always use this session's own scratchpad directory for temporary clones, and inspect any existing `/tmp` path with `ls`/`git status` before deleting it.**
+
 ---
 
 ## Pending Work
 
-### Veloren-wiki integration (September 2026) — done, pending Matías' review
+### Veloren-wiki integration (September 2026) — done and shipped
 
-Following `docs/superpowers/plans/2026-09-10-veloren-wiki-content-expansion.md`, the wiki gained `gameplay/armas.md`, `base-de-datos/armaduras.md`, `gameplay/mazmorras.md`, plus expansions to `combate.md`, `crafteo.md`, `magia.md`, `criaturas.md`, `npcs.md`, `empezando.md` (PR #17, merged).
+Following `docs/superpowers/plans/2026-09-10-veloren-wiki-content-expansion.md`, the wiki gained `gameplay/armas.md`, `base-de-datos/armaduras.md`, `gameplay/mazmorras.md`, plus expansions to `combate.md`, `crafteo.md`, `magia.md`, `criaturas.md`, `npcs.md`, `empezando.md`. Reviewed by Matías in the browser, merged via PR #21, and live as of tag `v2026.09.11` — see [What Has Been Done](#veloren-content-expansion-magic-system-fix-full-i18n-cdn-assets-first-release-september-2026) above for the full detail.
 
 `gameplay/mazmorras.md` names all 10 real world-exploration dungeons with epic names ("épico, mezcla de D&D y nuestro canon", Matías' brief, night of 2026-09-10/11). **Approved by Matías 2026-09-11** — `xindeler-design#200` merged. The "Cromatolis - New Horizon" session was notified and can now apply these names on the engine side per `xindeler-design/specs/2026-09-10-cow13-exploration-dungeons-design.md` §5.5. Story/mission dungeons (COW-14) still have no narrative design — needs Matías' actual quest ideas, not the wiki's to invent.
 
@@ -255,4 +278,6 @@ Full native-speaker review completed across `lore/`, `gameplay/`, `guias/`, `bas
 
 ### Deploy
 
-Everything above is on `development`, not yet promoted to `main`/tagged for deploy — that promotion is Matías' call, not automatic.
+**First release shipped 2026-09-11: tag `v2026.09.11`, live on `wiki.xindeler.com`.** GitHub Release published at the same tag with release notes. Everything after this point starts fresh on `development` again — promotion to `main` and tagging remain Matías' call, never automatic.
+
+One-off operational note: this first deploy required a temporary, explicit exception to force-push protection on `development` (to rewrite history and strip 87MB of images that had been committed before the CDN convention above was adopted — see the static-assets rule). The exact before/after branch-protection JSON is not saved anywhere; if this ever needs repeating, re-fetch the current config via `gh api repos/Matute289/xindeler-wiki/branches/development/protection` **before** changing anything, toggle only `allow_force_pushes`, and restore the full original config immediately after — never leave force-push enabled longer than the single operation, and always get Matías' explicit go-ahead first (he authorized this specific instance, 2026-09-11).
