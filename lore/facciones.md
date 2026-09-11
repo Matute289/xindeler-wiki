@@ -42,11 +42,43 @@ The nine archmages who advise the government of Cromatolis. In theory, they are 
 
 ---
 
+### The Council of Owls
+
+Eleven great-wyrms — ancient dragons who have outlived empires — who convene in secret to settle matters no mortal court could adjudicate. Xandrian and Isharat both answer to decisions made in rooms no human, elf or dwarf will ever enter.
+
+*What the Council actually decides, and why, belongs to the deeper history of the Great War.*
+
+---
+
+### The Order of the Inmost Light — the Embertenders
+
+The world's only faith devoted not to a god, but to the First Light itself — the will-less, mindless membrane of light from which all creation was kindled, and from which every soul is said to be lit. Its members, called **Embertenders**, hold a single creed: that every soul carries a spark of that first light, and that a life's whole work is to turn inward and learn to feel it.
+
+They are contemplatives, not crusaders. An Embertender's discipline is patience — a long, half-blind inward attention, sitting with the light one *is* until, after years, one begins — maybe — to feel it. Most never quite do. They count the seeking itself the devotion.
+
+---
+
+### Cult of the Crownless King <span class="badge-secret">Lore</span>
+
+A network of secret cells devoted to a fallen figure whose throne no longer exists — and whose name is deliberately never spoken by the cult's own members.
+
+*Who the Crownless King really is, and what the cult wants from mortals, is one of the game's deeper revelations.*
+
+---
+
+### Children of the Cold <span class="badge-secret">Lore</span>
+
+A shadow-order of spies and assassins operating across the coldest reaches of the world, bound by a purpose none of them will explain to outsiders — or, seemingly, to each other's enemies.
+
+*What they're actually working toward is part of the story the game reveals as it unfolds.*
+
+---
+
 ## Other Active Factions
 
 The world has dozens of factions beyond those listed above. Some operate publicly; many prefer the shadows.
 
-Known names: **Cult of the Crownless King · Children of the Cold · El Cónclave de Asedio · La Cruz Verdadera · Las Cinco Calaveras · Liga de Asesinos · Los Geómetras del Velo · Los Nueve Anillos · Order of the Even Hand · Order of the Inmost Light · The Council of Owls · The Hollow Quills · Utu Shamash · Dune Walkers**
+Known names: **El Cónclave de Asedio · La Cruz Verdadera · Las Cinco Calaveras · Liga de Asesinos · Los Geómetras del Velo · Los Nueve Anillos · Order of the Even Hand · The Hollow Quills · Utu Shamash · Dune Walkers**
 
 > *The detail of each faction — its goals, internal structure and history — is part of the content developed progressively in the game.*
 
