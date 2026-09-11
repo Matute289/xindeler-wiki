@@ -74,11 +74,39 @@ A shadow-order of spies and assassins operating across the coldest reaches of th
 
 ---
 
+### The Veil-Geometers
+
+A fellowship from the Age of Wonders, not an order with a throne — spatial mages who held that the Veil is not cloth but lattice, and that anyone who learned its geometry could fold space itself. Membership was never a title, only being let into the correspondence.
+
+Their legacy outlived them: several of the world's oldest living arcanists — Hesvane, Orenmar, Oltheris, Lemvane and Tessved among them — trace their craft back to this fellowship's proofs.
+
+---
+
+### The Order of the Even Hand
+
+Knights of Cromatolis bound to a doctrine of requital — no debt, no wrong, goes unanswered forever. What the Order considers "even" is not always what the accused would call justice.
+
+---
+
+### The Hollow Quills
+
+Known in whispers as the **Scourgers**, an order operating in the shadow of Cromatolis's Janus Council. Two of the world's known arcanists — Kalee and Alenac — are already tied to it.
+
+*What they actually enforce, and for whom, is part of what the game reveals.*
+
+---
+
+### The Dunestriders
+
+A hardy desert people who read the dunes the way sailors read the sea. No outsider crosses their sands without their leave — and fewer still leave with it revoked.
+
+---
+
 ## Other Active Factions
 
 The world has dozens of factions beyond those listed above. Some operate publicly; many prefer the shadows.
 
-Known names: **El Cónclave de Asedio · La Cruz Verdadera · Las Cinco Calaveras · Liga de Asesinos · Los Geómetras del Velo · Los Nueve Anillos · Order of the Even Hand · The Hollow Quills · Utu Shamash · Dune Walkers**
+Known names: **El Cónclave de Asedio · La Cruz Verdadera · Las Cinco Calaveras · Liga de Asesinos · Los Nueve Anillos · Utu Shamash**
 
 > *The detail of each faction — its goals, internal structure and history — is part of the content developed progressively in the game.*
 
