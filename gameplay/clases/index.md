@@ -6,7 +6,7 @@ Xindeler has **14 playable classes**, all selectable today at character creation
 
 ## Original Classes
 
-These four have complete skill trees and starting equipment:
+These four have complete skill trees and starting equipment: <span class="badge-completed">Skill Tree Complete</span>
 
 | Class | Role | Difficulty | Magic source |
 |-------|-----|-----------|---------------|
@@ -17,7 +17,7 @@ These four have complete skill trees and starting equipment:
 
 ## Newer Classes
 
-These ten joined the roster more recently. They're fully playable — selectable at character creation with their own stats, identity and starting kit — but their dedicated skill trees are still being built out, so for now they play on their base kit:
+These ten joined the roster more recently. They're fully playable — selectable at character creation with their own stats, identity and starting kit — but their dedicated skill trees are still being built out, so for now they play on their base kit: <span class="badge-wip">Skill Tree In Development</span>
 
 | Class | Role | Difficulty | Magic source |
 |-------|-----|-----------|---------------|

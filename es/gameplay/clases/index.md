@@ -6,7 +6,7 @@ Xindeler tiene **14 clases jugables**, todas seleccionables hoy en la creación 
 
 ## Clases originales
 
-Estas cuatro tienen árboles de habilidades completos y equipamiento de inicio:
+Estas cuatro tienen árboles de habilidades completos y equipamiento de inicio: <span class="badge-completed">Árbol de habilidades completo</span>
 
 | Clase | Rol | Dificultad | Fuente mágica |
 |-------|-----|-----------|---------------|
@@ -17,7 +17,7 @@ Estas cuatro tienen árboles de habilidades completos y equipamiento de inicio:
 
 ## Clases nuevas
 
-Estas diez se sumaron al roster hace poco. Son totalmente jugables — se pueden elegir en la creación de personaje con sus propias estadísticas, identidad y equipo inicial — pero sus árboles de habilidades dedicados todavía se están construyendo, así que por ahora juegan con su kit base:
+Estas diez se sumaron al roster hace poco. Son totalmente jugables — se pueden elegir en la creación de personaje con sus propias estadísticas, identidad y equipo inicial — pero sus árboles de habilidades dedicados todavía se están construyendo, así que por ahora juegan con su kit base: <span class="badge-wip">Árbol de habilidades en desarrollo</span>
 
 | Clase | Rol | Dificultad | Fuente mágica |
 |-------|-----|-----------|---------------|

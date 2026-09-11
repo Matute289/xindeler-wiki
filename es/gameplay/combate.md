@@ -69,28 +69,32 @@ Un ícono de calavera en el nameplate significa que el Combat Rating del objetiv
 
 ### Buffs positivos (selección)
 
-| Nombre | Efecto |
-|--------|--------|
-| Regeneration | Recupera salud por tiempo |
-| Hastened | Aumenta velocidad de movimiento y ataque |
-| Fortitude | Aumenta reducción de daño (Stoneblood del Dwarf) |
-| Frenzied | Aumenta daño de ataque |
-| Lifesteal | Roba porcentaje de daño como salud |
-| Invulnerability | Inmunidad temporal a daño |
-| Fury | Aumenta daño crítico |
-| Berserk | Modo berserker: daño aumentado, defensa reducida |
+| | Nombre | Efecto |
+|:-:|--------|--------|
+| 💚 | Regeneration | Recupera salud por tiempo |
+| 💨 | Hastened | Aumenta velocidad de movimiento y ataque |
+| 🛡️ | Fortitude | Aumenta reducción de daño (Stoneblood del Dwarf) |
+| ⚔️ | Frenzied | Aumenta daño de ataque |
+| 🩸 | Lifesteal | Roba porcentaje de daño como salud |
+| ✨ | Invulnerability | Inmunidad temporal a daño |
+| 💥 | Fury | Aumenta daño crítico |
+| 😡 | Berserk | Modo berserker: daño aumentado, defensa reducida |
 
 ### Debuffs (selección)
 
-| Nombre | Efecto |
-|--------|--------|
-| Burning | Daño por tiempo de fuego |
-| Bleeding | Daño por tiempo de sangrado |
-| Frozen | Ralentización severa o inmovilización |
-| Crippled | Ralentización de movimiento |
-| Poisoned | Daño por tiempo de veneno |
-| Terrified | Huida, incapaz de atacar (efecto del Mage) |
-| Charmed | No ataca al lanzador (efecto del Cleric) |
+| | Nombre | Efecto |
+|:-:|--------|--------|
+| 🔥 | Burning | Daño por tiempo de fuego |
+| 🩸 | Bleeding | Daño por tiempo de sangrado |
+| ❄️ | Frozen | Ralentización severa o inmovilización |
+| 🦶 | Crippled | Ralentización de movimiento |
+| ☠️ | Poisoned | Daño por tiempo de veneno |
+| 😱 | Terrified | Huida, incapaz de atacar (efecto del Mage) |
+| 💫 | Charmed | No ataca al lanzador (efecto del Cleric) |
+
+::: tip
+Estos íconos son una referencia rápida de esta página, no un calco 1:1 del arte real de la barra de buffs en el juego — pero los nombres de efecto y qué hacen son exactamente lo que vas a ver en los tooltips.
+:::
 
 ## Proyectiles y área de efecto
 

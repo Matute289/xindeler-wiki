@@ -69,28 +69,32 @@ A skull nameplate icon means the target's Combat Rating exceeds 122 — walk awa
 
 ### Positive Buffs (selection)
 
-| Name | Effect |
-|--------|--------|
-| Regeneration | Recovers health over time |
-| Hastened | Increases movement and attack speed |
-| Fortitude | Increases damage reduction (Dwarf's Stoneblood) |
-| Frenzied | Increases attack damage |
-| Lifesteal | Steals percentage of damage as health |
-| Invulnerability | Temporary immunity to damage |
-| Fury | Increases critical damage |
-| Berserk | Berserker mode: increased damage, reduced defense |
+| | Name | Effect |
+|:-:|--------|--------|
+| 💚 | Regeneration | Recovers health over time |
+| 💨 | Hastened | Increases movement and attack speed |
+| 🛡️ | Fortitude | Increases damage reduction (Dwarf's Stoneblood) |
+| ⚔️ | Frenzied | Increases attack damage |
+| 🩸 | Lifesteal | Steals percentage of damage as health |
+| ✨ | Invulnerability | Temporary immunity to damage |
+| 💥 | Fury | Increases critical damage |
+| 😡 | Berserk | Berserker mode: increased damage, reduced defense |
 
 ### Debuffs (selection)
 
-| Name | Effect |
-|--------|--------|
-| Burning | Fire damage over time |
-| Bleeding | Bleed damage over time |
-| Frozen | Severe slow or immobilization |
-| Crippled | Movement speed slow |
-| Poisoned | Poison damage over time |
-| Terrified | Flight, unable to attack (Mage effect) |
-| Charmed | Does not attack the caster (Cleric effect) |
+| | Name | Effect |
+|:-:|--------|--------|
+| 🔥 | Burning | Fire damage over time |
+| 🩸 | Bleeding | Bleed damage over time |
+| ❄️ | Frozen | Severe slow or immobilization |
+| 🦶 | Crippled | Movement speed slow |
+| ☠️ | Poisoned | Poison damage over time |
+| 😱 | Terrified | Flight, unable to attack (Mage effect) |
+| 💫 | Charmed | Does not attack the caster (Cleric effect) |
+
+::: tip
+These icons are a quick-reference for this page, not a 1:1 match to the in-game buff bar art — but the effect names and what they do are exactly what you'll see in your tooltips.
+:::
 
 ## Projectiles and Area of Effect
 
