@@ -228,20 +228,31 @@ All `xindeler.*.greenmountain.dev` subdomains (root, `wiki.`, `auth.`, `cdn.`, `
 
 ## Pending Work
 
+### Veloren-wiki integration (September 2026) — nearly done
+
+Following `docs/superpowers/plans/2026-09-10-veloren-wiki-content-expansion.md`, the wiki gained `gameplay/armas.md`, `gameplay/armaduras.md` → `base-de-datos/armaduras.md`, `gameplay/mazmorras.md`, plus expansions to `combate.md`, `crafteo.md`, `magia.md`, `criaturas.md`, `npcs.md`, `empezando.md` (see PR #17, merged to `development`).
+
+**Still open:** `gameplay/mazmorras.md` doesn't name the 10 real world-exploration dungeons yet (Gnarling Fortress, Adlet Stronghold, Sahagin Island, Haniwa Catacomb, Vampire Castle, Myrmidon Dungeon, Sea Chapel, the Mind-Eater's dungeon, Terracotta Ruins, Dwarven Mine — confirmed to exist in `xindeler-new-horizon` but currently not spawning due to a placement bug tracked as COW-13) — waiting on whether their inherited Veloren names stay as-is or get renamed, plus per-dungeon boss/region data once COW-13 ships. Story/mission dungeons (COW-14) have no design yet.
+
+### i18n quality — done (September 2026)
+
+Full native-speaker review completed across `lore/`, `gameplay/`, `guias/`, `base-de-datos/` in both locales (PR #18, merged). Re-audit if large new content lands without a native pass.
+
 ### Content gaps to fill over time
 
 | Page | Gap |
 |------|-----|
-| `gameplay/clases/` | 14 classes documented and shipped (see `gameplay/clases/`); skill trees still being fleshed out for barbarian/sorcerer/warlock/bard/paladin/druid/ranger/monk/artificer/blood-slayer. |
+| `gameplay/clases/` | 14 classes documented and shipped; skill trees still being fleshed out for barbarian/sorcerer/warlock/bard/paladin/druid/ranger/monk/artificer/blood-slayer. |
 | `gameplay/razas/` | 6 races documented; passive/ability tables are sparse. Expand from game data. |
 | `lore/historia.md` | Six ages teased. Expand each age section as narrative ships. |
 | `lore/panteon.md` | Unfaithful cryptic by design. Reveal as game story progresses. |
 | `lore/regiones.md` | 11 regions listed with brief descriptions. Each deserves its own subpage. |
 | `lore/facciones.md` | 4 factions described; 14 others listed by name only. |
-| `base-de-datos/criaturas.md` | 3 lore creatures highlighted. Full per-creature pages eventually. |
-| `base-de-datos/npcs.md` | 26 NPCs listed with no lore. Fill in as AURORA (NPC AI system) ships. |
+| `base-de-datos/criaturas.md` | 10 lore creatures highlighted (as of Sept 2026). Full per-creature pages eventually. |
+| `base-de-datos/npcs.md` | Roles/regions filled in for most named NPCs; still no lore/backstory (by design, revealed in-game). Fill in further as AURORA (NPC AI system) ships. |
 | `base-de-datos/items/` | Item database — new section when item system ships. |
-| `base-de-datos/spells/` | Spell database — new section when magic system is complete. |
+| `base-de-datos/spells/` | A starter-spell table exists in `gameplay/magia.md`; a full spell database is a separate future section once the magic system is complete. |
 
-### i18n quality
-The `es/` locale was machine-translated from English. It should be reviewed by a native Spanish speaker. Priority order: `lore/` pages first, then `gameplay/`, then `guias/`.
+### Deploy
+
+Everything above is on `development`, not yet promoted to `main`/tagged for deploy — that promotion is Matías' call, not automatic.
