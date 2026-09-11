@@ -8,7 +8,7 @@ Una selección de personajes que los jugadores pueden encontrar en el mundo:
 
 | Nombre | Rol | Región |
 |--------|-----|--------|
-| Acaelus Thorne | Arcanista | Los Highlands |
+| Acaelus Thorne | Arcanista | The Highlands |
 | Aldovane | Arcanista | — |
 | Alenac | — | Cromatolis |
 | Bhardo | — | — |
@@ -23,7 +23,7 @@ Una selección de personajes que los jugadores pueden encontrar en el mundo:
 | Merk | Comerciante | The Freelands |
 | Oltheris | Arcanista | — |
 | Orenmar | Arcanista | — |
-| Orly Skiffback | Capitán de airship | Rutas aéreas |
+| Orly Skiffback | Capitán de aeronave | Rutas aéreas |
 | Razveth | Mago de guerra (histórico) | — |
 | Sevrane | Guardiana | — |
 | Smoke Ashrise | — | — |
@@ -48,9 +48,9 @@ Son roles, no individuos — cualquier asentamiento tiene su propio herrero, sus
 ## Tipos de NPCs
 
 ### Mercaderes
-Compran y venden items según su especialización. Un hunter vende armas y provisiones de caza; un herborista vende consumibles y ingredientes. Los mercaderes no venden fuera de su área de especialización.
+Compran y venden items según su especialización. Un cazador vende armas y provisiones de caza; un herborista vende consumibles y ingredientes. Los mercaderes no venden fuera de su área de especialización.
 
-### Capitanes de Airship
+### Capitanes de Aeronave
 Algunos NPCs como Orly Skiffback operan rutas de transporte aéreo entre asentamientos. Las rutas son dinámicas y pueden cambiar según el estado del mundo.
 
 ### Dadores de misiones
@@ -61,7 +61,7 @@ Algunos NPCs pueden contratarse como acompañantes temporales, con un límite de
 
 ## AURORA — El futuro de los NPCs
 
-El **Project AURORA** es el sistema que dará a los NPCs de Xindeler una profundidad sin precedentes:
+El **Proyecto AURORA** es el sistema que dará a los NPCs de Xindeler una profundidad sin precedentes:
 
 - Memoria persistente de interacciones con jugadores
 - Relaciones sociales con otros NPCs (amistad, rivalidad, familia)

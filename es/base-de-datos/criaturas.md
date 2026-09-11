@@ -5,7 +5,7 @@ El mundo de Xindeler está lleno de vida — y de muerte. Las criaturas van desd
 ## Categorías de criaturas
 
 ### Humanoides grandes (Bosses y élites)
-Las criaturas más peligrosas del mundo. Algunos son jefes de dungeon, otros patrullan regiones específicas.
+Las criaturas más peligrosas del mundo. Algunos son jefes de mazmorra, otros patrullan regiones específicas.
 
 Incluyen: Ogros, Cíclopes, Trolls (de cueva, montaña y pantano), Ettins, Fomorianos, Hombres lobo, Minotauros, Yetis, Oni (azules y rojos), Titanes de las mareas, Devoramentes, y otras entidades cuyo nombre preferimos no listar aquí. Gigantes elementales — de Escarcha, Fuego, Tormenta, Nube y Piedra — completan el tier más grande de amenazas humanoides.
 
@@ -71,4 +71,4 @@ Un unicornio es un unicornio es un unicornio — excepto que este no es blanco, 
 
 ---
 
-> *El bestiary completo de Xindeler — con estadísticas, drops, ubicaciones y lore de cada criatura — se expande a medida que el juego se desarrolla. Esta página se actualiza continuamente.*
+> *El bestiario completo de Xindeler — con estadísticas, drops, ubicaciones y lore de cada criatura — se expande a medida que el juego se desarrolla. Esta página se actualiza continuamente.*

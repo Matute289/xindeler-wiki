@@ -13,7 +13,7 @@ When activated, the Orc enters a state of fury that temporarily amplifies their 
 
 ## Class Synergy
 
-**Warrior + Orc** is the highest pure physical damage combination in the game. Also works well with **Barbarian** (when available), whose kit is designed around similar fury mechanics.
+**Warrior + Orc** is the highest pure physical damage combination in the game. Also works well with **Barbarian**, whose kit is designed around similar fury mechanics.
 
 ## Lore
 

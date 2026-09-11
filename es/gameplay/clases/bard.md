@@ -16,7 +16,7 @@ El Bard apoya y controla el campo de batalla a través del arte — magia Arcana
 
 La magia del Bard fluye a través del arte y no del estudio crudo: su identidad se construye alrededor de lanzar canciones para dar soporte y control de masas. Su curva de stats es la típica de un soporte lanzador equilibrado — vida y energía moderadas, con buena evasión que lo ayuda a mantenerse vivo mientras trabaja en los bordes de la pelea en vez de en primera línea.
 
-A diferencia de las otras tres clases que cubre esta página, el Bard ya tiene un mecánica insignia real y lanzada: **Battle Refrain**, que le permite tocar música mientras ataca o lanza hechizos en combate, superponiendo su interpretación directamente sobre sus acciones en vez de tener que pausar para hacer una u otra cosa. Ya hay 22 instrumentos tocables en el juego para elegir, lo que le da a la identidad musical del Bard más profundidad hoy que su árbol de habilidades, todavía vacío.
+A diferencia de las otras tres clases que cubre esta página, el Bard ya tiene una mecánica insignia real y lanzada: **Battle Refrain**, que le permite tocar música mientras ataca o lanza hechizos en combate, superponiendo su interpretación directamente sobre sus acciones en vez de tener que pausar para hacer una u otra cosa. Ya hay 22 instrumentos tocables en el juego para elegir, lo que le da a la identidad musical del Bard más profundidad hoy que su árbol de habilidades, todavía vacío.
 
 Por ahora el Bard arranca con un bastón como arma placeholder —un arma-instrumento propiamente dicha está planeada para una futura actualización— y sus túnicas iniciales se comparten con las del Mage por el momento.
 

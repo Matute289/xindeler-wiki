@@ -46,7 +46,7 @@ The nine archmages who advise the government of Cromatolis. In theory, they are 
 
 The world has dozens of factions beyond those listed above. Some operate publicly; many prefer the shadows.
 
-Known names: **Cult of the Crownless King · Children of the Cold · El Conclave de Asedio · La Cruz Verdadera · Las Cinco Calaveras · Liga de Asesinos · Los Geómetras del Velo · Los Nueve Anillos · Order of the Even Hand · Order of the Inmost Light · The Council of Owls · The Hollow Quills · Utu Shamash · Dune Walkers**
+Known names: **Cult of the Crownless King · Children of the Cold · El Cónclave de Asedio · La Cruz Verdadera · Las Cinco Calaveras · Liga de Asesinos · Los Geómetras del Velo · Los Nueve Anillos · Order of the Even Hand · Order of the Inmost Light · The Council of Owls · The Hollow Quills · Utu Shamash · Dune Walkers**
 
 > *The detail of each faction — its goals, internal structure and history — is part of the content developed progressively in the game.*
 

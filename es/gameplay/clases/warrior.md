@@ -16,7 +16,7 @@ El Warrior es el maestro del combate físico. Resistente, versátil y letal en d
 
 El Warrior domina el combate cuerpo a cuerpo con una combinación de daño sostenido, resistencia y control de combate. Sus árboles de habilidades le permiten especializarse en diferentes arquetipos: el espadachín ágil, el berserker destructivo o el golpeador de masa que rompe la resistencia de los enemigos.
 
-## Skill trees
+## Árboles de habilidades
 
 ### Espada (Sword)
 Especialización en técnica y precisión. Habilidades clave:
@@ -56,4 +56,4 @@ Como Warrior también tenés acceso a los árboles generales que incluyen mejora
 
 - La combinación **Hammer + Berserk (Axe)** es devastadora en PvP.
 - **DefensiveRiposte** requiere timing preciso pero es uno de los mejores contraataques del juego.
-- El Warrior pair bien con razas de alta reducción de daño como el **Dwarf**.
+- El Warrior combina bien con razas de alta reducción de daño como el **Dwarf**.

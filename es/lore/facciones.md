@@ -36,7 +36,7 @@ Una orden de mujeres que opera dentro de las estructuras religiosas de Merovingi
 
 ### Janus Council
 
-Los nueve archimages que asesoran al gobierno de Cromatolis. En teoría, son la cúpula intelectual y mágica del reino. En la práctica, uno de los nueve tiene lealtades que los otros ocho desconocen.
+Los nueve archimagos que asesoran al gobierno de Cromatolis. En teoría, son la cúpula intelectual y mágica del reino. En la práctica, uno de los nueve tiene lealtades que los otros ocho desconocen.
 
 *¿Cuál de los nueve es el problema? Eso se descubre en el juego.*
 

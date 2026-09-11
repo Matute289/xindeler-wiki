@@ -8,7 +8,7 @@ El Artificer combina magia Arcana con sabor a crafteo con el conjuro convenciona
 |---|---|
 | **Rol** | Caster híbrido / Soporte |
 | **Dificultad** | ⭐⭐ Media |
-| **Fuente mágica** | Arcana (half-caster) |
+| **Fuente mágica** | Arcana (semi-caster) |
 | **Armas principales** | Bastón (placeholder) |
 | **Equipamiento inicial** | Túnicas de lino moradas (placeholder) |
 
