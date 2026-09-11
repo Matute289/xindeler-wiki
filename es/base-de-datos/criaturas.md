@@ -18,7 +18,7 @@ Algunas especies: Sabertooths, Tigres, Tuskrams, Leones, Lobos, Frostfangs, Osos
 Insectos gigantes, aves de presa de gran tamaño y crustáceos de aguas profundas con sus propias loot tables y comportamientos.
 
 ### Dragones
-Los dragones de Xindeler son criaturas de alto poder organizadas en líneas: metálicos (buenos), cromáticos (malvados) y gemas (neutrales). Ver más en la sección de [Regiones — Xandrian](/lore/regiones).
+Los dragones de Xindeler son criaturas de alto poder organizadas en líneas: metálicos (buenos), cromáticos (malvados) y gemas (neutrales). Ver más en la sección de [Regiones — Xandrian](/es/lore/regiones).
 
 ### Gólems
 Constructos de piedra, metal o magia. Algunos fueron creados por civilizaciones antiguas y aún cumplen la función para la que fueron programados. Otros... han desarrollado algo que podría llamarse voluntad propia.

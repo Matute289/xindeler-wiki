@@ -6,12 +6,12 @@ Hay **6 razas jugables** en Xindeler. Cada una otorga un pasivo permanente y una
 
 | Raza | Pasivo | Habilidad innata | Cooldown |
 |------|--------|-----------------|---------|
-| [Human](/gameplay/razas/human) | +3% recuperación de energía | Second Wind | — |
-| [Elf](/gameplay/razas/elf) | +3% velocidad de movimiento | Fleetness | — |
-| [Dwarf](/gameplay/razas/dwarf) | +2% reducción de daño recibido | Stoneblood | 90s |
-| [Orc](/gameplay/razas/orc) | +3% daño de ataque | Bloodrage | — |
-| [Gnome](/gameplay/razas/gnome) | +5% energía máxima | Shadowstep | — |
-| [Dhampir](/gameplay/razas/dhampir) | +10% resistencia a CC | Gravechill | — |
+| [Human](/es/gameplay/razas/human) | +3% recuperación de energía | Second Wind | — |
+| [Elf](/es/gameplay/razas/elf) | +3% velocidad de movimiento | Fleetness | — |
+| [Dwarf](/es/gameplay/razas/dwarf) | +2% reducción de daño recibido | Stoneblood | 90s |
+| [Orc](/es/gameplay/razas/orc) | +3% daño de ataque | Bloodrage | — |
+| [Gnome](/es/gameplay/razas/gnome) | +5% energía máxima | Shadowstep | — |
+| [Dhampir](/es/gameplay/razas/dhampir) | +10% resistencia a CC | Gravechill | — |
 
 ## Combinaciones populares
 
@@ -24,4 +24,4 @@ Hay **6 razas jugables** en Xindeler. Cada una otorga un pasivo permanente y una
 
 ## Razas del mundo
 
-Además de las razas jugables, el mundo de Xindeler está habitado por otras razas y pueblos con su propia historia y cultura. Su lore se detalla en la sección de [Lore del Mundo](/lore/historia).
+Además de las razas jugables, el mundo de Xindeler está habitado por otras razas y pueblos con su propia historia y cultura. Su lore se detalla en la sección de [Lore del Mundo](/es/lore/historia).

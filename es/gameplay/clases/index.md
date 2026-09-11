@@ -10,10 +10,10 @@ Estas cuatro tienen árboles de habilidades completos y equipamiento de inicio:
 
 | Clase | Rol | Dificultad | Fuente mágica |
 |-------|-----|-----------|---------------|
-| [Warrior](/gameplay/clases/warrior) | Daño físico / Tanque | ⭐⭐ Media | — |
-| [Mage](/gameplay/clases/mage) | Daño mágico | ⭐⭐⭐ Alta | Arcana |
-| [Cleric](/gameplay/clases/cleric) | Soporte / Sanación | ⭐⭐ Media | Divina |
-| [Rogue](/gameplay/clases/rogue) | Daño / Movilidad | ⭐⭐⭐ Alta | — |
+| [Warrior](/es/gameplay/clases/warrior) | Daño físico / Tanque | ⭐⭐ Media | — |
+| [Mage](/es/gameplay/clases/mage) | Daño mágico | ⭐⭐⭐ Alta | Arcana |
+| [Cleric](/es/gameplay/clases/cleric) | Soporte / Sanación | ⭐⭐ Media | Divina |
+| [Rogue](/es/gameplay/clases/rogue) | Daño / Movilidad | ⭐⭐⭐ Alta | — |
 
 ## Clases nuevas
 
@@ -21,16 +21,16 @@ Estas diez se sumaron al roster hace poco. Son totalmente jugables — se pueden
 
 | Clase | Rol | Dificultad | Fuente mágica |
 |-------|-----|-----------|---------------|
-| [Barbarian](/gameplay/clases/barbarian) | Daño físico / Tanque | ⭐ Baja | — |
-| [Sorcerer](/gameplay/clases/sorcerer) | Daño mágico | ⭐⭐⭐ Alta | Arcana (innata) |
-| [Warlock](/gameplay/clases/warlock) | Daño mágico | ⭐⭐⭐ Alta | Arcana (pacto) |
-| [Bard](/gameplay/clases/bard) | Soporte / Control | ⭐⭐ Media | Arcana (música) |
-| [Paladin](/gameplay/clases/paladin) | Daño / Tanque | ⭐⭐ Media | Divina (juramento) |
-| [Druid](/gameplay/clases/druid) | Daño mágico / Soporte | ⭐⭐ Media | Primal |
-| [Ranger](/gameplay/clases/ranger) | Daño / Movilidad | ⭐⭐ Media | Primal (semi-caster) |
-| [Monk](/gameplay/clases/monk) | Daño / Movilidad | ⭐⭐ Media | Ki |
-| [Artificer](/gameplay/clases/artificer) | Daño mágico / Soporte | ⭐⭐ Media | Arcana (mitad) |
-| [Blood Slayer](/gameplay/clases/blood-slayer) | Daño cuerpo a cuerpo / Magia de sangre | ⭐⭐⭐ Alta | Hemomancia + marcial |
+| [Barbarian](/es/gameplay/clases/barbarian) | Daño físico / Tanque | ⭐ Baja | — |
+| [Sorcerer](/es/gameplay/clases/sorcerer) | Daño mágico | ⭐⭐⭐ Alta | Arcana (innata) |
+| [Warlock](/es/gameplay/clases/warlock) | Daño mágico | ⭐⭐⭐ Alta | Arcana (pacto) |
+| [Bard](/es/gameplay/clases/bard) | Soporte / Control | ⭐⭐ Media | Arcana (música) |
+| [Paladin](/es/gameplay/clases/paladin) | Daño / Tanque | ⭐⭐ Media | Divina (juramento) |
+| [Druid](/es/gameplay/clases/druid) | Daño mágico / Soporte | ⭐⭐ Media | Primal |
+| [Ranger](/es/gameplay/clases/ranger) | Daño / Movilidad | ⭐⭐ Media | Primal (semi-caster) |
+| [Monk](/es/gameplay/clases/monk) | Daño / Movilidad | ⭐⭐ Media | Ki |
+| [Artificer](/es/gameplay/clases/artificer) | Daño mágico / Soporte | ⭐⭐ Media | Arcana (mitad) |
+| [Blood Slayer](/es/gameplay/clases/blood-slayer) | Daño cuerpo a cuerpo / Magia de sangre | ⭐⭐⭐ Alta | Hemomancia + marcial |
 
 ## Cómo funcionan las clases
 

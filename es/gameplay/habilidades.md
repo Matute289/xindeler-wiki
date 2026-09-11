@@ -25,7 +25,7 @@ Disponible para todas las clases. Incluye:
 
 ### Árboles de clase
 
-Cada clase tiene su propio árbol. Completo para Warrior, Mage, Cleric y Rogue. Las 10 clases que se sumaron más recientemente (Barbarian, Sorcerer, Warlock, Bard, Paladin, Druid, Ranger, Monk, Artificer, Blood Slayer) ya son jugables, pero sus árboles propios todavía están en desarrollo — ver el [listado de clases](/gameplay/clases/) para el detalle de cada una.
+Cada clase tiene su propio árbol. Completo para Warrior, Mage, Cleric y Rogue. Las 10 clases que se sumaron más recientemente (Barbarian, Sorcerer, Warlock, Bard, Paladin, Druid, Ranger, Monk, Artificer, Blood Slayer) ya son jugables, pero sus árboles propios todavía están en desarrollo — ver el [listado de clases](/es/gameplay/clases/) para el detalle de cada una.
 
 ### Árbol de Minería (Pick)
 
@@ -39,4 +39,4 @@ Los puntos se obtienen al subir de nivel (1–60). Una vez gastados, pueden reas
 
 ## Habilidades innatas de raza
 
-Las [habilidades innatas de raza](/gameplay/razas/) son independientes de los skill trees y no consumen puntos de habilidad. Son permanentes y no pueden modificarse.
+Las [habilidades innatas de raza](/es/gameplay/razas/) son independientes de los skill trees y no consumen puntos de habilidad. Son permanentes y no pueden modificarse.
