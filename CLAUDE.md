@@ -132,7 +132,7 @@ No custom Vue components — default VitePress theme extended via CSS only.
 
 - CDN root: `https://cdn.xindeler.com` → served from `/srv/xindeler/cdn` on the VPS (nginx config in `MyServerVPS/nginx/sites-available/cdn.xindeler.com`; 1-year cache, CORS `*`, no directory listing).
 - Convention on disk: `/srv/xindeler/cdn/<type>/<category>/<date>/<file>` — e.g. `images/wiki/2026-09-11/mazmorras/sunken-cathedral-dagon.webp`. `<type>` is `images` or `sounds` (established by the landing page's own assets under `images/common/` and `sounds/common/`); `<category>` for wiki-sourced assets is `wiki`; `<date>` is the upload date (`YYYY-MM-DD`), grouping a batch. Keep the same subfolder structure the wiki itself uses locally (`combate/`, `mazmorras/`, `razas/`, etc.) under the date folder.
-- Format: convert to **WebP** before uploading (smaller than PNG/JPEG at equivalent quality, matches what the landing already uses). Reference `~/MyServerVPS` for the VPS repo and SSH access (`ssh -i ~/.ssh/id_ed25519 mgrinberg@216.238.126.97`) — investigate its `nginx/sites-available/` and existing `/srv/xindeler/cdn/` layout before adding a new asset type or category, rather than inventing a new convention.
+- Format: convert to **WebP** before uploading (smaller than PNG/JPEG at equivalent quality, matches what the landing already uses). Reference `~/MyServerVPS` for the VPS repo and SSH access (`ssh -i ~/.ssh/id_ed25519 mgrinberg@greenmountain.dev`) — investigate its `nginx/sites-available/` and existing `/srv/xindeler/cdn/` layout before adding a new asset type or category, rather than inventing a new convention.
 - Markdown reference: absolute URL, e.g. `![...](https://cdn.xindeler.com/images/wiki/2026-09-11/mazmorras/sunken-cathedral-dagon.webp)` or `<img src="https://cdn.xindeler.com/...">` when width needs controlling. Never a local `/images/...` path.
 - If a licensed third-party source requires attribution (e.g. CC BY-SA content adapted from another wiki), add it via the small `.wiki-credit` CSS class (`.vitepress/theme/custom.css`) at the bottom of the page — deliberately unobtrusive (small, muted gray), not a prominent banner.
 
@@ -226,7 +226,7 @@ The source of all arcane magic in the mortal world. Mention it by name; do not e
 
 ### VPS deploy (June 2026)
 - Live at `wiki.xindeler.com` — nginx serves `/srv/xindeler/wiki/public/` (config in `MyServerVPS/nginx/sites-available/wiki.xindeler.com`)
-- VPS: `ssh -i ~/.ssh/id_ed25519 mgrinberg@216.238.126.97`
+- VPS: `ssh -i ~/.ssh/id_ed25519 mgrinberg@greenmountain.dev`
 
 ### Branch model + tag-based deploy (September 2026)
 - Repo restructured to mirror `xindeler-new-horizon`: `development` (default, continuous work) → PR → `main` (stable) → tag `v*` → deploy.
