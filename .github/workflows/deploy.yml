@@ -52,7 +52,7 @@ jobs:
         env:
           VPS_HOST: ${{ secrets.VPS_HOST }}
         run: |
-          rsync -rltvz --delete --no-owner --no-group --chmod=D2775,F664 \
+          rsync -rltvzO --delete --no-owner --no-group --chmod=D2775,F664 \
             -e "ssh -i $HOME/.ssh/deploy_key -o IdentitiesOnly=yes -o StrictHostKeyChecking=yes" \
             .vitepress/dist/ "deploy@${VPS_HOST}:"
 
