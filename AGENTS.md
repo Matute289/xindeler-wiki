@@ -212,7 +212,7 @@ The source of all arcane magic in the mortal world. Mention it by name; do not e
 ### VPS deploy (June 2026)
 - Live at `wiki.xindeler.com` — nginx serves `/srv/xindeler/wiki/public/` (config in `MyServerVPS/nginx/sites-available/wiki.xindeler.com`)
 - `.github/workflows/build.yml` rsyncs `.vitepress/dist/` to the VPS on every push to `main`
-- VPS: `ssh -i ~/.ssh/id_ed25519 mgrinberg@216.238.126.97`
+- VPS: `ssh -i ~/.ssh/id_ed25519 mgrinberg@greenmountain.dev`
 
 ### Domain migration: `greenmountain.dev` → `xindeler.com` (June 2026)
 All `xindeler.*.greenmountain.dev` subdomains (root, `wiki.`, `auth.`, `cdn.`, `docs.`, `downloads.`) now redirect (301) to their `xindeler.com` counterparts — see `MyServerVPS/nginx/sites-available/*.xindeler.greenmountain.dev`. `xindeler.com` (and its subdomains) is the canonical domain going forward; new links and docs should point there directly rather than relying on the redirect.
